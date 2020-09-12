@@ -2,6 +2,7 @@
 layout: post
 date: '2020-09-07 18:00:00 +0530'
 title: It's a Myth
+issue: 22
 description: >-
   Sometimes it can be hard to separate fact from fiction. We have spent our
   lives believing and enduring myths and misconceptions. Today, we break some.

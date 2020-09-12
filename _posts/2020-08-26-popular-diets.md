@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Most Popular Diets
+issue: 20
 date: '2020-08-26 20:00:00 +0530'
 description: >-
   Different people, different needs, different diets. There are more than two and we look at some of the most famous ones.

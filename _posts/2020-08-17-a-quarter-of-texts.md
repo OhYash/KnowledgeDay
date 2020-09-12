@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+issue: 19
 date: '2020-08-17 15:00:00 +0530'
 description: >-
   Today marks completion of my first quarter running Knowledge Day, lots

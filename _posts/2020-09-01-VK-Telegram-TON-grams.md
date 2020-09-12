@@ -1,6 +1,7 @@
 ---
 layout: post
 date: '2020-09-01 15:00:00 +0530'
+issue: 21
 title: The best of Russia. VK, Telegram and TON?
 description: >-
   These are the only two companies competing in the PC CPU master race. But
