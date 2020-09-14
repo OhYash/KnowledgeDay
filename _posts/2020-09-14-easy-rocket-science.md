@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 date: '2020-09-14 18:00:00 +0530'
 issue: 23
@@ -73,6 +72,9 @@ And that’s not all. If you saw the work gravity somewhere, you know Newton’s
 But… wait, we didn’t discuss how to make it go up instead of in some other direction. Because face it, little instability and you’ll see gravity directing the rocket’s path. And if the science of bad luck is to be believed in, the pointy nose guy will be running towards **you** in no time.  
 
 To make it stable, you gotta take care of the center of gravity (the center of mass) and the center of pressure.  
+
+![Rocket CG and CP](http://www.nasa.gov/images/content/558273main_rocket-direction.jpg)
+*Image Credit: NASA*
 
 The **center of gravity(`cg`)** is the point where the rocket can be perfectly balanced.  
 The **center of pressure(`cp`)** on the other hand only exists when the air is flowing past the rocket in a flight. It’s the location with an average of drag forces.  
