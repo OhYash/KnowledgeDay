@@ -25,7 +25,7 @@ I personally started reading bits about space and rocket science out of interest
   
 I also covered an article on Elon Musk’s businesses, which includes SpaceX – the only private Space exploration business which has managed to beat a lot of space agencies. Be sure to check it out [here](https://telegra.ph/First-Uber-then-the-driver-06-14).  
   
-Behold this issue coves what makes a rocket do that – escape the land. With data sourced directly from [NASA’s website](https://cutt.ly/pfPp8mK). Maybe we could create rockets of our own.  
+Behold this issue covers what makes a rocket do that – escape the land. With data sourced directly from [NASA’s website](https://cutt.ly/pfPp8mK). Maybe we could create rockets of our own.  
 
 # Aeronautical vs Aerospace
 
