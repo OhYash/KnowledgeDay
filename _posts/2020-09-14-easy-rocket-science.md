@@ -29,7 +29,7 @@ Behold this issue coves what makes a rocket do that – escape the land. With da
 
 # Aeronautical vs Aerospace
 
-So I attempted the EF Standard English Test yesterday and it had one part in the listening section talking about rocket science, coincidental? Maybe.  
+So I attempted the [EF Standard English Test](https://cutt.ly/MfPsc4y) yesterday and it had one part in the listening section talking about rocket science, coincidental? Maybe.  
 
 It’ll be a good idea to share what the scientist shared there.  
 
@@ -53,10 +53,9 @@ The propellant system obviously contains the fuel and oxidizers to provide oxyge
  
 When a rocket is in flight, four forces act on it: **weight**, **thrust**, and two aerodynamic forces: **drag** and **lift**.  
 
-**Weight** obviously is units of how much the gravity loves the rocket.
+**Weight** obviously is units of how much the gravity loves the rocket.  
 **Thrust** is the propulsion system’s reply to gravity, it pushes the rocket up <sub><sup>(usually)</sup></sub>.  
-
-**Drag** is air’s reply to gravity. (The air friction)
+**Drag** is air’s reply to gravity. (The air friction)  
 **Lift** is what takes you from the ground to the cinema hall, in malls. jk, it’s some sort of aerodynamic force which acts at a 90-degree angle to the direction. (Not so significant on rockets but more applicable to planes and helicopters)  
   
 And that’s not all. If you saw the work gravity somewhere, you know Newton’s gonna come and put rules and regulations on the table. Enter Newton’s laws of motion:  
