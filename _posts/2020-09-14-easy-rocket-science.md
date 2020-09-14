@@ -1,5 +1,20 @@
 ---
 published: false
+layout: post
+date: '2020-09-14 18:00:00 +0530'
+issue: 23
+title: Making your rocket is super easy. Heres how.
+description: >-
+  "It's rocket science" is said for something difficult. What if Rocket science
+  itself isnt. Find out...
+img: rocket_launch.jpg
+fig-caption: Rocket Science
+tags:
+  - Rocket
+  - Science
+  - Space
+  - NASA
+  - DIY
 ---
 Howdy? I hear California is on fire! More than 3% of the state’s roughly 100 million acres of land, making 2020 **also** the largest wildfire season. (Remember, the Australian fires happened this year itself). Nature is doing it’s best to clean up this set of species of the earth, to pave way for the next life.  
   
