@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Howdy? I hear California is on fire! More than 3% of the state’s roughly 100 million acres of land, making 2020 **also** the largest wildfire season. (Remember the Australian fires happened this year only). Nature is doing it’s best to clean up this set of species of the earth, to pave way for the next life.  
+Howdy? I hear California is on fire! More than 3% of the state’s roughly 100 million acres of land, making 2020 **also** the largest wildfire season. (Remember, the Australian fires happened this year itself). Nature is doing it’s best to clean up this set of species of the earth, to pave way for the next life.  
   
 Which calls in the need to escape the place, while we can. Today’s article aims to address that.  
   
@@ -11,7 +11,7 @@ I personally started reading bits about space and rocket science out of interest
   
 I also covered an article on Elon Musk’s businesses, which includes SpaceX – the only private Space exploration business which has managed to beat a lot of space agencies. Be sure to check it out [here](https://telegra.ph/First-Uber-then-the-driver-06-14).  
   
-Behold this issue coves what makes a rocket do that – escape the land. With data sourced directly from NASA’s website. Maybe we could create rockets of our own.  
+Behold this issue coves what makes a rocket do that – escape the land. With data sourced directly from [NASA’s website](https://cutt.ly/pfPp8mK). Maybe we could create rockets of our own.  
 
 # Aeronautical vs Aerospace
 
@@ -21,7 +21,7 @@ It’ll be a good idea to share what the scientist shared there.
 
 Both Aeronautical and Aerospace streams deal with non-living flying objects, with the potential to carry humans. The difference is, in brief, **aeronautical** deals with flights **in** earth’s atmosphere, while **aerospace** covers both atmospheric and outer space realms.  
 
-*Question. Why not deal with **only** outer space in the Aerospace field?*
+*Question. Why not deal with **only** outer space in the Aerospace field?*  
 Good question. But if you think about it, we can’t ignore the fact that to get into space, we have to go **through** the atmosphere. And none of the principles relating to air pressure and drag (air friction) apply outside of our atmosphere.  
   
 The smart guys at the research centers have to take both into account.  
@@ -40,14 +40,14 @@ The propellant system obviously contains the fuel and oxidizers to provide oxyge
 When a rocket is in flight, four forces act on it: **weight**, **thrust**, and two aerodynamic forces: **drag** and **lift**.  
 
 **Weight** obviously is units of how much the gravity loves the rocket.
-**Thrust** is the propulsion system’s reply to gravity, it pushes the rocket up (usually).  
+**Thrust** is the propulsion system’s reply to gravity, it pushes the rocket up <sub><sup>(usually)</sup></sub>.  
 
 **Drag** is air’s reply to gravity. (The air friction)
 **Lift** is what takes you from the ground to the cinema hall, in malls. jk, it’s some sort of aerodynamic force which acts at a 90-degree angle to the direction. (Not so significant on rockets but more applicable to planes and helicopters)  
   
 And that’s not all. If you saw the work gravity somewhere, you know Newton’s gonna come and put rules and regulations on the table. Enter Newton’s laws of motion:  
 
-**1st Law *(Law of Inertia)***: The rocket will stay on the launchpad until a force blasts it off. (Yeah, these lazy bums need fire in the butt too)  
+**1st Law *(Law of Inertia)***: The rocket will stay on the launchpad until a force blasts it off. <sub><sup>(Yeah, these lazy bums need fire in the butt too)</sup></sub>  
 
 **2nd Law *(F=ma)***: All the forces acting on the rocket form all sorts of directions. They define the mass of the rocket at any time. That is varying because as the rocket burns off its fuel, the mass of the rocket will decrease.  
 
