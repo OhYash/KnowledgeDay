@@ -2,7 +2,7 @@
 layout: post
 date: '2020-09-14 18:00:00 +0530'
 issue: 23
-title: Making your rocket is super easy. Heres how.
+title: Making your rocket is super easy. Here's how.
 description: >-
   "It's rocket science" is said for something difficult. What if Rocket science
   itself isnt. Find out...
