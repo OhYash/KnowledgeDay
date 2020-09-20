@@ -1,36 +1,13 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Knowledge•Day
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+The only blog-cum-newsletter about everything! No pointers, pure content.  
+Charge your curiosity, It's free Knowledge!
 
-## Demo
+Every single post is posted on the website and sent over as email newsletter.  
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+Never miss a post. Just sign up here - https://cutt.ly/mfiHvFA
 
-The main page would look like this:
+# Website tech
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
-
-## License
-
-GNU General Public License v3.0
-
-## Donate
-
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
+Static website built using Jekyll framework.  
+Theme used: [Flexible-Jekyll](Flexible-Jekyll)

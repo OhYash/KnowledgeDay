@@ -14,7 +14,7 @@ layout: main
   {% endif %}
   <div class="post-content">
     <h2 class="post-title">
-		<a href={{ page-link }}>
+		<a href={{ page-link }} {% if post.external-link %}target="_blank" rel="noopener noreferrer"{% endif %}>
         {% if post.issue %}
 			<span class="OrangeColor"><b>{{ post.issue }} </b></span> 
         {% endif %}
@@ -29,7 +29,7 @@ layout: main
 		{% endif %}
 	</p>
     <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
-    <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    <span class="post-words">{% assign words = post.content | number_of_words %}{% if words < 500 %}{% assign words = 501 %}{% endif %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
   </div>
 </article>
 {% endfor %}
