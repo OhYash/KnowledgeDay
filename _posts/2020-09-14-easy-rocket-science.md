@@ -15,6 +15,7 @@ tags:
   - Space
   - NASA
   - DIY
+published: true
 ---
 Howdy? I hear California is on fire! More than 3% of the state’s roughly 100 million acres of land, making 2020 **also** the largest wildfire season. (Remember, the Australian fires happened this year itself). Nature is doing it’s best to clean up this set of species of the earth, to pave way for the next life.  
   
@@ -57,7 +58,8 @@ When a rocket is in flight, four forces act on it: **weight**, **thrust**, and t
 **Weight** obviously is units of how much the gravity loves the rocket.  
 **Thrust** is the propulsion system’s reply to gravity, it pushes the rocket up <sub><sup>(usually)</sup></sub>.  
 **Drag** is air’s reply to gravity. (The air friction)  
-**Lift** is what takes you from the ground to the cinema hall, in malls. jk, it’s some sort of aerodynamic force which acts at a 90-degree angle to the direction. (Not so significant on rockets but more applicable to planes and helicopters)  
+**Lift** is what takes you from the ground to the cinema hall, in malls. jk, ~it’s some sort of aerodynamic force which acts at a 90-degree angle to the direction~  
+**Update** *(pointed out by [Saurabh](https://www.linkedin.com/in/saurabh-bagare/), Rocket Scientist)*: lift is for controlling the rocket with free stream air hugging it from the sides - i.e. perpendicular to the rocket.  
   
 And that’s not all. If you saw the work gravity somewhere, you know Newton’s gonna come and put rules and regulations on the table. Enter Newton’s laws of motion:  
 
