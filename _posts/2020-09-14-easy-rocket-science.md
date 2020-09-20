@@ -75,7 +75,7 @@ But… wait, we didn’t discuss how to make it go up instead of in some other d
 
 To make it stable, you gotta take care of the center of gravity (the center of mass) and the center of pressure.  
 
-![Rocket CG and CP](https://www.nasa.gov/images/content/5(https://www.nasa.gov/images/content/558273main_rocket-direction.jpg)
+![Rocket CG and CP](https://www.nasa.gov/images/content/558273main_rocket-direction.jpg)
 *Image Credit: NASA*
 
 The **center of gravity(`cg`)** is the point where the rocket can be perfectly balanced.  
