@@ -1,5 +1,22 @@
 ---
 published: false
+layout: post
+date: '2020-09-22 18:00:00 +0530'
+issue: 24
+description: >-
+  We have a space station out there for Astronauts to chill at and we've also
+  landed on the moon. But what's the farthest We've gone?
+img: Voyager.jpg
+fig-caption: Voyager
+tags:
+  - Rocket
+  - Science
+  - Voyager
+  - Interstellar
+  - Space
+  - NASA
+  - JPL
+title: Bon Voyage - Interstellar travel with Voyagers
 ---
 Hey there %first_name%,
 
