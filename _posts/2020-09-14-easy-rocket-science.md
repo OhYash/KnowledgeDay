@@ -59,7 +59,7 @@ When a rocket is in flight, four forces act on it: **weight**, **thrust**, and t
 **Thrust** is the propulsion system’s reply to gravity, it pushes the rocket up <sub><sup>(usually)</sup></sub>.  
 **Drag** is air’s reply to gravity. (The air friction)  
 **Lift** is what takes you from the ground to the cinema hall, in malls. jk, <s>it’s some sort of aerodynamic force which acts at a 90-degree angle to the direction</s>  
-**Update** *(pointed out by [Saurabh](https://www.linkedin.com/in/saurabh-bagare/), Rocket Scientist)*: lift is for controlling the rocket with free stream air hugging it from the sides - i.e. perpendicular to the rocket.  
+**Update** *(Thanks [Saurabh](https://www.linkedin.com/in/saurabh-bagare/) - Rocket Scientist, for pointing out)*: lift is for stabilising the rocket with free stream air hugging it from the sides - i.e. perpendicular to the rocket.  
   
 And that’s not all. If you saw the work gravity somewhere, you know Newton’s gonna come and put rules and regulations on the table. Enter Newton’s laws of motion:  
 
