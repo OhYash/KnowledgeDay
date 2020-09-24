@@ -21,7 +21,7 @@ social-email: KnowledgeDay@protonmail.com # add your Email address
 discus-identifier: knowledgeday # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-178066231-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown

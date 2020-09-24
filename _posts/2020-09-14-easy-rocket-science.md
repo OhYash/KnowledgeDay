@@ -11,9 +11,11 @@ fig-caption: Rocket Science
 tags:
   - Rocket
   - Science
+  - Physics
   - Space
   - NASA
   - DIY
+published: true
 ---
 Howdy? I hear California is on fire! More than 3% of the state’s roughly 100 million acres of land, making 2020 **also** the largest wildfire season. (Remember, the Australian fires happened this year itself). Nature is doing it’s best to clean up this set of species of the earth, to pave way for the next life.  
   
@@ -25,7 +27,7 @@ I personally started reading bits about space and rocket science out of interest
   
 I also covered an article on Elon Musk’s businesses, which includes SpaceX – the only private Space exploration business which has managed to beat a lot of space agencies. Be sure to check it out [here](https://telegra.ph/First-Uber-then-the-driver-06-14).  
   
-Behold this issue covers what makes a rocket do that – escape the land. With data sourced directly from [NASA’s website](https://cutt.ly/pfPp8mK). Maybe we could create rockets of our own.  
+Behold this issue covers what makes a rocket do that – escape the land. With data sourced directly from [NASA’s website](https://cutt.ly/pfPp8mK ). Maybe we could create rockets of our own.  
 
 # Aeronautical vs Aerospace
 
@@ -56,7 +58,8 @@ When a rocket is in flight, four forces act on it: **weight**, **thrust**, and t
 **Weight** obviously is units of how much the gravity loves the rocket.  
 **Thrust** is the propulsion system’s reply to gravity, it pushes the rocket up <sub><sup>(usually)</sup></sub>.  
 **Drag** is air’s reply to gravity. (The air friction)  
-**Lift** is what takes you from the ground to the cinema hall, in malls. jk, it’s some sort of aerodynamic force which acts at a 90-degree angle to the direction. (Not so significant on rockets but more applicable to planes and helicopters)  
+**Lift** is what takes you from the ground to the cinema hall, in malls. jk, <s>it’s some sort of aerodynamic force which acts at a 90-degree angle to the direction</s>  
+**Update** *(Thanks [Saurabh](https://www.linkedin.com/in/saurabh-bagare/) - Rocket Scientist, for pointing out)*: lift is for stabilising the rocket with free stream air hugging it from the sides - i.e. perpendicular to the rocket.  
   
 And that’s not all. If you saw the work gravity somewhere, you know Newton’s gonna come and put rules and regulations on the table. Enter Newton’s laws of motion:  
 
@@ -72,7 +75,7 @@ But… wait, we didn’t discuss how to make it go up instead of in some other d
 
 To make it stable, you gotta take care of the center of gravity (the center of mass) and the center of pressure.  
 
-![Rocket CG and CP](http://www.nasa.gov/images/content/558273main_rocket-direction.jpg)
+![Rocket CG and CP](https://www.nasa.gov/images/content/558273main_rocket-direction.jpg)
 *Image Credit: NASA*
 
 The **center of gravity(`cg`)** is the point where the rocket can be perfectly balanced.  
