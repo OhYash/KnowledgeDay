@@ -40,9 +40,10 @@ Reminder again: Overload yourself with chocolates and you'll gain weight. Which 
 Don't brown paint your face just yet. You gotta drink it. According to sciencenews.org, women who drank a cocoa drink rich in flavonoids made their skin look better and protected it from ultrviolet-light damage.
 
 ## But Which chocolate?
-You probably have noticed I have been talking about dark chocolate and not the milk chocolate. That's because milk chocolate is high in sugar and fats (Contains about 30% cocoa). Dark chocolate with over 70% cocoa is considered healthiest with rich antioxidants, polyphenos and flavonoids, in easy language only dark chocolates carry the above benefits.
-*Who eats dark chocolate? It's so untasty*;  
-Chocolate has been cosumed unsweetened for 90% of its history. Beat that.
+You probably have noticed I have been talking about dark chocolate and not the milk chocolate. That's because **milk chocolate** is high in sugar and fats (Contains only about **30% cocoa**). **Dark chocolate** with over **70% cocoa** is considered healthiest with rich antioxidants, polyphenos and flavonoids, in easy language only dark chocolates carry the above benefits.
 
-Oh, and about white chocolate? Well I never considered it chocolate. Annnd while researching for this article, I come to know... That it indeed is a misnomer! White chocolate does not contain any cocoa powder, so nothing above applies to it.  
+> *Who eats dark chocolate? It's so untasty*; 
+ Chocolate has been cosumed unsweetened for 90% of its history. Beat that.
+
+Oh, and about **white chocolate**? Well I never considered it chocolate. Annnd while researching for this article, I come to know... That it indeed is a misnomer! White chocolate does **not** contain any **cocoa** powder, so nothing above applies to it.  
 But.. it effectively is milk, which isn't bad, so there's that.
