@@ -1403,10 +1403,9 @@ input[type=submit] {
 	background-color: #FC6600;
 	color: white;
 	padding: 14px 20px;
-	margin-left: -10px;
+	/*margin-left: -10px;*/
 	border: 1px solid #FC6600;
-	border-top-right-radius: 10px;
-	border-bottom-right-radius: 10px;
+	border-radius: 10px;
 	cursor: pointer;
 	font-weight: bold;
 }
@@ -1526,5 +1525,8 @@ input[type=submit] {
   }
   .post .post-content .post-title a {
     font-size: 21px;
+  }
+  input[type=text], input[type=submit] {
+    width: 100%;
   }
 }
