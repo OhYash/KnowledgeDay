@@ -956,8 +956,8 @@ table tfoot td {
 }
 
 .about .cover-author-image:hover {
-   background-color: #333030;
-}
+  background-color: #333030;
+  }
 
 .about img {
   width: 100%;
@@ -1389,6 +1389,27 @@ a.newer-posts:hover {
   opacity: .8;
 }
 
+input[type=text] {
+	width: 75%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 3px solid #FC6600;
+	border-radius: 10px;
+	box-sizing: border-box;
+}
+input[type=submit] {
+	/*width: 20%;*/
+	background-color: #FC6600;
+	color: white;
+	padding: 14px 20px;
+	/*margin-left: -10px;*/
+	border: 1px solid #FC6600;
+	border-radius: 10px;
+	cursor: pointer;
+	font-weight: bold;
+}
+
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
@@ -1504,5 +1525,8 @@ a.newer-posts:hover {
   }
   .post .post-content .post-title a {
     font-size: 21px;
+  }
+  input[type=text], input[type=submit] {
+    width: 100%;
   }
 }
