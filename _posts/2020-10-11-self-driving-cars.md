@@ -13,3 +13,6 @@ Doesn't matter, lets come to the topic. We all know humans are susceptible to Co
 Tech Giants like Waymo(Alphabet), Uber, Tesla, and more have been investing heavily for years to enable the machines with wheels to run free of human control and not be a victim of human brutality - read "Road accidents".  
 
 Being able to let AI decide our pathway and transport is a thing of future. But today, we look into how are they aiming to achieve it.
+
+# How does it work - Self-driving cars
+
