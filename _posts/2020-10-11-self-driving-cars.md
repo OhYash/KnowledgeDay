@@ -3,4 +3,5 @@ published: false
 ---
 Hey there,  
 
-How are you doing? Times have changed and we're befriending the virus and not hinding anymore.  
+You're probably well and doing good. I won't ask. But I have another question, how do you find the new template.?! Bitchin' right 😏.
+
