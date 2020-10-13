@@ -16,7 +16,7 @@ Being able to let AI decide our pathway and transport is a thing of future. But 
 
 # How does it work - Self-driving cars
 In a nutshell, they work by understanding the environment and try to get to a destination without touching any thing in between.  
-In a little more (yet still overview) detail, it's a five part process.
+In a little more (yet still an overview) detail, it's a five part process.
 ![Self Driving Cars parts]()
 **Image From Youtube - [TEDxWilmingtonSalon](https://www.youtube.com/watch?v=Ly92UcnoEMY)**
 
@@ -36,4 +36,4 @@ The current lane, and then where to switch lane because there's a crack in the r
 
 ## 4. Control
 All the steps above relate to knowing and designing the path to the destination or say to the next exit.  
-But what comes after knowledge? <sub><sup>(day!)</sup></sub> No. The DO comes after it. The car actually has to do something to go that path it just planned. That requires controlling the breaks, acceleration, steering and 
+But what comes after knowledge? <sub><sup>(day!)</sup></sub> No. The DO comes after it. The car actually has to do something to go that path it just planned. That requires controlling the breaks, acceleration, steering and gearing.
