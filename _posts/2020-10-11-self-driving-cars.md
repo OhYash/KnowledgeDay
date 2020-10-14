@@ -56,8 +56,9 @@ Doesn't mean it can't have accident, it just won't be the reason for the acciden
 In a nutshell, they work by understanding the environment and try to get to a destination without touching anything in between.  
 
 In a little more (yet still an overview) detail, it's a five-part process.
+
 ![Self Driving Cars parts]({{site.baseurl}}/assets/img/self_driving_steps.png)
-**Image From Youtube - [TEDxWilmingtonSalon](https://www.youtube.com/watch?v=Ly92UcnoEMY)**
+*Image From Youtube - [TEDxWilmingtonSalon](https://www.youtube.com/watch?v=Ly92UcnoEMY)*
 
 Let's quickly look at them one by one:  
 
