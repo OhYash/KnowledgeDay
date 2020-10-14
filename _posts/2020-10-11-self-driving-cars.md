@@ -81,4 +81,4 @@ But what comes after knowledge? <sub><sup>(🗣️ day!.)</sup></sub>
 No. The **DO** comes after it.  
 The car actually has to *do* something to go that path it just planned. That requires controlling the acceleration, steering, gearinga and sometimes even braking.
 
-That's it! That's all it takes to get these guys to drive themselves. <sub><sup>I maybe hiding some details</sup></sub>
+That's it! That's all it takes to get these guys to drive themselves. <sub><sup>(I maybe hiding some details)</sup></sub>
