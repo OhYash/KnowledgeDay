@@ -22,18 +22,21 @@ In a little more (yet still an overview) detail, it's a five part process.
 
 Let's quickly look at these one by one:
 ## 1. Computer Vision and Sensor Fusion
-Two different tech to perform common functionality - Get sense of the environment around the car.
-Computer Vision here refers to using camera to see the surroundings (or say eyes of the car) and sensor fusion refers to using sensors to understand the surroundings (lasers, radar and stuff).
-These two work together to only learn the surroundings. Which also means this step can be performed offline if the car's processors are capable enough. (Generally not, they let the data centres and remote servers do all that part)
+These two perform common functionality - They get sense of the environment around the car.  
+**Computer Vision** here refers to using camera to see the surroundings (or say eyes of the car) and **sensor fusion** refers to using sensors to understand the surroundings (lasers, radar and stuff).  
+These two work together to **learn the surroundings**. Which also means this step can be performed offline if the car's system is capable enough. (Generally not, they let the data centers and remote servers do all that part. So they can offload the calculations to bespoke systems <sub><sup>(and track you everywhere)</sup></sub>)
 
 ## 2. Localization
-Correctly guessed, it's the GPS based localication to know the car's position on the globe. But that's not it, that part even a smartphone can do.  
-This localization has to be synced with the surroundings data from step #1 to accurately define the car's position. Few feets off and you BatMobil would be running on the footpath.
+Correctly guessed! It's the GPS based localication to know the car's position on the globe. But that's all, because that tiny job even a smartphone can do.   
+This localization has to be synced with the surroundings data from step #1 to accurately define the car's position. Few feets off and you BatMobil would be running on the footpath.  
 
 ## 3. Path Planning
-Not just the GPS navigation. The path plannig here refers to the literal path the car would be running on.   
-The current lane, and then where to switch lane because there's a crack in the road ahead. That all has to be planned.
+*Stairway to heaven*  
+**Path plannig** here refers to the literal path that the car would be running on.  
+The current lane, and then when to switch lane because there's a crack in the road ahead. All that has to be planned by the system.  
 
 ## 4. Control
 All the steps above relate to knowing and designing the path to the destination or say to the next exit.  
-But what comes after knowledge? <sub><sup>(day!)</sup></sub> No. The DO comes after it. The car actually has to do something to go that path it just planned. That requires controlling the breaks, acceleration, steering and gearing.
+But what comes after knowledge? <sub><sup>(🗣️ day!.)</sup></sub>  
+No. The **DO** comes after it.  
+The car actually has to *do* something to go that path it just planned. That requires controlling the acceleration, steering, gearing and sometimes even braking.
