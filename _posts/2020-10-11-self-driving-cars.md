@@ -1,5 +1,20 @@
 ---
 published: false
+layout: post
+date: '2020-10-14 15:00:00 +0530'
+issue: 27
+title: How do the self driving cars work ?
+description: >-
+  Look ma, no hands! are not going to be someone's last words if the cars
+  started driving themselves. But how does that work?
+img: tesla_autopilot.jpg
+fig-caption: Tesla
+tags:
+  - Computer Vision
+  - Sensors
+  - Cars
+  - Self driving
+  - Autonomous
 ---
 Hey there,  
 
@@ -41,7 +56,7 @@ Doesn't mean it can't have accident, it just won't be the reason for the acciden
 In a nutshell, they work by understanding the environment and try to get to a destination without touching any thing in between.  
 
 In a little more (yet still an overview) detail, it's a five part process.
-![Self Driving Cars parts]()
+![Self Driving Cars parts]({{site.baseurl}}/assets/img/self_driving_steps.png)
 **Image From Youtube - [TEDxWilmingtonSalon](https://www.youtube.com/watch?v=Ly92UcnoEMY)**
 
 Let's quickly look at these one by one:  
@@ -65,3 +80,5 @@ All the steps above relate to knowing and designing the path to the destination 
 But what comes after knowledge? <sub><sup>(🗣️ day!.)</sup></sub>  
 No. The **DO** comes after it.  
 The car actually has to *do* something to go that path it just planned. That requires controlling the acceleration, steering, gearing and sometimes even braking.
+
+That's it! That's all it takes to get these guys to drive themselves. <sub><sup>I maybe hiding some details</sup></sub>
