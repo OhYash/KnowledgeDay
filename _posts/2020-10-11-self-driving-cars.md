@@ -8,7 +8,7 @@ Took me a little while to fixate on this design, and it's still not complete. Th
 
 But that's okay, it'll come in soon. You anyway never clicked on it in any of the previous emails I know 😒.
 
-Doesn't matter, lets come to the topic. We all know humans are susceptible to Covod-19 virus and that includes Trump, even if [he believes otherwise](https://twitter.com/realDonaldTrump/status/1315316071243476997)🤦.  But you want can go out and not catch Corona Virus? Your Car!  
+Doesn't matter, lets come to the topic. We all know humans are susceptible to Covod-19 virus and that includes Trump, even if [he believes otherwise](https://twitter.com/realDonaldTrump/status/1315316071243476997)🤦.  But do you know who can go out and bring Burger from McD and not catch Corona Virus? Your Car!  
 
 Tech Giants like Waymo(Alphabet), Uber, Tesla, and more have been investing heavily for years to enable the machines with wheels to run free of human control and not be a victim of human brutality - read "Road accidents".  
 
@@ -16,6 +16,14 @@ Being able to let AI decide our pathway and transport is a thing of future. But 
 
 # How does it work - Self-driving cars
 In a nutshell, they work by understanding the environment and try to get to a destination without touching any thing in between.  
+
+Autonomous driving is not a single definition about self controlling cars. There are levels about how much can a vehicle be self sufficient. Ranging from Nothing self controlled to everything. I'll pick them up individually real quick.
+
+## Level 0: 0 Self drivability
+^ This title explains it all. But technically no. You can still make a car go by itself, just put it in a gear and slam a brick on the acceleration pedal. ;)
+
+
+
 In a little more (yet still an overview) detail, it's a five part process.
 ![Self Driving Cars parts]()
 **Image From Youtube - [TEDxWilmingtonSalon](https://www.youtube.com/watch?v=Ly92UcnoEMY)**
