@@ -1,11 +1,11 @@
 # Knowledge•Day
 
-The only blog-cum-newsletter about everything! No pointers, pure content.  
+The only blog-cum-newsletter about everything! No links, pure content.  
 Charge your curiosity, It's free Knowledge!
 
 Every single post is posted on the website and sent over as email newsletter.  
 
-Never miss a post. Just sign up here - https://cutt.ly/mfiHvFA
+Never miss a post. Just sign up here - https://ohyash.github.io/KnowledgeDay
 
 # Website tech
 
