@@ -9,8 +9,15 @@ layout: default
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="author-name">{{site.title}}</div>
-      <p>{{site.description}}</p>
-    </div>
+      <p>{{site.description}}<br/>
+        <strong>Sign up</strong> for weekly newsletter 👇
+      </p>
+
+    <form action="https://formspree.io/xayponar" method="POST">
+      <input class="text-input-main" type="text" id="email" name="email" placeholder="Your email address">
+      <input class="submit-input" type="submit" value="Subscribe">
+    </form>
+  </div>
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
