@@ -1389,16 +1389,16 @@ a.newer-posts:hover {
   opacity: .8;
 }
 
-input[type=text] {
+.text-input {
 	width: 75%;
 	padding: 12px 20px;
 	margin: 8px 0;
 	display: inline-block;
-	border: 3px solid #FC6600;
+	border: 2px solid #FC6600;
 	border-radius: 10px;
 	box-sizing: border-box;
 }
-input[type=submit] {
+.submit-input {
 	/*width: 20%;*/
 	background-color: #FC6600;
 	color: white;
@@ -1408,6 +1408,15 @@ input[type=submit] {
 	border-radius: 10px;
 	cursor: pointer;
 	font-weight: bold;
+}
+.text-input-main {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 2px solid #FC6600;
+	border-radius: 10px;
+	box-sizing: border-box;
 }
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
@@ -1497,6 +1506,19 @@ input[type=submit] {
   .contact-title, .copyright {
     display: none;
   }
+  .text-input-main {
+    width: 70%;
+  }
+  .text-input-main, .text-input {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-right: 0px;
+  }
+  .submit-input {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin-left: 0px;
+  }
 }
 
 /* Extra Small Devices, Phones */
@@ -1526,7 +1548,8 @@ input[type=submit] {
   .post .post-content .post-title a {
     font-size: 21px;
   }
-  input[type=text], input[type=submit] {
+  .text-input, .text-input-main, .submit-input {
     width: 100%;
+    border-radius: 10px;
   }
 }

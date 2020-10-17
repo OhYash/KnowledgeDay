@@ -9,14 +9,14 @@ layout: main
 	  {% assign page-link = post.url | prepend: site.baseurl %}
   {% endif %}
   {% if post.img %}
-    <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{ page-link }}"></a>
+    <a class="post-thumbnail" style='background-image: url({{ "/assets/img/" | prepend: site.baseurl | append : post.img}})' href="{{ page-link }}"></a>
   {% else %}
   {% endif %}
   <div class="post-content">
     <h2 class="post-title">
 		<a href={{ page-link }} {% if post.external-link %}target="_blank" rel="noopener noreferrer"{% endif %}>
         {% if post.issue %}
-			<span class="OrangeColor"><b>{{ post.issue }} </b></span> 
+			<span class="OrangeColor"><b>{{ post.issue }} | </b></span> 
         {% endif %}
         {{post.title}}
 		</a>
