@@ -16,14 +16,7 @@ tags:
   - Self driving
   - Autonomous
 ---
-Hey there,  
-
-Yes, I'm late again. I blame my time management skills. But screw that, for I have a question: How do you find the new template.?!  
-Took me a little while to fixate on this design, and it's still not complete. There are no social connect icons for the starters.  
-
-But that's okay, it'll come in soon. You anyway never clicked on it in any of the previous emails I know 😒.  
-
-Doesn't matter, lets come to the topic. We all know humans are susceptible to the Covid-19 virus and that includes Trump, even if [he believes otherwise](https://twitter.com/realDonaldTrump/status/1315316071243476997)🤦.  But do you know who can go out and bring Burger from McD and not catch Corona Virus? Your Car!  
+We all know humans are susceptible to the Covid-19 virus and that includes Trump, even if [he believes otherwise](https://twitter.com/realDonaldTrump/status/1315316071243476997)🤦.  But do you know who can go out and bring Burger from McD and not catch Corona Virus? Your Car!  
 
 Tech Giants like Waymo(Alphabet), Uber, Tesla, and more have been investing heavily for years to enable the machines with wheels to run free of human control and not be a victim of human brutality - read "Road accidents".    
 
