@@ -1412,10 +1412,10 @@ a.newer-posts:hover {
 .text-input-main {
 	width: 100%;
 	padding: 12px 20px;
-	margin: 8px 0;
+	margin: 0px 0px 3px 0px;
 	display: inline-block;
 	border: 2px solid #FC6600;
-	border-radius: 10px;
+	border-radius: 7px;
 	box-sizing: border-box;
 }
 
@@ -1507,16 +1507,9 @@ a.newer-posts:hover {
     display: none;
   }
   .text-input-main {
-    width: 70%;
-  }
-  .text-input-main, .text-input {
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
-    margin-right: 0px;
+    width: 48%;
   }
   .submit-input {
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
     margin-left: 0px;
   }
 }
