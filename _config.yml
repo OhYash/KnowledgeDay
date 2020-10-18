@@ -2,8 +2,8 @@ title: Knowledge•Day
 description: > # this means to ignore newlines until "baseurl:"
   Blog-cum-newsletter about everything! No links, pure content.
 permalink: ':title/'
-baseurl: "/KnowledgeDay" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://knowledgeday.in" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: KnowledgeDayNL #if your site has a twitter account, enter it here
 
 # Author Settings
