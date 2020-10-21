@@ -5,7 +5,7 @@ Charge your curiosity, It's free Knowledge!
 
 Every single post is posted on the website and sent over as email newsletter.  
 
-Never miss a post. Just sign up here - https://ohyash.github.io/KnowledgeDay
+Never miss a post. Just sign up here - https://KnowledgeDay.in
 
 # Website tech
 
