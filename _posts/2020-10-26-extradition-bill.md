@@ -26,4 +26,4 @@ Hong Kong wasn't the same, it had become a communist land under British and even
 
 Which is nice, and even the chinese citizens like it. To an extent that 100,000 chinese found [refuge in Hong Kong](https://www.scmp.com/news/hong-kong/community/article/2125451/explainer-how-hong-kong-has-decades-been-magnet-refugees) after the communist party took power.
 
-## Extradition thing
+## Extradition Bill of 2019
