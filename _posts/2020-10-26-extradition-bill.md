@@ -16,4 +16,8 @@ If you know you, know - this issue is about China and Hong Kong. Well, mainly Ho
 Now, before I began with the protests, I think it's fair to bring up a history for context in everything. Because the title is not related to the protests anyway.  
 
 ## Hong Kong's not so simple History
-The time is 1841, and the first Opium war <sub><sup>(Mmmm)</sup></sub> is going on since 1839
+The time is 1841, and the British have won the the first Opium war <sub><sup>(Mmmm)</sup></sub> against China. What do they get? Hong Kong.  
+
+***Why'd the war happen?***  
+The war broke out after Qing-dynasty China attempted to crack down an illegal opium trade that led to widespread addiction in China.   
+Much of a lending than a total take over as under the terms of the treaty, China would regain the control of its leased lands on July 1, 1997. And they did, and they did.
