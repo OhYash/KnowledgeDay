@@ -22,6 +22,6 @@ The time is 1841, and the British have won the the first Opium war <sub><sup>(Mm
 The war broke out after Qing-dynasty China attempted to crack down an [illegal opium trade](https://www.bl.uk/learning/histcitizen/trading/story/trade/4tradingplaces.html) that led to widespread addiction in China.   
 
 However it was more of a lending than a total takeover as under the terms of the treaty, China would regain the control of its leased lands on July 1, 1997. And they did (not entirely tho).  
-Hong Kong wasn't the same, it had become a communist land under British and even the [declaration](https://www.cmab.gov.hk/en/issues/joint3.htm) that they signed, agreed that China would give some political and social autonomy through a "**One country, two systems**" policy for 50 year period.  
+Hong Kong wasn't the same, it had become a communist land under British and even the [declaration](https://www.cmab.gov.hk/en/issues/joint3.htm) that they signed, agreed that China would give some political and social autonomy through a "**One country, two systems**" policy for **50 year** period.  
 
 Which is nice, and even the chinese citizens like it. To an extent that 100,000 chinese found [refuge in Hong Kong](https://www.scmp.com/news/hong-kong/community/article/2125451/explainer-how-hong-kong-has-decades-been-magnet-refugees) after the communist party took power.
