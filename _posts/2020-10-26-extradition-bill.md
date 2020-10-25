@@ -25,3 +25,5 @@ However it was more of a lending than a total takeover as under the terms of the
 Hong Kong wasn't the same, it had become a communist land under British and even the [declaration](https://www.cmab.gov.hk/en/issues/joint3.htm) that they signed, agreed that China would give some political and social autonomy through a "**One country, two systems**" policy for 50 year period.  
 
 Which is nice, and even the chinese citizens like it. To an extent that 100,000 chinese found [refuge in Hong Kong](https://www.scmp.com/news/hong-kong/community/article/2125451/explainer-how-hong-kong-has-decades-been-magnet-refugees) after the communist party took power.
+
+## Extradition thing
