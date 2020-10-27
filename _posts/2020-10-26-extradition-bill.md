@@ -33,7 +33,7 @@ The citizens feared it, this could undermine judicial independence and endanger 
 
 Which triggered clashes between police and activists have become increasingly violent, with police firing live bullets and protesters attacking officers and throwing petrol bombs.  
 
-![Extradition bill protestors](https://cdn.cnn.com/cnnnext/dam/assets/190609082544-02-hong-kong-extradition-protest-super-tease.jpg)
+![Extradition bill protestors](https://img.kyodonews.net/english/public/images/posts/1fbcb145391819117cb71342ac72901c/photo_l.jpg)
 
 _Result_: The bill was withdrawn in September in the same year, but protesters said this was "too little, too late" and demanded full democracy.
 
