@@ -1,5 +1,20 @@
 ---
 published: false
+layout: post
+date: '2020-10-14 15:00:00 +0530'
+issue: 27
+title: How do the self driving cars work ?
+description: >-
+  Look ma, no hands! are not going to be someone's last words if the cars
+  started driving themselves. But how does that work?
+img: extradition_hero.jpg
+fig-caption: Tesla
+tags:
+  - Computer Vision
+  - Sensors
+  - Cars
+  - Self driving
+  - Autonomous
 ---
 Hey there,
 
@@ -7,7 +22,7 @@ Welcome to issue 29 of Knowledge•Day. I've got news.
 
 I attempted to do a podcast! Posted on [Aureal](https://play.google.com/store/apps/details?id=co.titandlt.auditory) which is an exciting new Podcast app. Go check it out and share it if you like, means a lot to me <3  
 
-![KD Podcast in Aureal]()
+![KD Podcast in Aureal]({{site.baseurl}}/assets/img/kd_in_aureal.jpeg)
 
 And no, the newsletter is not going anywhere just yet. You'll keep getting the beloved text from me. I'll let you go and check the Podcast out for now and I will ask about the experience in the next newsletter. For now, let's take a slice of today's knowledge. We've got a little not so funny one today 🤷  
 
