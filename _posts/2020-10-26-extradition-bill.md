@@ -50,4 +50,3 @@ The protests have silenced. Soon corona entered to change the Chinese news too. 
 Thank you for reading. And just a reminder, please do checkout my podcast it's my first attempt and all feedbacks are welcome.
 
 Thank you, good bye!
-
