@@ -1,20 +1,20 @@
 ---
 published: false
 layout: post
-date: '2020-10-14 15:00:00 +0530'
-issue: 27
-title: How do the self driving cars work ?
+date: '2020-10-28 15:00:00 +0530'
+issue: 29
+title: 'One Countries, Two systems and the Extradition Bill'
 description: >-
-  Look ma, no hands! are not going to be someone's last words if the cars
-  started driving themselves. But how does that work?
+  China had a not so smooth 2019, that's besides the discovery of the covid-19.
+  Protests, bombs, firings and street blocking. Read about it in this article
 img: extradition_hero.jpg
-fig-caption: Tesla
+fig-caption: Citizens protesting against Extradition bill
 tags:
-  - Computer Vision
-  - Sensors
-  - Cars
-  - Self driving
-  - Autonomous
+  - China
+  - Protestors
+  - Extradition
+  - Law
+  - History
 ---
 Hey there,
 
