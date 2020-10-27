@@ -40,6 +40,6 @@ _Result_: The bill was withdrawn in September in the same year, but protesters s
 ***Why did the extradition bill come up in the first place?***   
 Because it's China.  
 
-No, not really. The proposal came after a 19-year-old Hong Kong man allegedly murdered his 20-year-old pregnant girlfriend while holidaying in Taiwan together in February 2018. The man fled Taiwan and returned to Hong Kong last year.  
+No, not really. The proposal came after a 19-year-old Hong Kong man allegedly murdered his 20-year-old pregnant girlfriend while holidaying in Taiwan together in February 2018. The man fled Taiwan and returned to Hong Kong the same year.  
 
 Taiwanese officials sought help from Hong Kong authorities to extradite the man, but Hong Kong officials said they could not comply because of a lack of extradition agreement with Taiwan.
