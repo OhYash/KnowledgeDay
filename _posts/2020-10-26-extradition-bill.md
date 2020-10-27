@@ -42,4 +42,12 @@ Because it's China.
 
 No, not really. The proposal came after a 19-year-old Hong Kong man allegedly murdered his 20-year-old pregnant girlfriend while holidaying in Taiwan together in February 2018. The man fled Taiwan and returned to Hong Kong the same year.  
 
-Taiwanese officials sought help from Hong Kong authorities to extradite the man, but Hong Kong officials said they could not comply because of a lack of extradition agreement with Taiwan.
+Taiwanese officials sought help from Hong Kong authorities to extradite the man, but Hong Kong officials said they could not comply because of a lack of extradition agreement with Taiwan. 🤷
+
+The protests have silenced. Soon corona entered to change the Chinese news too. Nothing further changed apart from the Bill closure.
+
+# That's it
+Thank you for reading. And just a reminder, please do checkout my podcast it's my first attempt and all feedbacks are welcome.
+
+Thank you, good bye!
+
