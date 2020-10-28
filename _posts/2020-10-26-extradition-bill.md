@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2020-10-28 15:00:00 +0530'
 issue: 29
-title: 'One Countries, Two systems and the Extradition Bill'
+title: 'One Country, Two systems and the Extradition Bill'
 description: >-
   China had a not so smooth 2019, that's besides the discovery of the covid-19.
   Protests, bombs, firings and street blocking. Read about it in this article
