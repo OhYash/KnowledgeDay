@@ -28,7 +28,7 @@ And no, the newsletter is not going anywhere just yet. You'll keep getting the b
 
 # 2 Systems, 1 Country
 (It's actually "_One Country, Two systems_" but for some kinky reason, the title is made to sound more familiar 😉)  
-If you know you, know - this issue is about China and Hong Kong. Well, mainly Hong Kong and their anti-government protests. Something that strikes-up last year, before corona.  
+If you know, you know - this issue is about China and Hong Kong. Well, mainly Hong Kong and their anti-government protests. Something that strikes-up last year, before corona.  
 Now, before I began with the protests, I think it's fair to bring up a history for the context. Because the title is not related to the protests anyway.  
 
 ## Hong Kong's not so simple History
