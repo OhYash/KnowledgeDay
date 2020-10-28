@@ -42,7 +42,7 @@ Hong Kong wasn't the same, it had become a communist land under the British, and
 
 Which is nice, and even the Chinese citizens like it. To an extent that 100,000 Chinese found [refuge in Hong Kong](https://www.scmp.com/news/hong-kong/community/article/2125451/explainer-how-hong-kong-has-decades-been-magnet-refugees) after the communist party took power.
 
-## Extradition Bill of 2019
+## Extradition Bill
 ***But why would this thing of 1841-1997 even come up now?***   
 Glad you asked. That is because all this came up last year with people protesting against the extradition bill that was passed last year in April. It would have allowed for criminal suspects to be extradited to mainland China under certain circumstances.  
 
