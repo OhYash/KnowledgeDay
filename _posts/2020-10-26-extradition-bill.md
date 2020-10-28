@@ -20,7 +20,7 @@ Hey there,
 
 Welcome to issue 29 of Knowledge•Day. I've got news.  
 
-I attempted to do a podcast! Posted on [Aureal](https://play.google.com/store/apps/details?id=co.titandlt.auditory) which is an exciting new Podcast app. Go check it out and share it if you like, means a lot to me <3  
+I attempted to do a podcast! Posted on [Aureal](https://cutt.ly/lgEXwVf) ([Google Play](https://cutt.ly/GgEXeYo)) which is an exciting new Podcast app. Go check it out and share it if you like, means a lot to me <3  
 
 ![KD Podcast in Aureal]({{site.baseurl}}/assets/img/kd_in_aureal.jpeg)
 
@@ -64,6 +64,6 @@ Taiwanese officials sought help from Hong Kong authorities to extradite the man,
 The protests have silenced. Soon corona entered to change the Chinese news too. Nothing further changed apart from the Bill closure.
 
 # That's it
-Thank you for reading. And just a reminder, please do check out my podcast it's my first attempt and all feedback is welcome.
+Thank you for reading. And just a reminder, please do [check out my podcast](https://cutt.ly/GgEXeYo) it's my first attempt and all feedback is welcome.
 
 Thank you, goodbye!
