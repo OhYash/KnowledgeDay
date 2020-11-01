@@ -16,8 +16,11 @@ tags:
   - Law
   - History
 ---
-Today brings news: I attempted to do a podcast! Posted on [Aureal](https://app.aureal.one/Knowledge•Day/3026) which is an exciting new Podcast app. Go check it out and share it if you like, means a lot to me <3  
+Today brings news, I attempted to do a podcast! Posted on [Aureal](https://cutt.ly/lgEXwVf) ([Google Play](https://cutt.ly/GgEXeYo)) which is an exciting new Podcast app. Go check it out and share it if you like, means a lot to me <3  
+
 ![KD Podcast in Aureal]({{site.baseurl}}/assets/img/kd_in_aureal.jpeg)
+
+Update: Listen to the podcast [here](https://app.aureal.one/Knowledge•Day/3026) directly/.
 
 And no, the newsletter is not going anywhere just yet. You'll keep getting the beloved text from me. I'll let you go and check the Podcast out for now and I will ask about the experience in the next newsletter. For now, let's take a slice of today's knowledge. We've got a little not so funny one today 🤷  
 
