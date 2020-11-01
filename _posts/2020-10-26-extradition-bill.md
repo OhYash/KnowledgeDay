@@ -16,11 +16,7 @@ tags:
   - Law
   - History
 ---
-Hey there,
-
-Welcome to issue 29 of Knowledge•Day. I've got news.  
-
-I attempted to do a podcast! Posted on [Aureal](https://cutt.ly/lgEXwVf) ([Google Play](https://cutt.ly/GgEXeYo)) which is an exciting new Podcast app. Go check it out and share it if you like, means a lot to me <3  
+Today brings news: I attempted to do a podcast! Posted on [Aureal](https://app.aureal.one/Knowledge•Day/3026) which is an exciting new Podcast app. Go check it out and share it if you like, means a lot to me <3  
 
 ![KD Podcast in Aureal]({{site.baseurl}}/assets/img/kd_in_aureal.jpeg)
 
