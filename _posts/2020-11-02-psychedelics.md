@@ -5,13 +5,11 @@ date: '2020-11-02 15:00:00 +0530'
 issue: 30
 title: Fly high
 img: extradition_hero.jpg
-fig-caption: Citizens protesting against Extradition bill
+fig-caption: delusions
 tags:
   - Drugs
-  - Protestors
-  - Extradition
-  - Law
-  - History
+  - Cannabis
+  - illegal
 description: >-
   "Here, brother, I've set this up. Fly as high a you can!", said Mr. Wright to
   his mate as he offered him his freshly prepared flight.
