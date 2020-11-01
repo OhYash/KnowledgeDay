@@ -19,3 +19,18 @@ If you're like me, and probably clueless about almost all the "cool things", thi
 
 Alright, now that the cops are gone. You can feel free to share your experiences and recommendations in the comments 😉   
 
+https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/#:~:text=1%20Crack%20Cocaine.%20Crack%2C%20also%20known%20as%20crack,Benzodiazepines.%20...%209%20Ecstasy.%20...%2010%20Marijuana.%20
+
+https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/
+
+The top 10 illegal drugs are:
+1. Marijuana – Creates slowed reaction time, euphoria, relaxation and increased appetite. (Not illegal in every state)
+2. Heroin – Euphoria, drowsiness as well as impaired coordination and slowed breathing.
+3. Cocaine – Nasal damage, increased heart rate, and blood pressure, as well as increased energy and mental alertness.
+4. Methamphetamine – Can cause severe dental problems, increased heart rate, blood pressure, anxiety, and mental alertness.
+5. MDMA – Can cause sleep disturbances, depression, impaired memory, addiction as well as increased tactile sensitivity and lowered inhibition.
+6. Ketamine – Can impair memory, cause delirium as well as create a feeling of being separated from one’s body.
+7. LSD – Can increase body temperature and heart rate as well as create an altered state of perception and hallucinations.
+8. Steroids – These create no intoxication effects but can alter blood pressure and create blood clots and liver cysts.
+9. Inhalants – can give individuals muscle cramps, depression, and memory impairment as well as stimulation and loss of inhibition depending on the chemical.
+10. PCP and Analogs – Causes anxiety, tremors, numbness as well as psychosis, aggression, and violence.
