@@ -66,10 +66,14 @@ Get addicted and you'll see high levels of excitability, significant weight loss
 
 ## LSD
 ![LSD](https://static0.therichestimages.com/wordpress/wp-content/uploads/8148.jpg?q=50&fit=crop&w=740&h=495)
+*[Source](https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/)*
+
 Short for Lysergic acid diethylamide <sub><sup>(I know you didn't read it. Neither did I)</sup></sub>, it is usually administered in illegal psychotherapy and meditation. It causes real hallucinations, that can change a person's perspective, personality and goals for life long. User experience may vary. Totally recommended if you hate your life and would like to have a different view.
 
 ## Ecstasy
 ![Ecstasy](https://static0.therichestimages.com/wordpress/wp-content/uploads/7151.jpg?q=50&fit=crop&w=740&h=527)
+*[Source](https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/)*
+
 I just love that word. Feels like a rap lyric in itself. <sub><sup>(Not I'm not on drugs, trust me!)</sup></sub>  
 Ecstasy aka "love drug" is a recreational drug and causes increased awareness of one's senses. Focus on "senses", because it's usually used before having sex as it heightens your senses. Physical touch by others becomes pleasurable. Side effects include increased pulse rate and jaw clenching.
 
