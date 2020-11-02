@@ -32,6 +32,11 @@ If you're like me, and probably clueless about almost all the "cool things", thi
 
 Alright, now that the cops are gone. You can feel free to share your experiences and recommendations in the comments 😉   
 
+Let's go through what ever the public internet had for me:  
+
+## Marijuana
+'Course I am going to start with this. My [first issue](https://www.getrevue.co/profile/KnowledgeDay/issues/good-guy-cannabis-knowledge-day-249739) was about 
+
 https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/#:~:text=1%20Crack%20Cocaine.%20Crack%2C%20also%20known%20as%20crack,Benzodiazepines.%20...%209%20Ecstasy.%20...%2010%20Marijuana.%20
 
 https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/
