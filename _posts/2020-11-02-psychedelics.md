@@ -65,7 +65,7 @@ Sounds like a marketing question, does it? Cocaine has reasons to make it popula
 Get addicted and you'll see high levels of excitability, significant weight loss <sub><sup>(you want it now, don't you)</sup></sub>, sudden mood swings and even irrational thought process.
 
 ## LSD
-![LSD]()
+![LSD](https://static0.therichestimages.com/wordpress/wp-content/uploads/8148.jpg?q=50&fit=crop&w=740&h=495)
 Short for Lysergic acid diethylamide <sub><sup>(I know you didn't read it. Neither did I)</sup></sub>, it is usually administered in illegal psychotherapy and meditation. It causes real hallucinations, that can change a person's perspective, personality and goals for life long. User experience may vary. Totally recommended if you hate your life and would like to have a different view.
 
 ## Ecstasy
