@@ -68,18 +68,7 @@ Short for Lysergic acid diethylamide <sub><sup>(I know you didn't read it. Neith
 I just love that word. Feels like a rap lyric in itself. <sub><sup>(Not I'm not on drugs, trust me!)</sup></sub>  
 Ecstasy aka "love drug" is a recreational drug and causes increased awareness of one's senses. Focus on "senses", because it's usually used before having sex as it heightens your senses. Physical touch by others becomes pleasurable. Side effects include increased pulse rate and jaw clenching.
 
-https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/#:~:text=1%20Crack%20Cocaine.%20Crack%2C%20also%20known%20as%20crack,Benzodiazepines.%20...%209%20Ecstasy.%20...%2010%20Marijuana.%20
-
-https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/
-
-The top 10 illegal drugs are:
-1. Marijuana – Creates slowed reaction time, euphoria, relaxation and increased appetite. (Not illegal in every state)
-2. Heroin – Euphoria, drowsiness as well as impaired coordination and slowed breathing.
-3. Cocaine – Nasal damage, increased heart rate, and blood pressure, as well as increased energy and mental alertness.
-4. Methamphetamine – Can cause severe dental problems, increased heart rate, blood pressure, anxiety, and mental alertness.
-5. MDMA – Can cause sleep disturbances, depression, impaired memory, addiction as well as increased tactile sensitivity and lowered inhibition.
-6. Ketamine – Can impair memory, cause delirium as well as create a feeling of being separated from one’s body.
-7. LSD – Can increase body temperature and heart rate as well as create an altered state of perception and hallucinations.
-8. Steroids – These create no intoxication effects but can alter blood pressure and create blood clots and liver cysts.
-9. Inhalants – can give individuals muscle cramps, depression, and memory impairment as well as stimulation and loss of inhibition depending on the chemical.
-10. PCP and Analogs – Causes anxiety, tremors, numbness as well as psychosis, aggression, and violence.
+## A lot more
+This list is huge tbh. Which increased as I opened more sources ofinformation for this post.  
+I'll allow you to explore all by yourselves further.  
+Sources: [serenityatsummit](https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/), [therichest](https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/), [serenityatsummit(2)](https://serenityatsummit.com/cocaine/).
