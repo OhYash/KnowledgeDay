@@ -46,6 +46,7 @@ New Zealand studied teens who regularly consumed the drug. They were found to ha
 So, kids, lower the amount until you cross mid-adulthood ;-)  
 
 ## Heroin
+![Heroin]()
 Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it. This drug is usually taken via needle injection.  
 Herion is a semi-synthetic substance that is extracted from the opium plant <sub><sup>(mm)</sup></sub>.
 
@@ -53,6 +54,7 @@ A lot of people got their start by being prescribed a legal opioid painkiller, a
 That's what happens when they're OD'd (overdosed). 8k-15k Americans die each year due to heroin overdose.
 
 ## Cocaine
+![Cocain]()
 This is a native nervous system simulant. Made from coca plant, cocaine is native to South America.  
 The plant's leaves are green, but so are sugarcanes. Cocaine is sold as fine, white powder. Or also in form of crack rocks.
 Both have same chemical compositions and effects. But the latter being a rock causes stronger and faster flights, and longer too. <sub><sup>(not that it would make you last longer)</sup></sub>  
@@ -63,9 +65,11 @@ Sounds like a marketing question, does it? Cocaine has reasons to make it popula
 Get addicted and you'll see high levels of excitability, significant weight loss <sub><sup>(you want it now, don't you)</sup></sub>, sudden mood swings and even irrational thought process.
 
 ## LSD
+![LSD]()
 Short for Lysergic acid diethylamide <sub><sup>(I know you didn't read it. Neither did I)</sup></sub>, it is usually administered in illegal psychotherapy and meditation. It causes real hallucinations, that can change a person's perspective, personality and goals for life long. User experience may vary. Totally recommended if you hate your life and would like to have a different view.
 
 ## Ecstasy
+![Ecstasy]()
 I just love that word. Feels like a rap lyric in itself. <sub><sup>(Not I'm not on drugs, trust me!)</sup></sub>  
 Ecstasy aka "love drug" is a recreational drug and causes increased awareness of one's senses. Focus on "senses", because it's usually used before having sex as it heightens your senses. Physical touch by others becomes pleasurable. Side effects include increased pulse rate and jaw clenching.
 
