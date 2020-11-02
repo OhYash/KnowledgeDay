@@ -35,7 +35,7 @@ Alright, now that the cops are gone. You can feel free to share your experiences
 Let's go through what ever the public internet had for me:  
 
 ## Marijuana
-'Course I am going to start with this. My [first issue](https://www.getrevue.co/profile/KnowledgeDay/issues/good-guy-cannabis-knowledge-day-249739) was about cannabis - hemp which is legal globally <sub><sup>(afaik)</sup></sub>!   
+'Course I am going to start with this. My [first issue](https://www.getrevue.co/profile/KnowledgeDay/issues/good-guy-cannabis-knowledge-day-249739) was about cannabis - hemp which is legal globally(afaik)!  
 
 Marijuana, well, not so much.    
 You know it's famous, it's the highest consumed one globally out of this bunch. It's sort of addictive. But not known to be chemically addictive, but many health experts it is psychologically addictive. Which makes it totally controllable if one really wishes so.  
@@ -45,7 +45,7 @@ New Zealand studied teens who regularly consumed the drug. They were found to ha
 So, kids, lower the amount until you cross mid-adulthood ;-)  
 
 ## Heroin
-Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it. This boy is usually taken via needle injection.  
+Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it. This drug is usually taken via needle injection.  
 Herion is a semi-synthetic substance that is extracted from the opium plant <sub><sup>(mm)</sup></sub>.
 
 A lot of people got their start by being prescribed a legal opioid painkiller, and then they crave for more. Well, who doesn't want to get rid of pain forever.  
