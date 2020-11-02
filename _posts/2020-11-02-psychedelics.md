@@ -65,8 +65,8 @@ Get addicted and you'll see high levels of excitability, significant weight loss
 Short for Lysergic acid diethylamide <sub><sup>(I know you didn't read it. Neither did I)</sup></sub>, it is usually administered in illegal psychotherapy and meditation. It causes real hallucinations, that can change a person's perspective, personality and goals for life long. User experience may vary. Totally recommended if you hate your life and would like to have a different view.
 
 ## Ecstasy
-I just love that word. Feels like a rap lyric in itself. <sub><sup>(Not I'm not on drugsm trust me)</sup></sub>  
-Ecstasy is a recreational drug and causes increased awareness of one's senses. Focus on "senses", because it's usually used before having sex as it heightens your senses.
+I just love that word. Feels like a rap lyric in itself. <sub><sup>(Not I'm not on drugs, trust me!)</sup></sub>  
+Ecstasy aka "love drug" is a recreational drug and causes increased awareness of one's senses. Focus on "senses", because it's usually used before having sex as it heightens your senses. Physical touch by others becomes pleasurable. Side effects include increased pulse rate and jaw clenching.
 
 https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/#:~:text=1%20Crack%20Cocaine.%20Crack%2C%20also%20known%20as%20crack,Benzodiazepines.%20...%209%20Ecstasy.%20...%2010%20Marijuana.%20
 
