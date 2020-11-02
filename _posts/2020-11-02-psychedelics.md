@@ -45,8 +45,17 @@ New Zealand studied teens who regularly consumed the drug. They were found to ha
 So, kids, lower the amount until you cross mid-adulthood ;-)  
 
 ## Heroin
-Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it.  
+Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it. This boy is usually taken via needle injection.  
 Herion is a semi-synthetic substance that is extracted from the opium plant <sub><sup>(mm)</sup></sub>.
+
+A lot of people got their start by being prescribed a legal opioid painkiller, and then they crave for more. Well, who doesn't want to get rid of pain forever.  
+That's what happens when they're OD'd (overdosed). 8k-15k Americans die each year due to heroin overdose.
+
+## Cocaine
+This is a native nervous system simulant. Made from coca plant, cocaine is native to South America.  
+The plant's leaves are green, but so are sugarcanes. Cocaine is sold as fine, white powder. Or also in form of crack rocks.
+Both have same chemical compositions and effects. But the latter being a rock causes stronger and faster flights, and longer too. <sub><sup>(not that it would make you last longer)</sup></sub>
+
 
 https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/#:~:text=1%20Crack%20Cocaine.%20Crack%2C%20also%20known%20as%20crack,Benzodiazepines.%20...%209%20Ecstasy.%20...%2010%20Marijuana.%20
 
