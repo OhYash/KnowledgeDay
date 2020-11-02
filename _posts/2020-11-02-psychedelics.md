@@ -35,7 +35,18 @@ Alright, now that the cops are gone. You can feel free to share your experiences
 Let's go through what ever the public internet had for me:  
 
 ## Marijuana
-'Course I am going to start with this. My [first issue](https://www.getrevue.co/profile/KnowledgeDay/issues/good-guy-cannabis-knowledge-day-249739) was about 
+'Course I am going to start with this. My [first issue](https://www.getrevue.co/profile/KnowledgeDay/issues/good-guy-cannabis-knowledge-day-249739) was about cannabis - hemp which is legal globally <sub><sup>(afaik)</sup></sub>!   
+
+Marijuana, well, not so much.    
+You know it's famous, it's the highest consumed one globally out of this bunch. It's sort of addictive. But not known to be chemically addictive, but many health experts it is psychologically addictive. Which makes it totally controllable if one really wishes so.  
+
+While this is the most benign of the list. Addiction has known to cause effects. Like irrittion when it's not around, mild restlessness, and some difficulties in sleep as well.
+New Zealand studied teens who regularly consumed the drug. They were found to have **lost** and average of **8 IQ points** by mid-adulthood.  
+So, kids, lower the amount until you cross mid-adulthood ;-)  
+
+## Heroin
+Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it.  
+Herion is a semi-synthetic substance that is extracted from the opium plant <sub><sup>(mm)</sup></sub>.
 
 https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/#:~:text=1%20Crack%20Cocaine.%20Crack%2C%20also%20known%20as%20crack,Benzodiazepines.%20...%209%20Ecstasy.%20...%2010%20Marijuana.%20
 
