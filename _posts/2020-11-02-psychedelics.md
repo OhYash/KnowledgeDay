@@ -54,8 +54,19 @@ That's what happens when they're OD'd (overdosed). 8k-15k Americans die each yea
 ## Cocaine
 This is a native nervous system simulant. Made from coca plant, cocaine is native to South America.  
 The plant's leaves are green, but so are sugarcanes. Cocaine is sold as fine, white powder. Or also in form of crack rocks.
-Both have same chemical compositions and effects. But the latter being a rock causes stronger and faster flights, and longer too. <sub><sup>(not that it would make you last longer)</sup></sub>
+Both have same chemical compositions and effects. But the latter being a rock causes stronger and faster flights, and longer too. <sub><sup>(not that it would make you last longer)</sup></sub>  
 
+**Why Cocaine?**  
+Sounds like a marketing question, does it? Cocaine has reasons to make it popular. Main one being ofcourse the euphoria factor. It alters dopamine level, to regulate emotion. Causes motivation. Bonus benfits include increased alertness <sub><sup>(what?)</sup></sub> and elevated blood pressure and body temperature. Which technially means it makes you hot ;)  
+
+Get addicted and you'll see high levels of excitability, significant weight loss <sub><sup>(you want it now, don't you)</sup></sub>, sudden mood swings and even irrational thought process.
+
+## LSD
+Short for Lysergic acid diethylamide <sub><sup>(I know you didn't read it. Neither did I)</sup></sub>, it is usually administered in illegal psychotherapy and meditation. It causes real hallucinations, that can change a person's perspective, personality and goals for life long. User experience may vary. Totally recommended if you hate your life and would like to have a different view.
+
+## Ecstasy
+I just love that word. Feels like a rap lyric in itself. <sub><sup>(Not I'm not on drugsm trust me)</sup></sub>  
+Ecstasy is a recreational drug and causes increased awareness of one's senses. Focus on "senses", because it's usually used before having sex as it heightens your senses.
 
 https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/#:~:text=1%20Crack%20Cocaine.%20Crack%2C%20also%20known%20as%20crack,Benzodiazepines.%20...%209%20Ecstasy.%20...%2010%20Marijuana.%20
 
