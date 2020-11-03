@@ -85,3 +85,5 @@ Ecstasy aka "love drug" is a recreational drug and causes increased awareness of
 This list is huge tbh. Which increased as I opened more sources ofinformation for this post.  
 I'll allow you to explore all by yourselves further.  
 Sources: [serenityatsummit](https://www.serenityatsummit.com/drug-addiction/top-10-addictive-illegal-drugs/), [therichest](https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/), [serenityatsummit(2)](https://serenityatsummit.com/cocaine/).
+
+If you've enjoyed reading this. I'll assure you there's a lot more I have in plate for Knowledge•Day you can just share your email (In the orange fillup form) and I'll send that next interesting topic to you. Free.
