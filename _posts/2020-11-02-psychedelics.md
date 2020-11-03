@@ -46,7 +46,7 @@ New Zealand studied teens who regularly consumed the drug. They were found to ha
 So, kids, lower the amount until you cross mid-adulthood ;-)  
 
 ## Heroin
-![Heroin]()
+![Heroin](https://static0.therichestimages.com/wordpress/wp-content/uploads/1214.jpg?q=50&fit=crop&w=740&h=518)
 Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it. This drug is usually taken via needle injection.  
 Herion is a semi-synthetic substance that is extracted from the opium plant <sub><sup>(mm)</sup></sub>.
 
