@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 date: '2020-11-02 15:00:00 +0530'
 issue: 30
-title: Fly high
-img: extradition_hero.jpg
+title: Quick Drugs guide for the non-spoilt
+img: fly-hero.jpg
 fig-caption: delusions
 tags:
   - Drugs
