@@ -47,6 +47,8 @@ So, kids, lower the amount until you cross mid-adulthood ;-)
 
 ## Heroin
 ![Heroin](https://static0.therichestimages.com/wordpress/wp-content/uploads/1214.jpg?q=50&fit=crop&w=740&h=518)
+*[Source](https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/)*
+
 Heroin is like salary. Heroin users instantly get a “rush,” and after a time, cannot experience any good feelings without it. This drug is usually taken via needle injection.  
 Herion is a semi-synthetic substance that is extracted from the opium plant <sub><sup>(mm)</sup></sub>.
 
@@ -54,7 +56,9 @@ A lot of people got their start by being prescribed a legal opioid painkiller, a
 That's what happens when they're OD'd (overdosed). 8k-15k Americans die each year due to heroin overdose.
 
 ## Cocaine
-![Cocain]()
+![Cocain](https://static0.therichestimages.com/wordpress/wp-content/uploads/4190.jpg?q=50&fit=crop&w=740&h=493)
+*[Source](https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/)*
+
 This is a native nervous system simulant. Made from coca plant, cocaine is native to South America.  
 The plant's leaves are green, but so are sugarcanes. Cocaine is sold as fine, white powder. Or also in form of crack rocks.
 Both have same chemical compositions and effects. But the latter being a rock causes stronger and faster flights, and longer too. <sub><sup>(not that it would make you last longer)</sup></sub>  
