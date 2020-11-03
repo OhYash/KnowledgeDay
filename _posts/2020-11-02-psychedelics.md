@@ -35,7 +35,7 @@ Alright, now that the cops are gone. You can feel free to share your experiences
 Let's go through what ever the public internet had for me:  
 
 ## Marijuana
-![ganja ganja]()
+![ganja ganja]({{site.baseurl}}/assets/img/weed.jpg)
 'Course I am going to start with this. My [first issue](https://www.getrevue.co/profile/KnowledgeDay/issues/good-guy-cannabis-knowledge-day-249739) was about cannabis - hemp which is legal globally(afaik)!  
 
 Marijuana, well, not so much.    
