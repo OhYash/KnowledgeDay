@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2020-11-02 15:00:00 +0530'
 issue: 30
-title: Drugs guide for the non-spoilt
+title: Drugs guide for the unspoiled
 img: fly-hero.jpg
 fig-caption: delusions
 tags:
