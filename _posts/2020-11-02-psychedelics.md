@@ -66,7 +66,7 @@ Both have the same chemical compositions and effects. But the latter being a roc
 **Why Cocaine?**  
 Sounds like a marketing question, does it? Cocaine has reasons to make it popular. The main one being of course the euphoria factor. It alters dopamine levels, to regulate emotion. Causes motivation. Bonus benefits include increased alertness <sub><sup>(what?)</sup></sub> and elevated blood pressure and body temperature. Which technically means it makes you hot ;)  
 
-Get addicted and you'll see high levels of excitability, significant weight loss <sub><sup>(you want it now, don't you)</sup></sub>, sudden mood swings, and even irrational thought process.
+Get addicted and you'll see high levels of excitability, significant weight loss <sub><sup>(you want it now, don't you?)</sup></sub>, sudden mood swings, and even irrational thought process.
 
 ## LSD
 ![LSD](https://static0.therichestimages.com/wordpress/wp-content/uploads/8148.jpg?q=50&fit=crop&w=740&h=495)
@@ -78,7 +78,7 @@ Short for Lysergic acid diethylamide <sub><sup>(I know you didn't read it. Neith
 ![Ecstasy](https://static0.therichestimages.com/wordpress/wp-content/uploads/7151.jpg?q=50&fit=crop&w=740&h=527)
 *[Source](https://www.therichest.com/most-popular/top-10-most-commonly-used-illegal-drugs/)*
 
-I just love that word. Feels like a rap lyric in itself. <sub><sup>(Not I'm not on drugs, trust me!)</sup></sub>  
+I just love that word. Feels like a rap lyric in itself. <sub><sup>(No, I'm not on drugs, trust me!)</sup></sub>  
 Ecstasy aka "love drug" is a recreational drug and causes increased awareness of one's senses. Focus on "senses", because it's usually used before having sex as it heightens your senses. Physical touch by others becomes pleasurable. Side effects include increased pulse rate and jaw clenching.
 
 ## A lot more
