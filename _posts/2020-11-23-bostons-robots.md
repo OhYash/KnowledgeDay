@@ -19,7 +19,11 @@ What we look for today is some of the cheeky robots they've made and the "Whys" 
 
 ## Handle
 
-A literal handle. That can move around. This robot is a mobile hand carrier that has two legs. But both of them have wheels. Effectively, I'd call it skater robot. But unlike us with skates... being faster but more vulenerable to falls. These huge wheels on legs combine the rough-terrain capabilities of legs with the efficiency of wheels.
+A literal handle. That can move around. This robot is a mobile hand carrier that has two legs. But both of them have wheels. Effectively, I'd call it skater robot. But unlike us with skates... being faster but more vulenerable to falls. These huge wheels on legs combine the rough-terrain capabilities of legs with the efficiency of wheels.  
+The form factor allows handle to have human like space requirements. The robot performs real time superior balancing using it's bee-like tail. Superior because unlike us, it's legs are wheels.  
+
+### The Purpose
+The robot is made to transport things around in a small area. Which a human can totally do. But unlike humans, they don't get tired. Although I do think it looks a bit slower than what a forklift car can carry on flat lands.
 
 *boston dynamics handle*
 *boston dynamics' cheetah*
