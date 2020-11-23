@@ -25,7 +25,12 @@ The form factor allows handle to have human like space requirements. The robot p
 ### The Purpose
 The robot is made to transport things around in a small area. Which a human can totally do. But unlike humans, they don't get tired. Although I do think it looks a bit slower than what a forklift car can carry on flat lands.
 
-*boston dynamics handle*
+## Cheetah 
+
+Easy guess by the name. It's the the Boston dynamics' solution for the specific situation which assumes Usain Bolt could be a criminal and something has to be able to be able to catch him in narrow roads.
+
+The robotic cheetah, unlike the real one probably can run for longer and listen to humans <sup><sub>(for now)</sub></sup>.
+
 *boston dynamics' cheetah*
 *boston dynamics' atlas*
 *boston dynamics' spot*
