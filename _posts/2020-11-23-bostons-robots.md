@@ -29,7 +29,7 @@ The robot is made to transport things around in a small area. Which a human can 
 
 Easy guess by the name. It's the the Boston dynamics' solution for the specific situation which assumes Usain Bolt could be a criminal and something has to be able to be able to catch him in narrow roads.
 
-The robotic cheetah, unlike the real one probably can run for longer and listen to humans <sup><sub>(for now)</sub></sup>.
+The robotic cheetah, unlike the real one probably can run for longer and listen to humans' orders <sup><sub>(for now)</sub></sup>.
 
 *boston dynamics' cheetah*
 *boston dynamics' atlas*
