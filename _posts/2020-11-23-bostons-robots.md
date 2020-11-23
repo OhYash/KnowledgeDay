@@ -31,6 +31,9 @@ Easy guess by the name. It's the the Boston dynamics' solution for the specific 
 
 The robotic cheetah, unlike the real one probably can run for longer and listen to humans' orders <sup><sub>(for now)</sub></sup>.
 
-*boston dynamics' cheetah*
+--- Find out if it's or the wildcat's been upgraded yet or not ---
+
+## Atlas
+
 *boston dynamics' atlas*
 *boston dynamics' spot*
