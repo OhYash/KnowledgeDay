@@ -36,9 +36,13 @@ This video of BD's Cheetah running on a treadmill should be of interest.
 
 ## Atlas
 
-Atlas is one of the two most recent and best built machines from the company. The other one being Spot, a for legged pet.  
+Atlas is one of the two most recent and best built machines from the company. The other one being Spot, a four-legged pet.  
 
-"The world’s most dynamic humanoid robot" as per the makers. And I haven't seen one two legged robot that can do parkour, and end even backflip. And that becomes even more amazing when you see how fat it is. <sup><sub>(No, I'm not fat shamin. I'm fat promoting!)</sub></sup>  
+"The world’s most dynamic humanoid robot" as per the makers. And I haven't seen one two legged robot that can do parkour, and end even backflip. And that becomes even more amazing when you see how fat it is. <sup><sub>(No, I'm not fat shaming. I'm fat promoting!)</sub></sup>  
+
+[![Parkour video gif](gif link)](yt link) // maybe from the verge  
+
+So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real life human like movements it handles. Just watch this video right here. (PS. Walking on Snow is kinda complex and it shows)  
 
 *boston dynamics' atlas*
 *boston dynamics' spot*
