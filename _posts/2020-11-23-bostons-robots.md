@@ -44,5 +44,6 @@ Atlas is one of the two most recent and best built machines from the company. Th
 
 So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real life human like movements it handles. Just watch this video right here. (PS. Walking on Snow is kinda complex and it shows)  
 
-*boston dynamics' atlas*
+## Spot
+
 *boston dynamics' spot*
