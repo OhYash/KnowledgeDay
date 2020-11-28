@@ -31,7 +31,7 @@ Easy guess by the name. It's the the Boston dynamics' solution for the specific 
 The robotic cheetah, unlike the real one probably can run for longer and listen to humans' orders <sup><sub>(for now)</sub></sup>.  
 While Boston Dynamics' Cheetah with it's 28.3 mph sprint speed is nowhere as fast as a wild cheetah (60 - 75 mph), it has out-paced the fastest human for sure.
 
-This video of BD's Cheetah running on a treadmill should be of interest.  
+This video of Cheetah running on a treadmill should be of interest.  
 [![Boston Dynamics' Cheetah](https://i.gifer.com/F3du.gif)](https://www.youtube.com/watch?v=chPanW0QWhA)
 
 ## Atlas
