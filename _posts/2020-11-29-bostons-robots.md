@@ -34,8 +34,6 @@ While Boston Dynamics' Cheetah with it's 28.3 mph sprint speed is nowhere as fas
 This video of BD's Cheetah running on a treadmill should be of interest.  
 [![Boston Dynamics' Cheetah](https://i.gifer.com/F3du.gif)](https://www.youtube.com/watch?v=chPanW0QWhA)
 
-
-
 ## Atlas
 
 Atlas is one of the two most recent and best built machines from the company. The other one being Spot, a four-legged pet.  
