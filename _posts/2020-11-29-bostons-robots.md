@@ -5,7 +5,7 @@ _Hey there, Hi, I'm ready to die_
 
 Welcome to a special Knowledge•Day issue.  
 
-This is again late, I had a super packed week last one and I couldn't get time for anything tbh. I been runnig late on everything.  
+This is again late, I had a super packed week the last one and I couldn't get time for anything tbh. I been runnig late on everything.  
 
 But how are you doing. This is the 32nd issue and the first post after the [6 months anniversary](https://knowledgeday.in/half-year/)!  
 
