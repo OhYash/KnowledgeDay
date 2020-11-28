@@ -5,13 +5,13 @@ _Hey there, Hi, I'm ready to die_
 
 Welcome to a special Knowledge•Day issue.  
 
-This is again late, I had a super packed week this one and I couldn't get time for anything tbh. I been runnig late on everything.  
+This is again late, I had a super packed week last one and I couldn't get time for anything tbh. I been runnig late on everything.  
 
 But how are you doing. This is the 32nd issue and the first post after the [6 months anniversary](https://knowledgeday.in/half-year/)!  
 
 # Boston's Robots
-Here's a fun company you've heard of. Well, in real their work is not so fun. This is one of the many companies working towards building the first set of universal human replacements for physical activites.  
-Competitors include Amazon Robotics, Agility Robotics amongst more...  
+Here's a fun company you've heard of. This is one of the many companies working towards building the best set of universal human replacements for physical activites.  
+Competitors include Amazon Robotics, Agility Robotics, amongst more...  
 
 But their jaw-dropping agility and animal-like reflexes are the reason behind their stand in the field. BostonDynamics is undoubtedly one of the most sought after company. Legs or wheels, the robots this company makes are fab. They're so nice, you almost forget it'd ever harm you. <sup><sub>(but don't be fooled)</sub></sup>  
 What we look for today is some of the cheeky robots they've made and the "Whys" behind the designs too.   
