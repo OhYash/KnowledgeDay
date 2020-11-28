@@ -38,12 +38,19 @@ This video of BD's Cheetah running on a treadmill should be of interest.
 
 Atlas is one of the two most recent and best built machines from the company. The other one being Spot, a four-legged pet.  
 
-"The world’s most dynamic humanoid robot" as per the makers. And I haven't seen one two legged robot that can do parkour, and end even backflip. And that becomes even more amazing when you see how fat it is. <sup><sub>(No, I'm not fat shaming. I'm fat promoting!)</sub></sup>  
+"The world’s most dynamic humanoid robot" as per the makers. And I haven't seen one two legged robot that can do parkour, and even **backflip**. And that becomes even more amazing when you see how fat it is. <sup><sub>(No, I'm not fat shaming. I'm fat promoting!)</sub></sup>  
 
 [![Parkour video gif](gif link)](yt link) // maybe from the verge  
 
 So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real life human like movements it handles. Just watch this video right here. (PS. Walking on Snow is kinda complex and it shows)  
 
 ## Spot
+The latest and the most popular from the most popular robot maker. Why? Easy, it resembles the design of a **dog**.  
 
-*boston dynamics' spot*
+But another reason would be that it's pretty sexy for a robot, Prolly the skinniest of all these above. What can it do? Carry things around. Map a location (very helpful when creating a 3d model for a real object or place. The spot can build a computer model for building (pun intended) as it explores the place)  
+
+But the cost of $75,000 for a robot dog that can carry upto 14kgs around and has 90 minutes of work span in a single charge doesn't sound like a laudable deal does it?  
+But can your dog do this?
+
+![spot does dance]()
+
