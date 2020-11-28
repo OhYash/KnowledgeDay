@@ -21,7 +21,7 @@ What we look for today is some of the cheeky robots they've made and the "Whys" 
 A literal handle. That can move around. This robot is a mobile hand carrier that has two legs. But both of them have wheels. Effectively, I'd call it skater robot. But unlike us with skates... being faster but more vulenerable to falls. These huge wheels on legs combine the rough-terrain capabilities of legs with the efficiency of wheels.  
 The form factor allows handle to have human like space requirements. The robot performs real time superior balancing using it's bee-like tail. Superior because unlike us, it's legs are wheels.  
 
-### The Purpose
+**Why this?**  
 The robot is made to transport things around in a small area. Which a human can totally do. But unlike humans, they don't get tired. Although I do think it looks a bit slower than what a forklift car can carry on flat lands.
 
 ## Cheetah 
@@ -47,7 +47,9 @@ So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how cl
 ## Spot
 The latest and the most popular from the most popular robot maker. Why? Easy, it resembles the design of a **dog**.  
 
-But another reason would be that it's pretty sexy for a robot, Prolly the skinniest of all these above. What can it do? Carry things around. Map a location (very helpful when creating a 3d model for a real object or place. The spot can build a computer model for building (pun intended) as it explores the place)  
+But another reason would be that it's pretty sexy for a robot, Prolly the skinniest of all these above.  
+**What can it do?**  
+Carry things around. Map a location (very helpful when creating a 3d model for a real object or place. The spot can build a computer model for building (pun intended) as it explores the place)  
 
 But the cost of $75,000 for a robot dog that can carry upto 14kgs around and has 90 minutes of work span in a single charge doesn't sound like a laudable deal does it?  
 But can your dog do this?
