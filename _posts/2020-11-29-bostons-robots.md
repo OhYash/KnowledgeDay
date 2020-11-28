@@ -34,6 +34,8 @@ While Boston Dynamics' Cheetah with it's 28.3 mph sprint speed is nowhere as fas
 This video of BD's Cheetah running on a treadmill should be of interest.  
 [![Boston Dynamics' Cheetah](https://i.gifer.com/F3du.gif)](https://www.youtube.com/watch?v=chPanW0QWhA)
 
+
+
 ## Atlas
 
 Atlas is one of the two most recent and best built machines from the company. The other one being Spot, a four-legged pet.  
@@ -42,7 +44,7 @@ Atlas is one of the two most recent and best built machines from the company. Th
 
 [![Parkour video gif](gif link)](yt link) // maybe from the verge  
 
-So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real life human like movements it handles. Just watch this video right here. (PS. Walking on Snow is kinda complex and it shows)  
+So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real life human like movements it handles. Just watch [this video right here](). (PS. Walking on Snow is kinda complex and I did not realise as much until saw this Atlas trying to move around like a kid)  
 
 ## Spot
 The latest and the most popular from the most popular robot maker. Why? Easy, it resembles the design of a **dog**.  
