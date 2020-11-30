@@ -40,9 +40,10 @@ Atlas is one of the two most recent and best-built machines from the company. Th
 
 "The world’s most dynamic humanoid robot" as per the makers. And I haven't seen one two-legged robot that can do parkour, and even **backflip**. And that becomes even more amazing when you see how fat it is. <sup><sub>(No, I'm not fat-shaming. I'm fat promoting!)</sub></sup>  
 
-[![Parkour video gif](gif link)](yt link) // maybe from the verge  
+[![Parkour video gif](https://bgr.com/wp-content/uploads/2017/11/bots.gif?w=782)](https://www.youtube.com/watch?v=fRj34o4hN4I)  
+_gif: Atlas doing backflip. Click on it to watch on Youtube_
 
-So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real-life human-like movements it handles. Just watch [this video right here](). (PS. Walking on Snow is kinda complex and I did not realize as much until saw this Atlas trying to move around like a kid)  
+So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real-life human-like movements it handles. Just watch [this video right here](https://www.youtube.com/watch?v=rVlhMGQgDkY). (PS. Walking on Snow is kinda complex and I did not realize as much until saw this Atlas trying to move around like a kid)  
 
 ## Spot
 The latest and the most popular from the most popular robot maker. Why? Easy, it resembles the design of a **dog**.  
@@ -55,4 +56,4 @@ But the cost of $75,000 for a robot dog that can carry up to 14kgs around and ha
 
 But can your dog do this?  
 
-![spot does dance]()
+[![spot does dance](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sep-24-2019-11-37-27-1569339480.gif)](https://www.youtube.com/watch?v=kHBcVlqpvZ8)
