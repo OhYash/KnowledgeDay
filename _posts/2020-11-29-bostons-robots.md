@@ -28,12 +28,14 @@ Competitors include Amazon Robotics, Agility Robotics, amongst more...
 But their jaw-dropping agility and animal-like reflexes are the reason behind their stand in the field. Boston Dynamics is undoubtedly one of the most sought after company. Legs or wheels, the robots this company makes are fabs. They're so nice, you almost forget it'd ever harm you. <sup><sub>(but don't be fooled)</sub></sup>  
 What we look for today are some of the cheeky robots they've made and the "Whys" behind the designs too.   
 
-> P.S. The image on the top is sourced from [Morning brew](https://www.morningbrew.com/emerging-tech/stories/2020/06/17/boston-dynamics-starts-selling-spot-robot-74500). And all the gifs below link to the apt Youtube video. Hit them to watch in full!
+> P.S. The image on the top is sourced from [Morning brew](https://cutt.ly/ohk6bo6). And all the gifs below link to the apt Youtube video. Hit them to watch in full!
 
 ## Handle
 
 A literal handle. That can move around. This robot is a mobile hand carrier that has two legs. But both of them have wheels. Effectively, I'd call it a skater robot. But unlike us with skates... being faster but more vulnerable to falls. These huge wheels on legs combine the rough-terrain capabilities of legs with the efficiency of wheels.  
 The form factor allows the handle to have human-like space requirements. The robot performs real-time superior balancing using its bee-like tail. Superior because unlike us, its legs are wheels.  
+
+![Boston Dynamics' Handle]({{site.baseurl}}/assets/img/boston-handle.gif)
 
 **Why this?**  
 The robot is made to transport things around in a small area. Which a human can totally do. But unlike humans, they don't get tired. Although I do think it looks a bit slower than what a forklift car can carry on flatlands.
@@ -46,7 +48,7 @@ The robotic cheetah, unlike the real one probably can run for longer and listen 
 While Boston Dynamics' Cheetah with its 28.3 mph sprint speed is nowhere as fast as a wild cheetah (60 - 75 mph), but it has out-paced the fastest human for sure.
 
 This video of Cheetah running on a treadmill should be of interest.  
-[![Boston Dynamics' Cheetah](https://i.gifer.com/F3du.gif)](https://www.youtube.com/watch?v=chPanW0QWhA)
+[![Boston Dynamics' Cheetah](https://i.gifer.com/F3du.gif)](https://cutt.ly/shk6myA)
 
 ## Atlas
 
@@ -54,10 +56,10 @@ Atlas is one of the two most recent and best-built machines from the company. Th
 
 "The world’s most dynamic humanoid robot" as per the makers. And I haven't seen one two-legged robot that can do parkour, and even **backflip**. And that becomes even more amazing when you see how fat it is. <sup><sub>(No, I'm not fat-shaming. I'm fat promoting!)</sub></sup>  
 
-[![Parkour video gif](https://bgr.com/wp-content/uploads/2017/11/bots.gif?w=782)](https://www.youtube.com/watch?v=fRj34o4hN4I)  
+[![Parkour video gif](https://bgr.com/wp-content/uploads/2017/11/bots.gif?w=782)](https://cutt.ly/1hk6Qw8)  
 _gif: Atlas doing backflip. Click on it to watch on Youtube_
 
-So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real-life human-like movements it handles. Just watch [this video right here](https://www.youtube.com/watch?v=rVlhMGQgDkY). (PS. Walking on Snow is kinda complex and I did not realize as much until saw this Atlas trying to move around like a kid)  
+So anyway, with a height of 1.5m, and 80 KGs of weight, you'd want to see how close to real-life human-like movements it handles. Just watch [this video right here](https://cutt.ly/shk6Q5K). (PS. Walking on Snow is kinda complex and I did not realize as much until saw this Atlas trying to move around like a kid)  
 
 ## Spot
 The latest and the most popular from the most popular robot maker. Why? Easy, it resembles the design of a **dog**.  
@@ -70,4 +72,4 @@ But the cost of $75,000 for a robot dog that can carry up to 14kgs around and ha
 
 But can your dog do this?  
 
-[![spot does dance](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sep-24-2019-11-37-27-1569339480.gif)](https://www.youtube.com/watch?v=kHBcVlqpvZ8)
+[![spot does dance](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sep-24-2019-11-37-27-1569339480.gif)](https://cutt.ly/khk6WXs)
