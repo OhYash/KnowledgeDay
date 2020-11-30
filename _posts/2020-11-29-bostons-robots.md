@@ -1,9 +1,21 @@
 ---
 published: false
+layout: post
+date: '2020-11-18 15:00:00 +0530'
+title: Spot on! - Boston Dynamics' robots
+description: >-
+  Pun intended ^ Boston dynamics is amazing at physics building into their
+  machines. Why not look at some of the best outputs that they've got.
+img: boston_dynamics_hero.jpg
+fig-caption: Spot by Boston Dynamics
+tags:
+  - Robots
+  - Science
+issue: 32
 ---
-_Hey there, Hi, I'm ready to die_  
+Hello there 👋,
 
-Welcome to a special Knowledge•Day issue.  
+Welcome to the 32<sup>nd</sup> Knowledge•Day issue.  
 
 This is again late, I had a super packed week the last one and I couldn't get time for anything tbh. I been running late on everything.  
 
@@ -15,6 +27,8 @@ Competitors include Amazon Robotics, Agility Robotics, amongst more...
 
 But their jaw-dropping agility and animal-like reflexes are the reason behind their stand in the field. Boston Dynamics is undoubtedly one of the most sought after company. Legs or wheels, the robots this company makes are fabs. They're so nice, you almost forget it'd ever harm you. <sup><sub>(but don't be fooled)</sub></sup>  
 What we look for today are some of the cheeky robots they've made and the "Whys" behind the designs too.   
+
+> P.S. The image on the top is sourced from [Morning brew](https://www.morningbrew.com/emerging-tech/stories/2020/06/17/boston-dynamics-starts-selling-spot-robot-74500). And all the gifs below link to the apt Youtube video. Hit them to watch in full!
 
 ## Handle
 
