@@ -36,7 +36,6 @@ A literal handle. That can move around. This robot is a mobile hand carrier that
 The form factor allows the handle to have human-like space requirements. The robot performs real-time superior balancing using its bee-like tail. Superior because unlike us, its legs are wheels.  
 
 [![Boston Dynamics' Handle]({{site.baseurl}}/assets/img/boston-handle.gif)](https://cutt.ly/Ihk6PiM)  
-_I'd personally call it a bee_
 
 **Why this?**  
 The robot is made to transport things around in a small area. Which a human can totally do. But unlike humans, they don't get tired. Although I do think it looks a bit slower than what a forklift car can carry on flatlands.
