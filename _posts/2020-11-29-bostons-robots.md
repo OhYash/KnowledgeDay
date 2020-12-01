@@ -19,7 +19,7 @@ Welcome to the 32<sup>nd</sup> Knowledge•Day issue.
 
 This is again late, I had a super packed week the last one and I couldn't get time for anything tbh. I been running late on everything.  
 
-But how are you doing? This is the 32nd issue and the first post after the [6 months anniversary](https://knowledgeday.in/half-year/?utm_source=kd-mail-32&utm_medium=email&utm_campaign=bostondynamicsrobots)!  
+But how are you doing? This is the first post after the [6 months anniversary](https://knowledgeday.in/half-year/?utm_source=kd-mail-32&utm_medium=email&utm_campaign=bostondynamicsrobots)!  
 
 # Boston's Robots
 Here's a fun company you've heard of. This is one of the many companies working towards building the best set of universal human replacements for physical activities.  
