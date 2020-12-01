@@ -73,6 +73,3 @@ But the cost of $75,000 for a robot dog that can carry up to 14kgs around and ha
 But can your dog do this?  
 
 [![spot does dance](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sep-24-2019-11-37-27-1569339480.gif)](https://cutt.ly/khk6WXs)
-
-# The End
-That's it for today's issue. How'd you find it? Let me know by tapping on one of the thumbs below.  
