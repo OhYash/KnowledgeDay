@@ -35,4 +35,4 @@ We've come a long way from early phones covering the entire side of our face, to
 
 # LG wing's T screen
 
-|| Go though chat with Samarth on the discussion. Let him know next is gonna be this one. And ask is you can share his instagram llink
+|| Go though chat with Samarth on the discussion. Let him know next is gonna be this one. And ask is you can share his instagram link
