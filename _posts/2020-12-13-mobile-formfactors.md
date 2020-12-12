@@ -13,3 +13,26 @@ Note that concepts the companies have shared before are way wierder and endless.
 Let's get on to it.
 
 # Not just a rectangle box
+We've come a long way from early phones covering the entire side of our face, to now, well... That watch on the wrist paired with a wireless earphone is enough.  
+
+# The land mine
+
+# The hand mine
+
+# tiny screen
+
+# bigger screen, then querty
+
+# flip, slide
+
+# touch
+
+# camera popup, then flip
+
+# dual screen
+
+# Foldable screens
+
+# LG wing's T screen
+
+|| Go though chat with Samarth on the discussion. Let him know next is gonna be this one. And ask is you can share his instagram llink
