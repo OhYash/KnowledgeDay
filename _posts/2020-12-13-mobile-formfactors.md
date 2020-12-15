@@ -16,14 +16,27 @@ Let's get on to it.
 We've come a long way from early phones covering the entire side of our face, to now, well... That watch on the wrist paired with a wireless earphone is enough.  
 
 # The land mine
+Oldest of the bunch and probably is still there in your living room. You know these guys, entirely. These guys are Just lying there and have super high ringing volume.
+
+![Landline]()
+
+> Adjoining fact: Many may believe that the American **Alexander Graham Bell** was the **inventor** of the phone. But it was in fact the Italian/American [**Antonio Meucci** that invented the phone in **1849**](https://www.loc.gov/everyday-mysteries/item/who-is-credited-with-inventing-the-telephone/). Alexander Graham Bell was however the first that acquired the patent of the technique, first in year 1876.
 
 # The hand mine
+![Cordless thick phone](https://cs3.gtaall.com/screenshots/4dc09/2015-08/original/93653f6d4065304a98d800ce53886686bb5f827c/290724-gta-sa-2015-08-30-10-29-40-529.jpg)
+*Yes, that's CJ's phone*
 
-# tiny screen
+This thick boy shows first steps towards carryable phones. It didn't have much battery span, or range. But, well, did allow us to talk on the terrace.  
 
 # bigger screen, then querty
+![]()
+
+Once the wire was removed. Priority shifted towards losing the fat and weight. All while increasing the screensize to accomodate java games. Wow full keyboard too. Reminds me of my [first windows mobile](https://www.gsmarena.com/amoi_e78-2037.php), I've given it countless hours playing NES emulated games. The querty was a bliss, and ex-blackberry users would definitely relate.   
 
 # flip, slide
+![Funky flip/slide action gif]()
+
+
 
 # touch
 
