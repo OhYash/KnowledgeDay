@@ -36,13 +36,22 @@ Once the wire was removed. Priority shifted towards losing the fat and weight. A
 # flip, slide
 ![Funky flip/slide action gif]()
 
-
+Enter the action. Flip phones and the ones with slide had the cool of early 2000s. I know what you're thinking, it's come back with foldable screens, but is it as fun as before? No, it's delicate af.
 
 # touch
+![Touch screen]()
+
+You're holding it. Nothign fancy anymore. Was a dream of chilhood Yash I remember.  
 
 # camera popup, then flip
 
+Once being confortable with touch. Starting 2014+ everyone started expanding screen real estate, and tried minimizing bezels on the front. Eveen stretched around a notch to have little-more screen on the front.  
+But one day in 2018, **Vivo** came with another idea. Pop-up cameras. Vivo Nex was the first phone to have a pop-up camera.  
+Asus took a stwp ahead and brought up a flip camera, which allowed them to use same cameras on the back and the front.  
+
 # dual screen
+
+Saving the front real estate is everyone's problem. Couple of them, mainly ZTE/Nubia brought up another approach. 
 
 # Foldable screens
 
