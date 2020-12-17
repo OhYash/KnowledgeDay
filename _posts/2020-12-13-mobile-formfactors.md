@@ -69,4 +69,4 @@ Sounds like every other phone if you manhandle it right.
 But samsung recently filed a patent for a phone with a pop up flexible display.  
 Guess why...  
 
-The purpose is to make room for a speaker resonance chamber. Literally nothing else dounds useful here.
+The purpose is to make room for a speaker resonance chamber. Literally nothing else sounds useful here.
