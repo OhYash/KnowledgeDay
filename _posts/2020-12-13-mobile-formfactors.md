@@ -73,7 +73,6 @@ The purpose is to make room for a speaker resonance chamber. Literally nothing e
 
 Can be a fail but it's not a real phone yet. It's just patented and they are experimenting.  
 
-
 # The end
 That's all folks, I end with a question.  
 **Do you have a favorite form factor among the above? Which one would you like right now?**  
