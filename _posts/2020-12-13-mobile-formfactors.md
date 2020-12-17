@@ -69,4 +69,12 @@ Sounds like every other phone if you manhandle it right.
 But samsung recently filed a patent for a phone with a pop up flexible display.  
 Guess why...  
 
-The purpose is to make room for a speaker resonance chamber. Literally nothing else sounds useful here. Sounds like a good idea for audio entusiasts, but the audio enthusiasts also have better speakers to pick from.
+The purpose is to make room for a speaker resonance chamber. Literally nothing else sounds useful here. Sounds like a good idea for audio entusiasts, but the audio enthusiasts also have better speakers to pick from.  
+
+Can be a fail but it's not a real phone yet. It's just patented and they are experimenting.  
+
+
+# The end
+That's all folks, I end with a question.  
+**Do you have a favorite form factor among the above? Which one would you like right now?**  
+For me it'd be sliding touch with a physical keypad. Basically [FxTec Pro 1](https://www.fxtec.com/) but with keyboard from [Gemini PDA](https://store.planetcom.co.uk/products/gemini-pda-1).
