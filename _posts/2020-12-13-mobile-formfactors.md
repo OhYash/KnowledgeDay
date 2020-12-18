@@ -17,9 +17,9 @@ Let's get on to it.
 We've come a long way from early phones covering the entire side of our face, to now, well... That watch on the wrist paired with a wireless earphone is enough.  
 
 ## The land mine
-Oldest of the bunch and probably is still there in your living room. You know these guys, entirely. These guys are Just lying there and have super high ringing volume.
+Oldest of the bunch and probably still there might be a variant of a land line phone in your living room. You know these guys, entirely. These guys are Just lying there and have super high ringing volume.
 
-![Landline]()
+![Landline](https://images-na.ssl-images-amazon.com/images/I/71b6BikUB7L._SL1280_.jpg)
 
 > Adjoining fact: Many may believe that the American **Alexander Graham Bell** was the **inventor** of the phone. But it was in fact the Italian/American [**Antonio Meucci** that invented the phone in **1849**](https://www.loc.gov/everyday-mysteries/item/who-is-credited-with-inventing-the-telephone/). Alexander Graham Bell was however the first that acquired the patent of the technique, first in year 1876.
 
