@@ -29,7 +29,7 @@ Oldest of the bunch and probably still there might be a variant of a land line p
 
 This thick boy shows first steps towards carryable phones. It didn't have much battery span, or range. But, well, did allow us to talk on the terrace.  
 
-## bigger screen, then querty
+## Increase the screen
 ![]()
 
 Once the wire was removed. Priority shifted towards losing the fat and weight. All while increasing the screensize to accomodate java games. Wow full keyboard too. Reminds me of my [first windows mobile](https://www.gsmarena.com/amoi_e78-2037.php), I've given it countless hours playing NES emulated games. The querty was a bliss, and ex-blackberry users would definitely relate.   
