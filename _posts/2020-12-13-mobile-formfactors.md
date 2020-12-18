@@ -17,7 +17,7 @@ Let's get on to it.
 We've come a long way from early phones covering the entire side of our face, to now, well... That watch on the wrist paired with a wireless earphone is enough.  
 
 ## The land mine
-Oldest of the bunch and probably still there might be a variant of a land line phone in your living room. You know these guys, entirely. These guys are Just lying there and have super high ringing volume.
+Oldest of the bunch and probably still there might be a variant of a land line phone in your living room. Just lying there, losing value. But they for sure have super high ringing volume.  
 
 ![Landline](https://images-na.ssl-images-amazon.com/images/I/71b6BikUB7L._SL1280_.jpg)
 
