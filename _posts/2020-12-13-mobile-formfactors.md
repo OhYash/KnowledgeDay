@@ -8,6 +8,7 @@ Welcome to the 34th KnowledgeDay issue. Hope you're doing great!
 This light hearted issue, was requested for by [Samarth](https://www.instagram.com/sam_freakin_sam/), your fellow reader and a friend of mine. Today, we look at the interesting shape turns mobile phones have taken over the years.
 
 I'm skipping all the concept designs you can find with a quick youtube search, because concepts the companies have shared before are way wierd and mostly useless.  
+
 Let's get on to it.
 
 -----
