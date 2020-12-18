@@ -27,7 +27,7 @@ Oldest of the bunch and probably still there might be a variant of a land line p
 ![Cordless thick phone](https://cs3.gtaall.com/screenshots/4dc09/2015-08/original/93653f6d4065304a98d800ce53886686bb5f827c/290724-gta-sa-2015-08-30-10-29-40-529.jpg)
 *Yes, that's CJ's phone*
 
-This thick boy shows first steps towards carryable phones. It didn't have much battery span, or range. But, well, did allow us to talk on the terrace.  
+This thick boy shows first steps towards carryable phones. It didn't have much battery span, or network range. But, well, did allow us to talk on the terrace.  
 
 ## Increase the screen
 ![]()
