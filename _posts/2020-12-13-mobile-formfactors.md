@@ -42,7 +42,7 @@ Enter the action. Flip phones and the ones with slides had the cool of the early
 ## touch
 ![Touch screen]()
 
-You're holding it. Nothing fancy anymore. Was a dream of childhood Yash, I remember.
+You're holding it. Nothing fancy anymore. Was a dream of childhood Yash, but is a norm everywhere.
 
 ## Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
 
