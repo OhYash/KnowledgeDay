@@ -30,12 +30,12 @@ Oldest of the bunch and probably still there might be a variant of a landline ph
 This thick boy shows the first steps towards carryable phones. It didn't have much battery span or network range. But, well, did allow us to talk on the terrace.  
 
 ## Increase the screen
-![]()
+![The Amoi E78](https://static.toiimg.com/photo/54214072/Amoi-E78.jpg)
 
-Once the wire was removed. Priority shifted towards losing fat and weight. All while increasing the screen size to accommodate java games. Wow, the full keyboard too. Reminds me of my [first windows mobile](https://www.gsmarena.com/amoi_e78-2037.php), I've given it countless hours playing NES emulated games. The qwerty keyboard was a bliss, and ex-blackberry users would definitely relate.   
+Once the wire was removed. Priority shifted towards losing fat and weight. All while increasing the screen size to accommodate java games. Wow, the full keyboard too. Reminds me of my [first windows mobile phone](https://www.gsmarena.com/amoi_e78-2037.php) with a qwerty keypad. I've given it countless hours playing NES emulated games. The qwerty keyboard was a bliss, and ex-blackberry users would definitely relate.   
 
 ## flip, slide
-![Funky flip/slide action gif]()
+![Funky flip/slide action gif](https://i.pinimg.com/originals/f4/ac/1a/f4ac1a9d2e7da175b1306cae23595b80.jpg)
 
 Enter the action. Flip phones and the ones with slides had the cool of the early 2000s. I know what you're thinking, it's come back with foldable screens, but is it as fun as before? No, it's delicate af.
 
@@ -44,13 +44,11 @@ Enter the action. Flip phones and the ones with slides had the cool of the early
 
 You're holding it. Nothing fancy anymore. Was a dream of childhood Yash, I remember.
 
-## camera popup, then flip
+## Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
 
 Once being comfortable with touch. Starting 2014+ everyone started expanding screen real estate, and tried minimizing bezels on the front. Even stretched around a notch to have a little-more screen on the front.  
 But one day in 2018, **Vivo** came with another idea. Pop-up cameras. Vivo Nex was the first phone to have a pop-up camera.  
 Asus took a step ahead and brought up a flip camera, which allowed them to use the same cameras on the back and the front.  
-
-## dual screen
 
 Saving the front real estate is everyone's problem. A couple of them, mainly ZTE/Nubia brought up another approach. 
 
@@ -63,6 +61,14 @@ P.S. I wrote about a [fun article on Escobar](https://ohyash.medium.com/hold-my-
 
 If you've checked the news recently. You'd know LG's heavily trying to create a little space that they can own (much like Sony), the latest is their phone with a screen that swivels horizontally. Giving space for a secondary screen on the bottom.  
 The win? Yeah well, I'm trying to figure that out too.   
+
+## For the extremists: Light phone
+![]()
+
+You're addicted to your phone. You're also reading this on your phone too. But do you waana cure your addiction, but don't waana use an annoying app or go back to using feature phone? You're in good hands, this is where [Light Phone]() comes in.  
+A smartphone running on android but offers lesser features than a feature phone, so you can't do anything but call or text (or set alarms).  
+Pro: Looks cute  
+Con: Very expensive for what it offers ($350); Basically a useless innovation because they are trying to recreate a feature phone, on top of a smartphone OS.  
 
 ## Bonus: Samsung seems to be exploring pop-out display
 
