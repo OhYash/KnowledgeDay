@@ -40,11 +40,12 @@ Once the wire was removed. Priority shifted towards losing fat and weight. All w
 Enter the action. Flip phones and the ones with slides had the cool of the early 2000s. I know what you're thinking, it's come back with foldable screens, but is it as fun as before? No, it's delicate af.
 
 ## touch
-![Touch screen]()
+![Touch screen](https://static.scientificamerican.com/sciam/cache/file/6EE74DA2-4ABC-4928-84B75E8903325848_source.jpg)
 
 You're holding it. Nothing fancy anymore. Was a dream of child Yash, but is a norm everywhere now.  
 
 ## Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
+![]()
 
 Starting 2014+ all top makers started expanding screen real estate, and tried minimizing bezels on the front. Even stretched around a notch to have a little-more screen on the front.  
 But one day in 2018, **Vivo** came with another idea. Pop-up cameras. Vivo Nex was the first phone to have a pop-up camera.  
