@@ -46,11 +46,12 @@ You're holding it. Nothing fancy anymore. Was a dream of child Yash, but is a no
 
 ## Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
 
-Once being comfortable with touch. Starting 2014+ everyone started expanding screen real estate, and tried minimizing bezels on the front. Even stretched around a notch to have a little-more screen on the front.  
+Starting 2014+ all top makers started expanding screen real estate, and tried minimizing bezels on the front. Even stretched around a notch to have a little-more screen on the front.  
 But one day in 2018, **Vivo** came with another idea. Pop-up cameras. Vivo Nex was the first phone to have a pop-up camera.  
 Asus took a step ahead and brought up a flip camera, which allowed them to use the same cameras on the back and the front.  
+Saving the front real estate is everyone's problem. A couple of them, mainly ZTE/Nubia brought up another approach. Screens on both side. Over engineering maybe, and you can't put up a back cover with this. But the ability to have an animated backside looks sexy for sure.  
 
-Saving the front real estate is everyone's problem. A couple of them, mainly ZTE/Nubia brought up another approach. 
+That wasn't enough, they are experimenting the possibility of putting the camera under the screen
 
 ## Foldable screens
 
