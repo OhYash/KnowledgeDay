@@ -21,7 +21,7 @@ Oldest of the bunch and probably still there might be a variant of a landline ph
 
 ![Landline](https://images-na.ssl-images-amazon.com/images/I/71b6BikUB7L._SL1280_.jpg)
 
-> Adjoining fact: Many may believe that the American **Alexander Graham Bell** was the **inventor** of the phone. But it was in fact the Italian/American [**Antonio Meucci** that invented the phone in **1849**](https://www.loc.gov/everyday-mysteries/item/who-is-credited-with-inventing-the-telephone/). Alexander Graham Bell was however the first that acquired the patent of the technique, first in the year 1876.
+> Adjoining fact: Many may believe that the American **Alexander Graham Bell** was the **inventor** of the phone. But it was in fact the Italian/American [**Antonio Meucci**, who invented the phone in **1849**](https://www.loc.gov/everyday-mysteries/item/who-is-credited-with-inventing-the-telephone/). Alexander Graham Bell was however the first that acquired the patent of the technique, first in the year 1876.
 
 ## The hand mine
 ![Cordless thick phone](https://cs3.gtaall.com/screenshots/4dc09/2015-08/original/93653f6d4065304a98d800ce53886686bb5f827c/290724-gta-sa-2015-08-30-10-29-40-529.jpg)
@@ -42,7 +42,7 @@ Enter the action. Flip phones and the ones with slides had the cool of the early
 ## touch
 ![Touch screen]()
 
-You're holding it. Nothing fancy anymore. Was a dream of childhood Yash, but is a norm everywhere.
+You're holding it. Nothing fancy anymore. Was a dream of child Yash, but is a norm everywhere now.  
 
 ## Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
 
