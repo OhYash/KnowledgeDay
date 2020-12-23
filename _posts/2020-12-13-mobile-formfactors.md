@@ -45,19 +45,20 @@ Enter the action. Flip phones and the ones with slides had the cool of the early
 You're holding it. Nothing fancy anymore. Was a dream of child Yash, but is a norm everywhere now.  
 
 ## Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
-![]()
+![Vivo NEX](https://www.ispyprice.com/static/nwprd_model/vivo-nex-8605.jpg)  
 
 Starting 2014+ all top makers started expanding screen real estate, and tried minimizing bezels on the front. Even stretched around a notch to have a little-more screen on the front.  
 But one day in 2018, **Vivo** came with another idea. Pop-up cameras. Vivo Nex was the first phone to have a pop-up camera.  
 Asus took a step ahead and brought up a flip camera, which allowed them to use the same cameras on the back and the front.  
 Saving the front real estate is everyone's problem. A couple of them, mainly ZTE/Nubia brought up another approach. Screens on both side. Over engineering maybe, and you can't put up a back cover with this. But the ability to have an animated backside looks sexy for sure.  
 
-That wasn't enough, they are experimenting the possibility of putting the camera under the screen
+That wasn't enough, they are experimenting the possibility of putting the camera under the screen.  
 
 ## Foldable screens
+![Samsung galaxy fold](https://nypost.com/wp-content/uploads/sites/2/2019/05/190516-galaxy-fold.jpg?quality=80&strip=all)
 
-Latest in the trend; costs around the prices of motorcycles. But less thrill than what the motorcycles can give. Not recommended, but the riches can flaunt as they like.
-P.S. I wrote about a [fun article on Escobar](https://ohyash.medium.com/hold-my-escobar-704b4d6ae14e) surrounding the foldable phones. I think you'll like that.
+Latest in the trend; costs around the prices of motorcycles. But less thrill than what the motorcycles can give. Not recommended, but the riches can flaunt as they like.  
+P.S. I wrote a [fun article on Escobar](https://ohyash.medium.com/hold-my-escobar-704b4d6ae14e) surrounding the foldable phones. I think you'll like that.  
 
 ## LG wing's T screen
 
@@ -65,20 +66,20 @@ If you've checked the news recently. You'd know LG's heavily trying to create a 
 The win? Yeah well, I'm trying to figure that out too.   
 
 ## For the extremists: Light phone
-![]()
+![](https://cdn.vox-cdn.com/thumbor/sgZTEqssuvkQHIQlkunB4Au01_w=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/10321689/Screen_Shot_2018_03_01_at_10.09.01_AM.png)
 
-You're addicted to your phone. You're also reading this on your phone too. But do you waana cure your addiction, but don't waana use an annoying app or go back to using feature phone? You're in good hands, this is where [Light Phone]() comes in.  
+You're addicted to your phone. You're also reading this on your phone too. But do you waana cure your addiction, but don't waana use an annoying app or go back to using feature phone? You're in good hands, this is where [The Light Phone](https://www.thelightphone.com/) comes in.  
 A smartphone running on android but offers lesser features than a feature phone, so you can't do anything but call or text (or set alarms).  
 Pro: Looks cute  
 Con: Very expensive for what it offers ($350); Basically a useless innovation because they are trying to recreate a feature phone, on top of a smartphone OS.  
 
 ## Bonus: Samsung seems to be exploring pop-out display
-
+![Samsung pop-out diplay](https://cdn57.androidauthority.net/wp-content/uploads/2020/10/samsung-pop-out-display-phone-1200x675.jpg)
 Sounds like every other phone if you manhandle it right.  
 But Samsung recently filed a patent for a phone with a pop up flexible display.  
 Guess why...  
 
-The purpose is to make room for a speaker resonance chamber. Literally, nothing else sounds useful here. Sounds like a good idea for audio enthusiasts, but the audio enthusiasts also have better speakers to pick from.  
+The purpose is to make room for a speaker resonance chamber. That's it. Sounds like a good idea for audio enthusiasts, but the audio enthusiasts also have better speakers to pick from.  
 
 Can be a fail but it's not a real phone yet. It's just patented and they are experimenting.  
 
