@@ -5,8 +5,8 @@ date: '2020-12-24 15:00:00 +0530'
 title: Phones are weird
 description: >-
   Phones have evolved a lot over the years and now are bing pushed to have weird form factors. We look at production phone design changes over the years
-img: boston_dynamics_hero.jpg
-fig-caption: Phone image here
+img: phones.jpg
+fig-caption: Phones
 tags:
   - Phone
   - Design
