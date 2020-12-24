@@ -4,7 +4,8 @@ layout: post
 date: '2020-12-24 15:00:00 +0530'
 title: Phones are weird
 description: >-
-  Phones have evolved a lot over the years and now are bing pushed to have weird form factors. We look at production phone design changes over the years
+  Phones have evolved a lot over the years and now are bing pushed to have weird
+  form factors. We look at production phone design changes over the years
 img: phones.jpg
 fig-caption: Phones
 tags:
@@ -18,44 +19,44 @@ Welcome to the 34th KnowledgeDay issue. Hope you're doing great!
 
 This light-hearted issue was requested for by [Samarth](https://www.instagram.com/sam_freakin_sam/), your fellow reader, and a friend of mine. Today, we look at the interesting shape turns mobile phones have taken over the years.
 
-I'm skipping all the concept designs you can find with a quick youtube search because concepts the companies have shared before are way weird and mostly useless.  
+I'm skipping all the concept designs that never made to production. You can just hit youtube if interested.  
 
 Let's get on to it.
 
 -----
 
-*Not just a rectangle box*  
+**Not just a rectangle box**  
 We've come a long way from early phones covering the entire side of our face, to now, well... That watch on the wrist paired with a wireless earphone is enough.  
 
-## The land mine
+## > The land mine
 Oldest of the bunch and probably still there might be a variant of a landline phone in your living room. Just lying there, losing value. But they for sure have super high ringing volume.  
 
 ![Landline](https://images-na.ssl-images-amazon.com/images/I/71b6BikUB7L._SL1280_.jpg)
 
 > Adjoining fact: Many may believe that the **Alexander Graham Bell** was the **inventor** of the phone. But it was in fact the Italian/American [**Antonio Meucci**, who invented the phone in **1849**](https://www.loc.gov/everyday-mysteries/item/who-is-credited-with-inventing-the-telephone/). Alexander Graham Bell was however the first that acquired the patent of the technique, first in the year 1876.
 
-## The hand mine
+## > The hand mine
 ![Cordless thick phone](https://cs3.gtaall.com/screenshots/4dc09/2015-08/original/93653f6d4065304a98d800ce53886686bb5f827c/290724-gta-sa-2015-08-30-10-29-40-529.jpg)
 *Yes, that's CJ's phone*
 
 This thick boy shows the first steps towards carryable phones. It didn't have much battery span or network range. But, well, did allow us to talk on the terrace.  
 
-## Increase the screen
+## > Somewhat Thinner
 ![The Amoi E78](https://static.toiimg.com/photo/54214072/Amoi-E78.jpg)
 
 Once the wire was removed. Priority shifted towards losing fat and weight. All while increasing the screen size to accommodate java games. Wow, the full keyboard too. Reminds me of my [first windows mobile phone](https://www.gsmarena.com/amoi_e78-2037.php) with a qwerty keypad. I've given it countless hours playing NES emulated games. The qwerty keyboard was a bliss, and ex-blackberry users would definitely relate.   
 
-## flip, slide
+## > Focus on the style
 ![Funky flip/slide action gif](https://i.pinimg.com/originals/f4/ac/1a/f4ac1a9d2e7da175b1306cae23595b80.jpg)
 
 Enter the action. Flip phones and the ones with slides had the cool of the early 2000s. I know what you're thinking, it's come back with foldable screens, but is it as fun as before? No, it's delicate af.
 
-## touch
+## > Touch me yes
 ![Touch screen](https://static.scientificamerican.com/sciam/cache/file/6EE74DA2-4ABC-4928-84B75E8903325848_source.jpg)
 
 You're holding it. Nothing fancy anymore. Was a dream of child Yash, but is a norm everywhere now.  
 
-## Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
+## > Efforts to kill the notch: Popup cam, flip cam, dual screens, Under display cam
 
 Starting 2014+ all top makers started expanding screen real estate, and tried minimizing bezels on the front. Even stretched around a notch to have a little-more screen on the front.  
 
@@ -75,27 +76,28 @@ That wasn't enough, these guys are experimenting the possibility of putting the 
 ![ZTE Axon 20](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1c6jS4.img?h=600&w=799&m=6&q=60&o=f&l=f)
 _Look closely on the top middle, the camera's there_
 
-## Foldable screens
+## > Foldable screens
 ![Samsung galaxy fold](https://nypost.com/wp-content/uploads/sites/2/2019/05/190516-galaxy-fold.jpg?quality=80&strip=all)
+_Every phone is a foldable phone if you're strong enough_
 
 Latest in the trend; costs around the prices of motorcycles. But less thrill than what the motorcycles can give. Not recommended, but the riches can flaunt as they like.  
 P.S. I wrote a [fun article on Escobar](https://ohyash.medium.com/hold-my-escobar-704b4d6ae14e) surrounding the foldable phones. I think you'll like that.  
 
-## LG wing's T screen
-![](https://www.ultimatepocket.com/wp-content/uploads/2020/10/t-mobile-announces-lg-wing-is-coming-to-the-carrier-launched-bogo-deal.jpg)  
+## > T screen
+![The LG Wing](https://www.ultimatepocket.com/wp-content/uploads/2020/10/t-mobile-announces-lg-wing-is-coming-to-the-carrier-launched-bogo-deal.jpg)  
 
 If you've checked the news recently. You'd know LG's heavily trying to create a little space that they can own (much like Sony), the latest is their phone with a screen that swivels horizontally. Giving space for a secondary screen on the bottom.  
 The win? Yeah well, I'm trying to figure that out too.   
 
-## For the extremists: Light phone
-![](https://cdn.vox-cdn.com/thumbor/sgZTEqssuvkQHIQlkunB4Au01_w=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/10321689/Screen_Shot_2018_03_01_at_10.09.01_AM.png)
+## > For the extremists: Light phone
+![The Light phone](https://cdn.vox-cdn.com/thumbor/sgZTEqssuvkQHIQlkunB4Au01_w=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/10321689/Screen_Shot_2018_03_01_at_10.09.01_AM.png)
 
 You're addicted to your phone. You're also reading this on your phone too. Do you waana cure your addiction, but don't waana use an annoying app or go back to using feature phone? You're in good hands, this is where [The Light Phone](https://www.thelightphone.com/) comes in.  
 A smartphone running on android but offers lesser features than a feature phone, so you can't do anything but call or text (or set alarms).  
 Pro: Looks cute  
 Con: Very expensive for what it offers ($350); Basically a useless innovation because they are trying to recreate a feature phone, on top of a smartphone OS.  
 
-## Bonus: Samsung seems to be exploring pop-out display
+## > Bonus: Samsung seems to be exploring pop-out display
 ![Samsung pop-out diplay](https://cdn57.androidauthority.net/wp-content/uploads/2020/10/samsung-pop-out-display-phone-1200x675.jpg)
 Sounds like every other phone if you manhandle it right.  
 But Samsung recently filed a patent for a phone with a pop up flexible display.  
