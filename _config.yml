@@ -1,6 +1,6 @@
 title: Knowledge•Day
 description: > # this means to ignore newlines until "baseurl:"
-  Blog-cum-newsletter for the curious, by a curious.
+  Blog-cum-newsletter for the curious, by a curious.<br/>
   Weekly 3 minutes read on something interesting. Handpicked.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
