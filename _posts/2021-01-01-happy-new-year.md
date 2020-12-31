@@ -27,4 +27,12 @@ Because it's Goa. That's the rule: Goa trip plans are never executed.
 My own story is one of the many excuses that cancel up the Goa trips. I my case, I applied for two govenment exams that were supposed to be executed in the first weeks of Jan and Feb. And in the last days before the planned Goa trip, I started panicking about being unprepared. Also, the only friend that agreed to go along started panicking for his own reasons.  
 All in all, Yash celebrated new years at the Gateway of India. Not bad, but could've been better.  
 
-_Next time_, I said to myself. 
+"_Next time_", I said to myself.  
+
+Early days were just me preparing for the exams. In case you waana know the results: Negative. I should've enjoyed the days instead.  
+
+Wasn't all dry though. I managed to vist Ctrl-Alt-Delete in Mumbai, an awesome crowd funded concert. Mostly indie artists, but they were awesome.  
+Here's a little glimpse:  
+![Cad12 trailer]()
+_Hit the gif to watch on instagram_
+
