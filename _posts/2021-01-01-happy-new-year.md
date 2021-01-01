@@ -44,14 +44,7 @@ Early days were just me preparing for the exams. In case you waana know the resu
 Wasn't all dry though. I managed to vist Ctrl-Alt-Delete in Mumbai, an awesome crowd funded music featival. Mostly indie artists, but they were awesome.  	  
 
 Here's a little glimpse of what it is:  
-<video width="320" height="240" controls>
-  <source src="https://instagram.fjai5-1.fna.fbcdn.net/v/t50.2886-16/85441623_238636907128388_5048952574409431976_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5mZWVkLmRlZmF1bHQiLCJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSJ9&_nc_ht=instagram.fjai5-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=0xu3EfkCsqwAX-amtUK&vs=17981937115292765_3872789551&_nc_vs=HBksFQAYJEdGZThGd1ZFWmhUOENka0FBS2piZDYyZGV4Rkdia1lMQUFBRhUAAsgBABUAGCRHRVE5Q2dYcXZyaWIxZFFEQUZUVHR0SnhZQWRoYmtZTEFBQUYVAgLIAQAoABgAGwAVAAAmuu2Z5L6e8T8VAigCQzMsF0BNBDlYEGJOGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqBwA%3D&oe=5FF1223F&oh=f031513be22e081fcff5eb4fabb0f566
-" type="video/mp4">
-  <a href="https://www.instagram.com/p/B8GF9HSptKE/">Click here</a> to view on Instagram.
-</video>
-
-
-_Hit the gif to watch on instagram_
+_[Click here](https://www.instagram.com/p/B8GF9HSptKE/) to watch on Instagram._  
 
 ## Lockdown phase
 That above was february and now the Covid virus was starting to get serious. Atleast in China and some european countries.  
