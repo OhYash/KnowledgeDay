@@ -6,10 +6,8 @@ title: Happy New Year 2021
 description: >-
   Not a regular post, this is me wishing you a Happy New Year 2021
 img: new_year_hero.jpg
-fig-caption: -
 tags:
   - New Year
-  - 2020
 issue: 35
 ---
 Hey there,
