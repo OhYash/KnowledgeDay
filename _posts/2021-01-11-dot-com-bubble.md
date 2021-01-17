@@ -28,6 +28,8 @@ You've most probably heard of this. If not, then I'm about to throw the rock fro
 Also called the internet bubble, you are reading about a thing of 1990s and early 2000s. The 90s was a period of rapid technological advancement after the creation of **mosaic** in 1993, one of the world's first internet browsers (mosaic wasn't the first but the first to pull noticeable adoption). Opened to supreme flexibility and endless possibilities. This allows personal computers to use the world wide web and this also started the fundamental transition of computer from being a piece of luxury to house hold material.  
 With maas adoption comes maas opportunities. And entrepreneurs began to see untapped potential within this industry, The result was and enormous wave of new internet companies such as Amazon, Yahoo, GeoCities among thousands of others.
 
+![Netscape Navigator]()
+
 Mosaic might be the early bird, but wasn't very stable or intuitive. Enters Netscape Communications in 1995, they released and distributed **Netscape Navigator**. The browser being free, faster and more intuitive quickly set the benchmark in the browser field and easily overtook Mosaic as the most propular browser.
 
 ### The trend
@@ -56,8 +58,10 @@ Nothing in the internet businesses changed, but while NASDAQ index was around it
 
 It triggered the mass sell-off of stocks and by the end of 2001, over $1 Trillion worth of capital had vanished into thin air. **The bubble had finally burst.**
 
+![Dotcom bubble NASDAQ screenshot]()
+
 ### Finis
-// By 2002, the market had fallen x%. And with that our story has come to an end too. This was the dot-com-bubble in 3 minutes.
+By 2002, the market had fallen 85%. And with that our story has come to an end too. This was the dot-com-bubble in 3 minutes.
 
 # What's in next
 This section is unusual but I waana have your attention onto this.  
