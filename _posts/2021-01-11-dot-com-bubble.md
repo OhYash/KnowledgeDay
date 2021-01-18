@@ -9,6 +9,9 @@ description: >-
 img: new_year_hero.jpg
 tags:
   - History
+  - bubble
+  - economy
+  - finance
 issue: 36
 ---
 Hey there,
@@ -30,7 +33,7 @@ You've most probably heard of this. If not, then I'm about to throw the rock fro
 Also called the internet bubble, you are reading about a thing of 1990s and early 2000s. The 90s was a period of rapid technological advancement after the creation of **mosaic** in 1993, one of the world's first internet browsers (mosaic wasn't the first but the first to pull noticeable adoption). Opened to supreme flexibility and endless possibilities. This allows personal computers to use the world wide web and this also started the fundamental transition of computer from being a piece of luxury to house hold material.  
 With maas adoption comes maas opportunities. And entrepreneurs began to see untapped potential within this industry, The result was and enormous wave of new internet companies such as Amazon, Yahoo, GeoCities among thousands of others.
 
-![Netscape Navigator]()
+![Netscape Navigator](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/750x750/dimg/netscape-2.jpg)
 
 Mosaic might be the early bird, but wasn't very stable or intuitive. Enters Netscape Communications in 1995, they released and distributed **Netscape Navigator**. The browser being free, faster and more intuitive quickly set the benchmark in the browser field and easily overtook Mosaic as the most propular browser.
 
@@ -45,14 +48,16 @@ Entrereneurs started exploring possibilities and start their new "internet ventu
 
 In a nutshell, that means more companies, more IPOs and more investor money. From 1995 to 1999, hundreds of dot-com companies had their IPOs resulting immediate responses from investors. Recipe for investor FOMO.  
 
+![Bull case](https://i0.wp.com/ninjatrader.com/blog/wp-content/uploads/2019/06/Bullish-Trend-hero-011519.png)
+
 With all the quick success and money in hand, Companies had more to spend without any growth strategies and they began to employ a "growth at any cost" tactic. Which in a nutshell means spend all you want in marketing.
 
 They were seeing growth but with not enough to make profits. Nevertheless, the FOMO was so high that in 1999 alone, almost 500 companies had their IPOs and most of those were dotcom stocks, Even further: 117 of them had their stocks double in value in the first day of trading.
 Contrast that with today, that's a rare case.  
 
 ### Enter the bear
-> _What goes up must come down_
-- Issac Newton
+> _What goes up must come down_  
+Issac Newton
 
 Newton for sure wasn't much of an investor, but the fundamental applies. The fundamentals here suggested that the dotcom companies were overbrought, the FOMO was high.
 
@@ -60,7 +65,7 @@ Nothing in the internet businesses changed, but while NASDAQ index was around it
 
 It triggered the mass sell-off of stocks and by the end of 2001, over $1 Trillion worth of capital had vanished into thin air. **The bubble had finally burst.**
 
-![Dotcom bubble NASDAQ screenshot]()
+![Dotcom bubble NASDAQ screenshot](https://media.warriortrading.com/2020/01/Dotcom.png)
 
 ### Finis
 By 2002, the market had fallen 85%. And with that our story has come to an end too. This was the dot-com-bubble in 3 minutes.
