@@ -20,33 +20,33 @@ How are you doing?
 
 It's been a while since I sent the last issue. I apologize for the unannounced break that I was on. But I'm back, refreshed. and with a good long read for today's issue. This is the issue #36 of KnowledgeDay, the second one in 2021.
 
-It is a new year, and America's seeing some fun times already. Trump's been thrown off of Twitter and Facebook and for some reason a free speach app gets smashed. _Parler_ is a twitter alternative that's been trying to make some space since it's launch in 2018 and suddenly get's removed by Google and Apple stores. Because a sizable community on the platform is Pro-trump and are unionizing.
+It is a new year, and America's seeing some fun times already. Trump's been thrown off of Twitter and Facebook and for some reason a free speach app gets smashed. _Parler_ is a twitter alternative that's been trying to make some space since it's launch in 2018 and suddenly get's removed by Google and Apple stores. Because a sizable community on the platform is Pro-trump and are unionizing.  
 Developers be like 🤷
 
-Anyway, interesting things keep on happening everywhere, One of those is the popular dot-com bubble a crash that happened ~20 years ago.  
-What crashed? What was the bubble, today we cover that. Join along.
+Anyway, interesting things keep on happening everywhere, One of those is the popular dot-com bubble a crash that happened ~20 years ago.   
+What crashed? What was the bubble, today we cover that. Join along.  
 
 # The Dot-Com bubble
-You've most probably heard of this. If not, then I'm about to throw the rock from above you.
+You've most probably heard of this. If not, then I'm about to throw the rock from above you.  
 
 ### Preface
-Also called the internet bubble, you are reading about a thing of 1990s and early 2000s. The 90s was a period of rapid technological advancement after the creation of **mosaic** in 1993, one of the world's first internet browsers (mosaic wasn't the first but the first to pull noticeable adoption). Opened to supreme flexibility and endless possibilities. This allows personal computers to use the world wide web and this also started the fundamental transition of computer from being a piece of luxury to house hold material.  
+Also called the internet bubble, you are reading about a thing of 1990s and early 2000s. The 90s was a period of rapid technological advancement after the creation of **mosaic** in 1993, one of the world's first internet browsers (mosaic wasn't the first but the first to pull noticeable adoption). Opened to supreme flexibility and endless possibilities. This allows personal computers to use the world wide web and this also started the fundamental transition of computer from being a piece of luxury to house hold material.    
 With maas adoption comes maas opportunities. And entrepreneurs began to see untapped potential within this industry, The result was and enormous wave of new internet companies such as Amazon, Yahoo, GeoCities among thousands of others.
 
 ![Netscape Navigator](https://d2bs8hqp6qvsw6.cloudfront.net/article/images/750x750/dimg/netscape-2.jpg)
 
-Mosaic might be the early bird, but wasn't very stable or intuitive. Enters Netscape Communications in 1995, they released and distributed **Netscape Navigator**. The browser being free, faster and more intuitive quickly set the benchmark in the browser field and easily overtook Mosaic as the most propular browser.
+Mosaic might be the early bird, but wasn't very stable or intuitive. Enters Netscape Communications in 1995, they released and distributed **Netscape Navigator**. The browser being free, faster and more intuitive quickly set the benchmark in the browser field and easily overtook Mosaic as the most propular browser. 
 
 ### The trend
-Clearly with new internet forming up as soon as this new thing called web browser had emerged. Investors and entrpreneurs saw this as an opportunity and they started pushing-in money to the internet companies.
+Clearly with new internet forming up as soon as this new thing called web browser had emerged. Investors and entrpreneurs saw this as an opportunity and they started pushing-in money to the internet companies.  
 
-Netscape being a free browser was gaining all the traction it could but wasn't money for the company. Seeing the traction and trend adoption, they launched their IPO (Initial Public Offering: Process of opening the company shared to be owned and traded by the general public). Naturally, for the times the IPO took the world by storm, everyone overlooked the past revenues of Netscape and joined the bandwagon of internet's exponential growth. The Netscape stock price doubled on the very first day of listing.
+Netscape being a free browser was gaining all the traction it could but wasn't money for the company. Seeing the traction and trend adoption, they launched their IPO (Initial Public Offering: Process of opening the company shared to be owned and traded by the general public). Naturally, for the times the IPO took the world by storm, everyone overlooked the past revenues of Netscape and joined the bandwagon of internet's exponential growth. The Netscape stock price doubled on the very first day of listing.  
 
 ### The FOMO
 Netscape successfully set up the platform for internet usage. You know what a good platform invites? Products!  
-Entrereneurs started exploring possibilities and start their new "internet ventures".
+Entrereneurs started exploring possibilities and start their new "internet ventures".  
 
-In a nutshell, that means more companies, more IPOs and more investor money. From 1995 to 1999, hundreds of dot-com companies had their IPOs resulting immediate responses from investors. Recipe for investor FOMO.  
+In a nutshell, that means more companies, more IPOs and more investor money. From 1995 to 1999, hundreds of dot-com companies had their IPOs resulting immediate responses from investors. Recipe for investor FOMO.    
 
 ![Bull case](https://i0.wp.com/ninjatrader.com/blog/wp-content/uploads/2019/06/Bullish-Trend-hero-011519.png)
 
