@@ -13,6 +13,7 @@ tags:
   - economy
   - finance
 issue: 36
+fig-caption: Dot-com Bubble
 ---
 Hey there,
 
@@ -56,7 +57,7 @@ They were seeing growth but with not enough to make profits. Nevertheless, the F
 Contrast that with today, that's a rare case.  
 
 ### Enter the bear
-> _What goes up must come down_  
+> "_What goes up must come down_"  
 Issac Newton
 
 Newton for sure wasn't much of an investor, but the fundamental applies. The fundamentals here suggested that the dotcom companies were overbrought, the FOMO was high.
