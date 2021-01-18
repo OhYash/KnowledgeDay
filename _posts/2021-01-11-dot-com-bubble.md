@@ -3,7 +3,9 @@ published: false
 layout: post
 date: '2021-01-18 15:00:00 +0530'
 title: Dot com bubble in 3 minutes
-description: Theres always some sort of trend bubble expanding. Ready to explode at once. One such popular bubble is of the dot com in 1990s. Lets read about that
+description: >-
+  Theres always some sort of trend bubble expanding. Ready to explode at once.
+  One such popular bubble is of the dot com in 1990s. Lets read about that
 img: new_year_hero.jpg
 tags:
   - History
