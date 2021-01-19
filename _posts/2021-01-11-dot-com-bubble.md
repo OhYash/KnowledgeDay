@@ -71,10 +71,3 @@ _NASDAQ graph for 1990s_
 
 ## Finis
 By 2002, the market had fallen 85%, to slowly recover back by 2015. And with that our story has come to an end too. This was the dot-com-bubble in 3 minutes.
-
-# What's in next
-This section is unusual but I waana have your attention onto this.  
-If you live in the US or have read the recent news of the US, you know about the recent Capitol attack after Trump's speech. Trump was immediately banned from most of the top social networks, but what else you heard was suddenly the free-speech alternative to twitter: **Parler** was kicked by all the top app stores and even AWS, their cloud provider.  
-
-Nothing political here, but this gives me an opportunity to share about what can an company do other than trying to sue the giants (Which Parler just did). This has come up after TPB's founder said that the inability of Parler to stay online after AWS's boot is "enbarrassing".
-The next post isn't about parler, it's about the embarrassment, the defeat, And the comeback. Stay tuned, you're gonna love it.
