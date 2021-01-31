@@ -19,7 +19,7 @@ I welcome you to another Knowledge•Day issue. Straight from my home in Rajasth
 This is the issue #37 and I hope you've read the issue #36. If you did, you'd probably remember the ending para where I disclosed my plan for this issue. And I don't intend to deviate from the plan.  
 
 For a reminder, this issue will be about the independent apps fighting back when bigger bodies try to stop them.  
-P.S. I have no intention of judging anyone here and this does not shaer any opinion on anything. This newsletter aims to be opinion-free for any topic covered. This is a pure "knowledge" blob simplified.  
+P.S. I have no intention of judging anyone here and this does not shaer any opinion on anything. This newsletter aims to be opinion-free for any topic covered. This is a pure "knowledge" blo. Simplified.  
 
 ----
 
