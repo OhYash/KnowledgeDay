@@ -30,7 +30,7 @@ You've most probably heard of this. If not, then I'm about to throw away the roc
 
 ### Preface
 Also called the internet bubble, you are reading about a thing of 1990s and early 2000s. The 90s was a period of rapid technological advancement after the creation of **mosaic** in 1993, one of the world's first internet browsers (mosaic wasn't the first but the first to pull noticeable adoption). Opened to supreme flexibility and endless possibilities. This allows personal computers to use the world wide web and this also started the fundamental transition of computer from being a piece of luxury to house hold material.    
-With maas adoption comes maas opportunities. And entrepreneurs began to see untapped potential within this industry, The result was and enormous wave of new internet companies such as Amazon, Yahoo, GeoCities among thousands of others.
+With mass adoption comes mass opportunities. And entrepreneurs began to see untapped potential within this industry, The result was and enormous wave of new internet companies such as Amazon, Yahoo, GeoCities among thousands of others.
 
 Mosaic might be the early bird, but wasn't very stable or intuitive. Enters Netscape Communications in 1995, they released and distributed **Netscape Navigator**. The browser being free, faster and more intuitive quickly set the benchmark in the browser field and easily overtook Mosaic as the most propular browser. 
 
