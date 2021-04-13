@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2021-14-13 15:00:00 +0530'
 title: How the internet was built
@@ -83,4 +83,4 @@ One thing led to another and by the start of the 21st century, the dot-com boom 
 That was it, my friend. Off I go now. See you in the next issue.   
 Oh, and if you enjoyed reading this piece of history, please do consider sharing this newsletter with a friend. I trust your friends to be as cool as you are.  
 
-// Sources: [History](https://www.history.com/topics/inventions/invention-of-the-internet), [The guardian](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf)  
+// Sources: [History](https://www.history.com/topics/inventions/invention-of-the-internet), [The guardian](https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf)
