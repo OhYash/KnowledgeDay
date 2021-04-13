@@ -27,7 +27,7 @@ But it's okay. Times do get stressful. But screw that, I have news. I made a swi
 
 You most likely have never heard of them. It is an _Information security_ company that works on Data Loss Prevention solutions for businesses. My work will be around improving and enhancing their **nDLP** (Network Data Loss Protection) software.  
 
-Interested in knowing more? I'd love to talk about it - [Just send me a "Hi"]mailto:knowledgeday@protonmail.com?subject=Wassup%20with%20your%20new%20Job&body=I'd%20like%20to%20talk%20about%20Digital%20Guardian%3A%20()!
+Interested in knowing more? I'd love to talk about it - [Just send me a "Hi"](mailto:knowledgeday@protonmail.com?subject=Wassup%20with%20your%20new%20Job&body=I'd%20like%20to%20talk%20about%20Digital%20Guardian%3A%20)!
 
 Speaking of networks. It's so amazing it enables this awesome thing called **The Internet** which allows us to send e-mails, thanks to which now you're reading this newsletter. <3  
 
