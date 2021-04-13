@@ -1,5 +1,14 @@
 ---
 published: false
+layout: post
+date: '2021-14-13 15:00:00 +0530'
+title: How the internet was built
+img: boston_dynamics_hero.jpg
+fig-caption: Spot by Boston Dynamics
+tags:
+  - Robots
+  - Science
+issue: 32
 ---
 Hey there,
 
@@ -33,6 +42,9 @@ Scare of the **Soviet Union**. Yep.
 
 The year was 1957, and the Soviet Union launched the first man-made satellite into orbit. The **Sputnik**.  
 While it did not do much besides being the first successful proof of concept. It was an alarming sign for the US, positioning them inferiorly to the Soviets, who could win the [Cold War](https://tenor.cards/?p=VGhlIENvbGQgV2FyIHJpdmFscnkgYmV0d2VlbiB0aGUgVW5pdGVkIFN0YXRlcyBhbmQgdGhlIFNvdmlldCBVbmlvbiBsYXN0ZWQgZm9yIGRlY2FkZXMgYW5kIGxlZCB0aGUgdHdvIHN1cGVycG93ZXJzIHRvIHRoZSBicmluayBvZiBudWNsZWFyIGRpc2FzdGVyLg==) with this scientific advancement.  
+
+![The Sputnik 1]({{site.baseurl}}/assets/img/sputnik_1.jpeg)
+_The Sputnik 1. Looks like a space spider_
 
 Americans were afraid that with this satellite tech, the Soviets could cut off their telephone links. A big no-no for the time when long wired telephones were the only way of communication for the military. They had to do something.  
 
