@@ -1,7 +1,7 @@
 title: Knowledge•Day
 description: > # this means to ignore newlines until "baseurl:"
   Blog-cum-newsletter for the curious, by a curious.<br/>
-  Weekly 3 minutes read on something interesting. Handpicked.
+  Fortnightly 3 minutes read on something interesting. Handpicked.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://knowledgeday.in" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,14 +9,14 @@ site-twitter: KnowledgeDayNL #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Yash Yadav # add your name
-author-img: santakd.jpg # KD_profile.jpg # add your photo
+author-img:  KD_profile.jpg # santakd.jpg # add your photo
 about-author: I am a software engineer focusing on back-end development. Always hungry to keep learning. # add description
 social-twitter: OhY4sh # add your Twitter handle
 social-facebook: OhY4sh # add your Facebook handle
 social-github: OhYash # add your Github handle
 social-linkedin: OhYash # add your Linkedin handle
 social-email: KnowledgeDay@protonmail.com # add your Email address
-email-subscribers: 60
+email-subscribers: 58
 
 # Disqus
 discus-identifier: knowledgeday # add your discus identifier
