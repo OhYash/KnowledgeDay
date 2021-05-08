@@ -19,7 +19,7 @@ layout: main
 				<div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
 			</header>
 			{% if page.external-link %}
-				<span>Article moved to {{page.external-link}}.</span>
+				<span>Article moved to <a href="{{page.external-link}}">{{page.external-link}}</a>.</span>
 			{% endif %}
 			{{content | markdownify}}
 			<!--
