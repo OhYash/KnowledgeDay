@@ -18,6 +18,9 @@ layout: main
 				<h1 class="page-title">{{page.title}}</h1>
 				<div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
 			</header>
+			{% if page.external-link %}
+				<span>Article moved to {{page.external-link}}.</span>
+			{% endif %}
 			{{content | markdownify}}
 			<!--
 			<h1>Keep it Coming</h1>
