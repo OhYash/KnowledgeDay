@@ -86,5 +86,7 @@ For the early guessers, it's not due to the oil and cheese <sub><sup>(alone)</su
 ------
 
 Alrighty, that was it for the **first KD TiLT** issue. Liked it? Share with friends.  
-Which one article/video caught your interest first? I'd love to know? Just reply to this email and let me know.  
+
+Which one article/video caught your interest first? I'd love to know? Just comment down here and let me know.  
+
 Also, now that you get the gist of what it is, I see this as another opportunity to share **your** awesome finding. Hit me up whenever you come across something you think is worth sharing. (Hint: there are at least 5 such exciting things you come across every week)  
