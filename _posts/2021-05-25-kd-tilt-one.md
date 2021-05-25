@@ -1,5 +1,18 @@
 ---
-published: false
+published: true
+layout: post
+date: '2021-05-25 15:00:00 +0530'
+title: Enter a new variant - KD TiLT
+img: kd_tilt.png
+fig-caption: KD TiLT
+tags:
+  - Links
+  - Aggregation
+  - TiLT
+issue: 40
+description: >-
+  Introducing KD TiLT, where each issue grows your knowledge 5x. This is the first episode.
+  
 ---
 Hey there,
 
