@@ -58,7 +58,7 @@ Warmups are an extremely important part of our workout routine. Not just for pre
 ------
 
 _#tech_  
-## [The Limits to Blockchain Scalability](https://cutt.ly/1nrzuMm)  
+### [The Limits to Blockchain Scalability](https://cutt.ly/1nrzuMm)  
 _20-25 minutes read | Vitalik_  
 
 Elon very recently [shared his views](https://cutt.ly/tnrzsCR) targetting Doge to "speed up block time 10x, Increase size 10x, and drop fee 100x". This doesn't seem doable without some serious compromised to decentralization to the founder of **Ethereum blockchain** Vitalik Buterin. So our man came up with some facts on his blog about how realistic Elon's viewpoint is. P.S., This assumes some understanding of how blockchain works, the rest he can explain.  
@@ -66,7 +66,7 @@ If you're looking for a trivial explanation of blockchain, I had [written a piec
 
 ------
 _#space_  
-## [How Do Astronauts Spend Their Weekends in Space?](https://cutt.ly/nnrzomF)  
+### [How Do Astronauts Spend Their Weekends in Space?](https://cutt.ly/nnrzomF)  
 _9-12 minutes read | Smithsonian Magazine_  
 
 We've got these boring 9-5 (or some variant of it), and then some downtime for the evenings and the weekends. But what do our friends living out there, away from natural gravity, do?  
