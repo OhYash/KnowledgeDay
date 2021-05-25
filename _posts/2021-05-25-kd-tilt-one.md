@@ -45,7 +45,7 @@ _#unusualliving_
 ### [Echolocate your surroundings](https://cutt.ly/Hnrzym7)  
 _7-9 minutes read | Atlas Obscura_  
 
-What sounds like a GPS offering from Amazon is nothing like it. This is about taking a page from Bats' book to draw the surroundings. Daniel Kish, seeing only black since his infancy, navigates the world like a bat does. He uses his mouth to produce crisp clicking sounds and then listens to how those sounds bounce off the surrounding landscape. You and I may not need to learn this technique, but it's a worthy read and share for those who care.  
+What sounds like a GPS offering from Amazon is nothing like it. This is about taking a page from the bats' books to draw the surroundings. Daniel Kish, seeing only black since his infancy, navigates the world like a bat does. He uses his mouth to produce crisp clicking sounds and then listens to how those sounds bounce off the surrounding landscape. You and I may not need to learn this technique, but it's a worthy read and share for those who care.  
 
 ------
 
@@ -61,7 +61,8 @@ _#tech_
 ### [The Limits to Blockchain Scalability](https://cutt.ly/1nrzuMm)  
 _20-25 minutes read | Vitalik_  
 
-Elon very recently [shared his views](https://cutt.ly/tnrzsCR) targetting Doge to "speed up block time 10x, Increase size 10x, and drop fee 100x". This doesn't seem doable without some serious compromised to decentralization to the founder of **Ethereum blockchain** Vitalik Buterin. So our man came up with some facts on his blog about how realistic Elon's viewpoint is. P.S., This assumes some understanding of how blockchain works, the rest he can explain.  
+Elon very recently [shared his views](https://cutt.ly/tnrzsCR) targetting Doge to "speed up block time 10x, Increase size 10x, and drop fee 100x". This doesn't seem doable without some serious compromises to decentralization to the founder of **Ethereum blockchain** - Vitalik Buterin. So our man came up with some facts on his blog about how realistic Elon's viewpoint is.  
+P.S., This assumes some understanding of how blockchain works, the rest he can explain.  
 If you're looking for a trivial explanation of blockchain, I had [written a piece](https://cutt.ly/Vnrzfs5) last year on it, should be good for a start.  
 
 ------
