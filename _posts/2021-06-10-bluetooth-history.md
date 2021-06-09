@@ -28,7 +28,7 @@ All innovation and no use. It took 6 years to produce first bluetooth-enabled ph
 
 The **first generation Bluetooth** worked within 10m diameter of space, and it's speed tapped out at 721 Kbps.
 
-> P.S. GPS receiver made it to phones before bluetooth did. Benefone Esc, 1999, was the first GPS-enabled phone.
+> P.S. GPS receiver made it to phones before bluetooth did. [Benefone Esc](https://www.gsmarena.com/benefon_esc!-44.php), 1999, was the first GPS-enabled phone.
 
 Couple years later, in 2005, **Bluetooth 2.0** was unveiled. Which tripled the speed upto 2.1 Mbps.  
 Fancy huh? Hear this now, in 4 years they even beat that with **Bluetooth 3.0 HS** acheiving upto 24 Mbps! Over 11x speed growth.  
@@ -39,7 +39,7 @@ Here's a catch: The HS was essentially **Wifi** doing the speedy magic with stan
 
 Good game, but there was one problem, wifi consumes significantly more power than bluetooth does. So, they figured it's better to keep the Wifi technology separate.  
 
-> This small [experiment](https://www.clearevo.com/ecodroidlink/bluetooth_vs_wifi_on_android_battery_consumption/index.html) tries to practically find the power consumption difference on a android phone running internet over Wifi vs over Bluetooth. 
+> This small [experiment](https://www.clearevo.com/ecodroidlink/bluetooth_vs_wifi_on_android_battery_consumption/index.html) tries to practically find the power consumption difference on a android phone running youtube over Wifi vs over Bluetooth. 
 
 The next version of bluetooth came up with a whooping **1 Mbps top speed!!**
 
