@@ -49,7 +49,7 @@ Yes, **Bluetooth 4.0**, aka Bluetooth Low Energy, came in 2010 was slower than B
 
 It gets crazier, Bluetooth 4 wasn't bluetooth at all.
 
-_**Wut?**_
+_**What ?!!**_
 
 There was an independent project started at Nokia under the name Wibree, but that would be incorporated into the next generation of Bluetooth.
 
