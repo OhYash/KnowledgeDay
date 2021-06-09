@@ -60,4 +60,9 @@ Now, with this low energy as base they improved on speed and range. And they did
 This is just enough to provide good range and decent speeds for most use cases while keeping the power consumption low.  
 And we have Wifi, independently improving itself for high speed usecases. Like Netflix and chill.  
 
-Sources: [Android Authority](https://www.androidauthority.com/history-bluetooth-explained-846345/), [GSMArena](https://www.gsmarena.com/flashback_a_brief_history_of_bluetooth-news-49119.php)   
+Sources: [Android Authority](https://www.androidauthority.com/history-bluetooth-explained-846345/), [GSMArena](https://www.gsmarena.com/flashback_a_brief_history_of_bluetooth-news-49119.php)  
+
+---
+
+This was bluetooth's history in 4 minutes. I hope you liked it.  
+And if you did, please do [consider sharing it](), helps me get more feedback and satisfation for my efforts. :-)  
