@@ -11,12 +11,12 @@ site-twitter: KnowledgeDayNL #if your site has a twitter account, enter it here
 author: Yash Yadav # add your name
 author-img:  KD_profile.jpg # santakd.jpg # add your photo
 about-author: I am a software engineer focusing on back-end development. Always hungry to keep learning. # add description
-social-twitter: OhY4sh # add your Twitter handle
+social-twitter: KnowledgeDayNL # add your Twitter handle
 social-facebook: OhY4sh # add your Facebook handle
 social-github: OhYash # add your Github handle
 social-linkedin: OhYash # add your Linkedin handle
 social-email: KnowledgeDay@protonmail.com # add your Email address
-email-subscribers: 62
+email-subscribers: 63
 
 # Disqus
 discus-identifier: knowledgeday # add your discus identifier
