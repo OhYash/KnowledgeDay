@@ -55,13 +55,13 @@ _#unusualliving_
 ### How to have a night of adventure – without a tent: Bivvying
 _8 - 10 minutes | The Guardian_
 
-![Bivvying](https://i.guim.co.uk/img/media/6065ff93427a34838da321a8e3b6c783fd4ba8bf/0_497_7360_4415/master/7360.jpg?width=1020&quality=45&auto=format&fit=max&dpr=2&s=df405b46f6a27c96b4a4248cbe4c7eb4)
+[![Bivvying](https://i.guim.co.uk/img/media/6065ff93427a34838da321a8e3b6c783fd4ba8bf/0_497_7360_4415/master/7360.jpg?width=1020&quality=45&auto=format&fit=max&dpr=2&s=df405b46f6a27c96b4a4248cbe4c7eb4)](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent)
 
 The virus is still around, but does it look like it? No. But you and I do look like we need an adventurous trip. Now if you're going solo, you probably aren't gonna have an easy time carrying a tent.  
 _Where is the adventure in that?_  
 Exactly. Enter **Bivvys**, the just-enough tents for you to chill until you feel a werewolf smelling his food when you're asleep 💀.  
 
-[Read about it >>](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent?utm_source=pocket-newtab-intl-en)
+[Read about it >>](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent)
 
 --------
 
@@ -69,7 +69,7 @@ _#fitness_
 ### Build a Sustainable Workout Routine You Love
 _9 - 11 minutes read | Self_
 
-![fitness](https://media.self.com/photos/6092c6f54eb017b40e89d517/4:3/w_2560%2Cc_limit/fitness_workouts_movement.jpeg)
+[![fitness](https://media.self.com/photos/6092c6f54eb017b40e89d517/4:3/w_2560%2Cc_limit/fitness_workouts_movement.jpeg)](https://www.self.com/story/fitness-resistance-building-sustainable-workout-program)
 
 Tried working out. There are days when you feel like not doing it but still do a little. Then there are days when you are supercharged. But then what happens, that it makes you take a break. The break then expands, and soon you realize it's been over a month since you last worked out. 
 Maybe two, maybe more. Wait, why does that sound like me?  
@@ -94,7 +94,7 @@ _#kids_
 ### 10 cool facts about ants
 _3 - 4 minutes read | natgeokids.com_
 
-![Ants facts](https://www.natgeokids.com/wp-content/uploads/2016/11/ant-facts-secondary.jpg)
+[![Ants facts](https://www.natgeokids.com/wp-content/uploads/2016/11/ant-facts-secondary.jpg)](https://www.natgeokids.com/uk/discover/animals/insects/ant-facts/)
 
 Yes, I did wish to read about this one fine day. Yes, I search for this. But you don't have to. I came for some general facts about their weight and found out how one type of ant sting feels like you've been hit by a bullet. It's crazy. I'll leave it up to you to read.  
 
@@ -106,7 +106,7 @@ _#video_
 ### Why do computers suck at math?
 _1-minute quickie | Youtube/Fireship_
 
-![Why do computers suck at math](https://i3.ytimg.com/vi/s9F8pu5KfyM/maxresdefault.jpg)
+[![Why do computers suck at math](https://i3.ytimg.com/vi/s9F8pu5KfyM/maxresdefault.jpg)](https://www.youtube.com/watch?v=s9F8pu5KfyM)
 
 _Wait for a second Yash... You didn't just tell me Computers, of everything and everyone that can do arithmetic calculations, computers suck at maths?_   
 Well, at best I just went ahead and tried for myself, only to confirm this video's right.  Computers do kinda make mathematical mistakes. Now you may watch the video to understand why is it so.   
