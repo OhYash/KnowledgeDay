@@ -1,5 +1,21 @@
 ---
-published: false
+published: true
+layout: post
+date: '2021-06-25 15:00:00 +0530'
+title: KD TiLT 2 - Bivvys and more
+img: kd_tilt.png
+fig-caption: KD TiLT
+tags:
+  - Links
+  - Aggregation
+  - TiLT
+  - life
+  - tech
+  - youtube
+  - fitness
+issue: 42
+description: >-
+  Introducing KD TiLT, where each issue grows your knowledge 5x. This is the second episode.
 ---
 Hey there,
 
