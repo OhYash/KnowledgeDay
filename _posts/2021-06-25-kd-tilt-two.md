@@ -26,7 +26,7 @@ That's what I thought. But No. I opened and swapped that too, the same situation
 
 Neither of which are cheap replacements. And, hence my tweet today.   
 
-Alright, maybe you didn't open this to read about my (arguable) _love_ for almost a decade-old piece of electronics. Let's get to the thing of the current.   
+Alright, maybe you didn't open this to read about my (arguable) _love_ for almost a decade-old piece of electronic. Let's get to the thing of the current.   
 
 This is the second issue of KD TiLT! If you don't know this variant of the newsletter is designed specifically to share things I can't write better than my sources over the internet.   
 
@@ -43,7 +43,7 @@ _8 - 10 minutes | The Guardian_
 
 The virus is still around, but does it look like it? No. But you and I do look like we need an adventurous trip. Now if you're going solo, you probably aren't gonna have an easy time carrying a tent.  
 _Where is the adventure in that?_  
-Exactly. Enter **Bivvys**, the just-enough tents for you to chill until you feel a werewolf smoking his food 💀.  
+Exactly. Enter **Bivvys**, the just-enough tents for you to chill until you feel a werewolf smelling his food when you're asleep 💀.  
 
 [Read about it >>](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent?utm_source=pocket-newtab-intl-en)
 
