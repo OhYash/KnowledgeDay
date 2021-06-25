@@ -33,4 +33,76 @@ This is the second issue of KD TiLT! If you don't know this variant of the newsl
 Let's get onto it!
 
 --------
+--------
 
+_#unusualliving_
+### How to have a night of adventure – without a tent: Bivvying
+_8 - 10 minutes | The Guardian_
+
+![Bivvying](https://i.guim.co.uk/img/media/6065ff93427a34838da321a8e3b6c783fd4ba8bf/0_497_7360_4415/master/7360.jpg?width=1020&quality=45&auto=format&fit=max&dpr=2&s=df405b46f6a27c96b4a4248cbe4c7eb4)
+
+The virus is still around, but does it look like it? No. But you and me do look like we need a adventurous trip. Now if you're going solo, you probably aren't gonna have a easy time carrying a tent.  
+_Where is the adventure in that?_  
+Exactly. Enter **Bivvys**, the just-enough tents for you to chill until you feel a warewolf smoking his food 💀.  
+
+[Read about it >>](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent?utm_source=pocket-newtab-intl-en)
+
+--------
+
+_#fitness_
+### Build an Actually Sustainable Workout Routine You Love
+_9 - 11 minutes read | Self_
+
+![fitness](https://media.self.com/photos/6092c6f54eb017b40e89d517/4:3/w_2560%2Cc_limit/fitness_workouts_movement.jpeg)
+
+Tried working out. There are days when you feel like not doing it, but still do a little. Then there are days when you are supercharged. But then what happens, that it makes you take a break. The break then expands, and soon you realise it's been over a month since you last worked out. 
+Maybe two, maybe more. Wait, why does that sound like me?  
+Anyway, this piece from selfdotcom helps setting up a framework that'd help you go long. <sub><sup>(No, not in that sense)</sup></sub>
+
+[Read here >>](https://www.self.com/story/fitness-resistance-building-sustainable-workout-program)
+
+--------
+
+_#programming_
+### Why windows uses CR+LF for newline instead of LF like the rest
+_2 - 3 minutes read | Microsoft_
+
+If you are a programmer, you might have seen that windows and unix based operating systems support two different line endings. This is also usually found in the settings of the text editor/IDE you're using. Ever wondered why so? Well I had to find out one day, this is a good short explaination from Microsoft.  
+Spoiler: Microsoft's doing it correctly.
+
+[Read about it >>](https://devblogs.microsoft.com/oldnewthing/20040318-00/?p=40193)
+
+--------
+
+_#kids_
+### 10 cool facts about ants
+_3 - 4 minutes read | natgeokids.com_
+
+![Ants facts](https://www.natgeokids.com/wp-content/uploads/2016/11/ant-facts-secondary.jpg)
+
+Yes, I really did wish to read about this one fine day. Yes, I search for this. But you don't have to. I came for some general facts about their weight and found out how one type of ant sting feels like you've been hit by a bullet. It's crazy. I'll leave it up to you to read.
+
+[Read it here >>](https://www.natgeokids.com/uk/discover/animals/insects/ant-facts/)
+
+--------
+
+_#video_
+### Why do computers suck at math?
+_1 minute quickie | Youtube/Fireship_
+
+![Why do computers suck at math](https://i3.ytimg.com/vi/s9F8pu5KfyM/maxresdefault.jpg)
+
+_Wait a second Yash... You didn't just tell me Computers, of everything and everyone that can do arithmatic calculations, computers suck at maths?_  
+Well, at best I just went ahead and tried for mysef, only to confirm this video's right. Computers do kinda make mathmatical mistakes. Now you may watch the video to understand why is it so.  
+Try `0.1 + 0.5` ;-)
+
+[Watch the video >>](https://www.youtube.com/watch?v=s9F8pu5KfyM)
+
+------
+------
+
+Alrighty, that was it for this **KD TiLT** issue. Liked it? Share with friends.  
+
+Which one article/video caught your interest first? I'd love to know? Just comment down here and let me know.  
+
+Also, now that you get the gist of what it is, I see this as another opportunity to share **your** awesome finding. Hit me up whenever you come across something you think is worth sharing. (Hint: there are at least 5 such exciting things you come across every week)  
