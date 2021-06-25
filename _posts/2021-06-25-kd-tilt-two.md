@@ -7,7 +7,7 @@ Welcome to the **42<sup>nd</sup> Knowledge•Day issue**!!
 
 Today's issue wasn't very easy to compile. You know why?  
 
-[![laptop, dead]({{site.baseurl}}/_posts/Screenshot 2021-06-25 at 10.46.51 PM.png)](https://twitter.com/OhY4sh/status/1408463702639005698)
+[![laptop, dead]({{site.baseurl}}/assets/img/my_pavilion_g6.png)](https://twitter.com/OhY4sh/status/1408463702639005698)
 
 Probably my longest companion lasted over 30 times my longest relationship, had been the guinea for almost all of my experiments, explorations(soft and hard), countless benchmarks. All that I didn't do on my phone, I did on this particular laptop.  
 
