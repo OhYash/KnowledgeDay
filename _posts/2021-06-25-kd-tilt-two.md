@@ -25,7 +25,7 @@ Today's issue wasn't very easy to compile. You know why?
 
 [![laptop, dead]({{site.baseurl}}/assets/img/my_pavilion_g6.png)](https://twitter.com/OhY4sh/status/1408463702639005698)
 
-Probably my longest companion lasted over 30 times my longest relationship, had been the guinea for almost all of my experiments, explorations(soft and hard), countless benchmarks. All that I didn't do on my phone, I did on this particular laptop.  
+Probably my longest companion. Lasted 30 times more than my longest relationship, had been the guinea for almost all of my experiments, explorations(soft and hard), and countless benchmarks. All that I didn't do on my phone, I did on this particular laptop.  
 
 I wasn't very nice with it ever, this boy came into the wrong hands. I understand you may also have opened your laptop for replacing the RAM or Harddisk, or maybe you opened it further to clean the internals yourself and touch and feel the brain of it, the processor. I do that, to almost all the devices I've owned, desktops(of course), laptops, phones, tablets...  
 
@@ -44,7 +44,7 @@ Neither of which are cheap replacements. And, hence my tweet today.
 
 Alright, maybe you didn't open this to read about my (arguable) _love_ for almost a decade-old piece of electronic. Let's get to the thing of the current.   
 
-This is the second issue of KD TiLT! If you don't know this variant of the newsletter is designed specifically to share things I can't write better than my sources over the internet.   
+This is the second issue of KD TiLT! In case you don't know, this variant of the newsletter is designed specifically to share things I can't write better than my sources over the internet.   
 
 Let's get onto it!
 
@@ -57,9 +57,9 @@ _8 - 10 minutes | The Guardian_
 
 [![Bivvying](https://i.guim.co.uk/img/media/6065ff93427a34838da321a8e3b6c783fd4ba8bf/0_497_7360_4415/master/7360.jpg?width=1020&quality=45&auto=format&fit=max&dpr=2&s=df405b46f6a27c96b4a4248cbe4c7eb4)](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent)
 
-The virus is still around, but does it look like it? No. But you and I do look like we need an adventurous trip. Now if you're going solo, you probably aren't gonna have an easy time carrying a tent.  
-_Where is the adventure in that?_  
-Exactly. Enter **Bivvys**, the just-enough tents for you to chill until you feel a werewolf smelling his food when you're asleep 💀.  
+The virus is still around, but does it look like it? No. But you and I do look like we need an adventurous trip. Heck yes!! Now if you're going solo, you probably aren't gonna have an easy time carrying a tent.  
+_Where would the adventure be without tent?_  
+Exactly. It's a need. Enter **Bivvys**, the just-enough tents for you to chill until you feel a werewolf right above your face, smelling his food 💀.  
 
 [Read about it >>](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent)
 
@@ -96,7 +96,7 @@ _3 - 4 minutes read | natgeokids.com_
 
 [![Ants facts](https://www.natgeokids.com/wp-content/uploads/2016/11/ant-facts-secondary.jpg)](https://www.natgeokids.com/uk/discover/animals/insects/ant-facts/)
 
-Yes, I did wish to read about this one fine day. Yes, I search for this. But you don't have to. I came for some general facts about their weight and found out how one type of ant sting feels like you've been hit by a bullet. It's crazy. I'll leave it up to you to read.  
+Yes, I did have a wish to read about this one fine day. and Yes, I googled this. But you don't have to. I came for some general facts about their weight and found out how one type of ant sting feels like you've been hit by a bullet. It's crazy. I'll leave it up to you to read.  
 
 [Read it here >>](https://www.natgeokids.com/uk/discover/animals/insects/ant-facts/)
 
