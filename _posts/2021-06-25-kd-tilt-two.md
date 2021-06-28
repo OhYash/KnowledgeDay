@@ -111,7 +111,6 @@ _1-minute quickie | Youtube/Fireship_
 
 _Wait for a second Yash... You didn't just tell me Computers, of everything and everyone that can do arithmetic calculations, computers suck at maths?_   
 Well, at best I just went ahead and tried for myself, only to confirm this video's right.  Computers do kinda make mathematical mistakes. Now you may watch the video to understand why is it so.   
-Try `0.1 + 0.5` ;-)  
 
 [Watch the video >>](https://www.youtube.com/watch?v=s9F8pu5KfyM)
 
