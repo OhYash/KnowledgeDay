@@ -57,7 +57,8 @@ _8 - 10 minutes | The Guardian_
 
 [![Bivvying](https://i.guim.co.uk/img/media/6065ff93427a34838da321a8e3b6c783fd4ba8bf/0_497_7360_4415/master/7360.jpg?width=1020&quality=45&auto=format&fit=max&dpr=2&s=df405b46f6a27c96b4a4248cbe4c7eb4)](https://www.theguardian.com/travel/2021/jun/16/bivvying-night-adventure-close-to-home-camping-without-tent)
 
-The virus is still around, but does it look like it? No. But you and I do look like we need an adventurous trip. Heck yes!! Now if you're going solo, you probably aren't gonna have an easy time carrying a tent.  
+The virus is still around, but does it look like it? No.  
+But do you and I do look like we need an adventurous trip? Heck Yes!! Now if you're going solo, you probably aren't gonna have an easy time carrying a tent.  
 _Where would the adventure be without tent?_  
 Exactly. It's a need. Enter **Bivvys**, the just-enough tents for you to chill until you feel a werewolf right above your face, smelling his food 💀.  
 
