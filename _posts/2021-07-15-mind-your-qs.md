@@ -2,15 +2,16 @@
 published: true
 layout: post
 date: '2021-07-15 15:00:00 +0530'
-title: Mind your quotients
-img: kd_tilt.png
+title: Mind your Quotients
+img: mind_qs_hero.jpg
 fig-caption: Quotients
 tags:
-  - phychology
+  - psychology
   - intelligence
+  - pesonality
 issue: 43
 description: >-
-    You may get away with no description sometimes.
+    What makes us human
 ---
 Hey there,  
 
