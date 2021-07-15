@@ -33,20 +33,22 @@ The Vocabulary that has emerged over the years for individual competencies with 
 The metric of Brilliance. IQ signifies mental potential and academic ability. Back in 1912, a German psychologist, William Stern, came up with the formula “ratio of mental age to chronological age times 100”, which remains the same. Mental age is determined by going through an approved IQ test, and chronological age is determined by asking your parents.  
 
 **Now what is Mensa?**  
-In short: Community of the smarties. [Mensa](https://www.mensa.org/mensa/about-us), which means ‘table’ in Latin, is a society that recognizes individuals whose IQ belongs to the **top 2%** of the population, and over time, Mensa entry has become the highest bar for proving your intelligence. (I'm not a part, but it'd be super awesome to find out if you belong to the community already. Let me know).  
+In short: Community of the smarties. [Mensa](https://www.mensa.org/mensa/about-us), which means ‘table’ in Latin, is a society that recognizes individuals whose IQ belongs to the **top 2%** of the population, and over time, Mensa entry has become the highest bar for proving your intelligence. (I'm not a part of it, but it'd be super awesome to find out if you belong to the community already. Let me know).  
 
 ### EQ or Emotional Quotient
 You’ve seen them: The people who appear to be cool as a cucumber on deadline. Those who handle awkward family dinners with grace. The ones that get where you’re coming from, without you having to say a lot.  
 
 That’s because they may possess a certain skill set in spades — emotional intelligence.  
 
-Sometime in 1990, John D Mayer and Peter Salovey created a framework for emotional intelligence. Daniel Goleman then championed the concept in his 1995 book, Emotional Intelligence.  
+Sometime in 1990, John D Mayer and Peter Salovey created a framework for emotional intelligence. Daniel Goleman then championed the concept in his 1995 book, [Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X).  
+
 He referenced 5 components essential for a good EQ:  
-Self-awareness, Self-regulation, Motivation, Empathy, Social skills.  
-I'm not covering all of that^ here. Go read [his book](https://www.goodreads.com/book/show/26329.Emotional_Intelligence) in case you are interested in knowing more. (Or go through the sources for this page mentioned at the bottom)  
+_Self-awareness_, _Self-regulation_, _Motivation_, _Empathy_, _Social skills_.  
+
+I'm not covering all of that here. Go read [his book](https://www.goodreads.com/book/show/26329.Emotional_Intelligence) in case you are interested in knowing more. (Or go through the sources for this page mentioned at the bottom for summaries)  
 
 ### SQ or Spiritual Quotient
-Term coined after your birth (in 2001) as 'our most fundamental intelligence'. SQ is beyond cognitive and emotional skills, it is what we use to develop our capacity for meaning, vision, and value. It allows us to **dream** and to **strive**. This underlies the things we believe in and the actions that we take. Building a foundation of trust and happiness is now considered important for organizational as well as individual success.  
+Term coined after your birth (in 2001) as _'our most fundamental intelligence'_. SQ is beyond cognitive and emotional skills, it is what we use to develop our capacity for meaning, vision, and value. It allows us to **dream** and to **strive**. This underlies the things we believe in and the actions that we take. Building a foundation of trust and happiness is now considered important for organizational as well as individual success.  
 
 ### CQ or Curiosity Quotient
 Take my words on this one: You, reading this newsletter, have a pretty good score for CQ. People like you have **minds that are ever hungry and are always learning, seeking, and sharing new knowledge**.  Irrespective of age, gender, or cultural background. CQ is what makes directors and writers think through and plot quirky movies and stories that we love.  
@@ -68,4 +70,4 @@ This is a fairly simple take on this psychology topic, and I really hope you lik
 
 Tschüss!
 
-Sources: [psychcentral](https://psychcentral.com/lib/what-is-emotional-intelligence-eq#components), [psychreg](https://www.psychreg.org/spiritual-quotient/), [stoodnt](https://www.stoodnt.com/blog/mind-your-qs-understanding-iq-eq-sq-cq-aq/), [Hult](https://www.hult.edu/blog/what-is-your-curiosity-quotient-huffington-post/), [workpatterns](https://www.workpatterns.com/articles/adaptability-quotient)
+Sources: [Psychcentral](https://psychcentral.com/lib/what-is-emotional-intelligence-eq#components), [Psychreg](https://www.psychreg.org/spiritual-quotient/), [Stoodnt](https://www.stoodnt.com/blog/mind-your-qs-understanding-iq-eq-sq-cq-aq/), [Hult](https://www.hult.edu/blog/what-is-your-curiosity-quotient-huffington-post/), [Workpatterns](https://www.workpatterns.com/articles/adaptability-quotient)
