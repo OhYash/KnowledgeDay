@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2021-07-25 15:00:00 +0530'
-title: KD TiLT 3
+title: KD TiLT 3 - Super expensive travel
 img: kd_tilt.png
 fig-caption: KD TiLT
 tags:
@@ -15,7 +15,7 @@ tags:
   - fitness
 issue: 44
 description: >-
-  Introducing KD TiLT, where each issue grows your knowledge 5x. This is the third episode.
+  KD TiLT, where each issue grows your knowledge 5x. This is the third episode.
 ---
 Hey there,  
 
