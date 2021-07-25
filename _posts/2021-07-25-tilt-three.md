@@ -22,7 +22,7 @@ Hey there,
 Welcome to the third KD TiLT issue (and 44<sup>th</sup> Knowledge•Day issue). The `Things I Learned Today` edition is all about 5 handpicks from the internet, targetting 5 different domains, because not everyone has the same interests.  
 
 Two billionaires (Richard Branson and Jeff Bezos) have flown to space since the last issue. 2021 marks the year for the first-ever billionaire to fly to space. Mind you, those were some really expensive trips, but even the two are quite far apart in terms of the height reached and the costs as well.  
-[Richard Branson’s historic 4-minute travel into space was worth $841 million for Virgin Galactic](https://fortune.com/2021/07/12/richard-branson-flight-space-virgin-galactic-share-price/), and [Jeff Bezos' 11 minutes is speculated to have been costed about $5.5 Billion](https://www.globalcitizen.org/en/content/jeff-bezos-space-flight-money-better-uses/).  
+[Richard Branson’s historic 4-minute travel into space was worth $841 million for Virgin Galactic](https://cutt.ly/uQwOyuI), and [Jeff Bezos' 11 minutes is speculated to have been costed about $5.5 Billion](https://cutt.ly/JQwOuif).  
 
 I'd like to contrast that to this newsletter, which costs **zero** and is **ad-free**, and begin with today's handpicks. That deserves a shoutout I guess. Let's get to the current handpicks for you  
 
@@ -37,7 +37,7 @@ _verse - chorus - verse - chorus - bridge -_
 _What are thoooose !? >.<_ Said I and proceeded to search on the internet. Turns out not everyone cares enough to explore that, and if you are like me who enjoys listening to songs and was longing to know the song structures people discuss, this might be the time to have a quick grip on that. The next visit to the youtube comment section could be a little better.  
 Plus, as you can guess by the title, this is a song writer's guide. And you could very well, read ahead on the same page to know how those structures are stacked to make a song so interesting as catchy as it is.  
 
-[Read about it >>](https://www.masterclass.com/articles/songwriting-101-learn-common-song-structures)
+[Read about it >>](https://cutt.ly/PQwOimf)
 
 --------
 
@@ -47,7 +47,7 @@ _3 minutes read | Medium/Rami Dhanoa_
 
 There is a single line that keeps popping up throughout the Buddha’s most famous discourse on mindfulness: _Atapi sampajjano satima_.  
 
-[Read what it means here >>](https://medium.com/mindfully-speaking/the-one-line-buddha-kept-repeating-when-explaining-mindfulness-e53bdbabf434)
+[Read what it means here >>](https://cutt.ly/aQwOolv)
 
 --------
 
@@ -61,7 +61,7 @@ Now, I'd just suggest you read a bit, maybe the intro at least to get the gist o
 
 > Thanks to Aalok, your fellow subscriber, for suggesting this article.  
 
-[Read it here >>](https://www.wired.com/story/how-to-build-a-self-conscious-ai-machine/)
+[Read it here >>](https://cutt.ly/xQwOpKQ)
 
 --------
 
@@ -69,12 +69,12 @@ _#space_
 ### How Blue Origin trained Jeff Bezos and his crew for an 11-minute launch into space
 _5 - 6 minutes read | livescience_
 
-[![Bezos n crew](https://cdn.mos.cms.futurecdn.net/N9dmAH7KCQduFSmLZPyAwG.jpg)](https://www.livescience.com/blue-origin-jeff-bezos-astronaut-training.html?utm_source=kd_newsletter)
+[![Bezos n crew](https://cdn.mos.cms.futurecdn.net/N9dmAH7KCQduFSmLZPyAwG.jpg)](https://cutt.ly/3QwOda6)
 
 You read the intro, you knew what the space section of this newsletter could bring. Well, here's a quick read on what did the Blue Origin first-time spaceflyers go through to be compliant with Federal Aviation Administration (FAA) regulations.  
 Ain't no escaping the planet without ~~passport~~ training.  
 
-[Read it here >>](https://www.livescience.com/blue-origin-jeff-bezos-astronaut-training.html?utm_source=kd_newsletter)
+[Read it here >>](https://cutt.ly/3QwOda6)
 
 --------
 
@@ -82,13 +82,13 @@ _#video_
 ### Exercising Your ‘Neck Flexors’ Is the Little-Known Secret for Reducing Neck Pain 
 _8 minutes | Youtube/Well+Good_
 
-[![Neckercise](https://www.wellandgood.com/wp-content/uploads/2021/06/GettyImages-1162967365_1170x676_true_75.jpg)](https://www.youtube.com/watch?v=WgYZ35YQdd0)
+[![Neckercise](https://www.wellandgood.com/wp-content/uploads/2021/06/GettyImages-1162967365_1170x676_true_75.jpg)](https://cutt.ly/4QwOgQu)
 
 Lockdown + desk work/studies?  
 While that combination is infamous for being lame as hell, there's another problem with it. Your body doesn't get enough movements. Keep it like that for months and see yourself wearing a cervical collar earlier than your uncle.  
 Nope, not gonna let that happen.  
 
-[Watch the video >>](https://www.youtube.com/watch?v=WgYZ35YQdd0)
+[Watch the video >>](https://cutt.ly/4QwOgQu)
 
 ------
 ------
