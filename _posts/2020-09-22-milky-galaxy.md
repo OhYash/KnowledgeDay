@@ -15,7 +15,6 @@ tags:
   - Interstellar
   - Space
   - NASA
-  - JPL
 title: Bon Voyage - Interstellar travel with Voyagers
 ---
 Hey there,
