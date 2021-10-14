@@ -7,9 +7,9 @@ Re-iterating what README.md already covers.
 This is [jekyll](https://jekyllrb.com/) based blog website. So all the core Jekyll based syntax applies: 
 - All the configs in [_config.yml](_config.yml), 
 - Liquid templating language for all of the tiny programming is there, 
-- posts as created in markdown in [_posts](/_posts_) directory, 
+- posts as created in markdown in [_posts](/_posts/) directory, 
 - CSS(custom) in [assets](/assets) directory.  
-- Jekyll (which is written in Ruby), builds it into a static site in [_site](_site_) directory. Github-pages updates the deployed website automatically (provided the build completes successfully :-p).  
+- Jekyll (which is written in Ruby), builds it into a static site in [_site](_site/) directory. Github-pages updates the deployed website automatically (provided the build completes successfully :-p).  
 
 The result is what you see at [knowledgeday.in](https://knowledgeday.in)  
   
