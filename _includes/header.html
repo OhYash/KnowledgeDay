@@ -1,10 +1,11 @@
-<header>
-  <form method="get" action="http://www.google.com/search" target="_blank">
+<header class="top-panel">
+  <form method="get" class="search-form" action="http://www.google.com/search" target="_blank">
     <input type="hidden" name="sitesearch" value="knowledgeday.in" />
-    <input class="search-input" type="text" name="q" maxlength="255" placeholder="Search with Google" />
-    </form>
-    <div class="flexy">
-    <a href="/signup" class="btn">Sign Up</a>
-    <a class="btn">Tags</a>
+    <input class="search-input" type="text" name="q" maxlength="255" placeholder="Search posts" />
+    <button type="submit"><i class="fa fa-search"></i></button>
+  </form>
+  <div class="flexy">
+    <a class="btn" href="/tags">Browse by Tags</a>
+    <a class="btn btn-subscribe" href="/signup">Subscribe</a>
   </div>
-  </header>
+</header>
