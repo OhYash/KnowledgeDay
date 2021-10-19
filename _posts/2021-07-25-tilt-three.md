@@ -82,7 +82,7 @@ Ain't no escaping the planet without ~~passport~~ training.
 --------
 
 _#video_
-### Exercising Your ‘Neck Flexors’ Is the Little-Known Secret for Reducing Neck Pain 
+### Exercising Your ‘Neck Flexors’ Is the Little-Known Secret for Reducing Neck Pain
 _8 minutes | Youtube/Well+Good_
 
 [![Neckercise](https://www.wellandgood.com/wp-content/uploads/2021/06/GettyImages-1162967365_1170x676_true_75.jpg)](https://cutt.ly/4QwOgQu)

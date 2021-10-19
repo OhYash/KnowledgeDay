@@ -3,23 +3,23 @@ layout: default
 ---
 
 <aside class="sidebar">
-  <header>
+  <section>
     <div class="about">
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="author-name">{{site.title}}</div>
       <p>{{site.description}}<br/>
-        <strong>Join {{site.email-subscribers}} like-minded people</strong> and get the fortnightly newsletter 👇
+        <strong>Join {{site.email-subscribers}} like-minded people</strong> and <a href="/signup">get the fortnightly newsletter</a>
       </p>
 
-    <form action="https://formspree.io/xayponar" method="POST">
+    <!--form action="https://formspree.io/xayponar" method="POST">
 	  <input class="text-input-main" type="text" id="text" name="fname" placeholder="Your First name">	  
       <input class="text-input-main" type="text" id="email" name="email" placeholder="Your Email address" required>
       <input class="submit-input" type="submit" value="Subscribe">
-    </form>
+    </form-->
   </div>
-  </header> <!-- End Header -->
+</section> <!-- End Header -->
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
@@ -57,5 +57,8 @@ layout: default
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
+  
+  {% include header.html %}
+
   {{ content }}
 </div>

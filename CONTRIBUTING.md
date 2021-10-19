@@ -12,8 +12,8 @@ This is [jekyll](https://jekyllrb.com/) based blog website. So all the core Jeky
 - Jekyll (which is written in Ruby), builds it into a static site in `_site` directory. The gh-pages then deploys the website automatically (provided the build completes successfully :-p).  
 
 The result is what you see at [knowledgeday.in](https://knowledgeday.in)  
-  
-  
+
+
 This is stable and basic feature complete, but being an actively run project this has scope for some important updates, and some may be less important. This document contains the items that need work. If you like any of these and are interested in contributing, please feel free to [contact me](mailto:ohyash@hotmail.com).   
 
 ## Picking up an item
@@ -25,25 +25,36 @@ This is stable and basic feature complete, but being an actively run project thi
 ## Issues/Features
 
 ### Sign up page
-_(Difficulty: **Easy**, Status: **Not picked**)_  
+_(Difficulty: **Easy**, Status: **Core done(Aalok)**)_  
 This is a blog letter, the sign-ups for the `letters` are handled through the form in the side bar (or on top in mobile view). Functionality-wise, it works fine, but it's still preferred to have a separate page for signup. With same form inputs. (So this eventually can be shared as a direct sign-up link on various social media platforms.)  
 
 P.S the sidebar should be present on the sign-up page too, we'll remove the sign-up form from the sidebar once a custom signup page is in place. Imagine this as a normal blog post, but instead of blog content, we have a signup form only. (use [this](https://perspectiveix.substack.com/) as a design sample)  
 
-### Top bar above articles on home page
-_(Difficulty: **Easy**, Status: **Not picked**)_  
-The website could offer a few more functionalities within the current design. Like search, [browse by tags](https://knowledgeday.in/tags/), and a signup page.  
-The idea is to simply have a panel on the [homepage]() right above the articles. That could hold the buttons or some objects as needed.   
-The objects are not important for this item. Just the panel on the top. (HTML, CSS only)  
+### [KD TiLT] Fix CSS to keep TiLT article titles closer
+Currently the title and it's information (Hashtags, read duration) are a bit far-apart. These have to be closer.
+(prefer not to use negative margin/padding).  
+Current sample:  
+![Gap near title in KD TiLT posts](assets/img/kd_tilt_title_gap.jpg)
 
-Here's a rough mockup for what I'm trying to picture up for you here:
-![KD Home panel mockup](assets/img/kd_home_panel_design.jpg)  
+## Archived Issues.
+<details>
+	<summary>These items maybe done or cancelled.</summary>
 
-### Search functionality
-_(Difficulty: **Easy/Medium**, Status: **Not picked**)_  
-Search functionality for the website. There are libraries to do that [[1](https://github.com/christian-fei/Simple-Jekyll-Search)],[[2](https://www.alaycock.co.uk/2016/02/setting-up-lunr-js-in-jekyll)], more?  
+	### Top bar above articles on home page
+	_(Difficulty: **Easy**, Status: **Done(Aalok)**)_  
+	The website could offer a few more functionalities within the current design. Like search, [browse by tags](https://knowledgeday.in/tags/), and a signup page.  
+	The idea is to simply have a panel on the [homepage]() right above the articles. That could hold the buttons or some objects as needed.   
+	The objects are not important for this item. Just the panel on the top. (HTML, CSS only)  
 
-This is not yet tested and implementation is away. Would love it if you can share hands for this. Another thing that can be explored with this is using "[search with google](https://talk.jekyllrb.com/t/how-to-add-a-search-bar/606/3)" in Jekyll blogs if native searches are not good enough.  
+	Here's a rough mockup for what I'm trying to picture up for you here:
+	![KD Home panel mockup](assets/img/kd_home_panel_design.jpg)  
+
+	### Search functionality
+	_(Difficulty: **Easy/Medium**, Status: **Done(Aalok)**)_  
+	Search functionality for the website. There are libraries to do that [[1](https://github.com/christian-fei/Simple-Jekyll-Search)],[[2](https://www.alaycock.co.uk/2016/02/setting-up-lunr-js-in-jekyll)], more?  
+
+	This is not yet tested and implementation is away. Would love it if you can share hands for this. Another thing that can be explored with this is using "[search with google](https://talk.jekyllrb.com/t/how-to-add-a-search-bar/606/3)" in Jekyll blogs if native searches are not good enough.  
+</details>
 
 ### Something else?
 You visited the website, you see something that could be bettered? Maybe you'd prefer a dark mode? Feel free to contact me and discuss.  
