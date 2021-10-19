@@ -1479,7 +1479,7 @@ a.newer-posts:hover {
 .flexcol {
   flex-direction: column;
   align-items: flex-end;
-  margin: 3rem auto 0 auto;
+  margin: 1rem auto;
   max-width: 370px;
   height: 100%;
 }
