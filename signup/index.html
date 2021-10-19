@@ -1,16 +1,27 @@
 ---
 layout: main
-title: How I Rest From Work
+title: Subscribe to the newsletter
 permalink: /signup/
 ---
 
-<form class="flexcol" action="https://formspree.io/xayponar" method="POST">
-  <input class="text-input-main" type="text" id="text" name="fname" placeholder="Your First name">	  
-  <input class="text-input-main" type="text" id="email" name="email" placeholder="Your Email address" required>
-  <input class="submit-input" type="submit" value="Subscribe">
-</form>
 <style>
-  .flexcol {
-    flex-direction: column;
-  }
+.top-panel {
+  /*display: none;*/
+  visibility: hidden;
+}
 </style>
+<div class="flexcol">
+  <p style="text-align: center;color: dimgray; font-size: 1.2rem;">
+    The better way to charge your curiosity with ease. You're just a name away. Cheers! &#127867
+  </p>
+  <form action="https://formspree.io/xayponar" method="POST">
+    <div class="contain-signup">
+      <input class="text-input-main" type="text" id="text" name="fname" placeholder="Your First name" />
+      <input class="text-input-main" type="text" id="email" name="email" placeholder="Your Email address" required="" />
+    </div>
+    <input class="submit-input" type="submit" value="Subscribe" />
+  </form>
+  <p style="margin-top: 6rem; text-align: center;">
+    <a href="/" style="text-decoration: none; color: dimgray;">Let me read it first &nbsp; ></a>
+  </p>
+</div>
