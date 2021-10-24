@@ -9,6 +9,7 @@ description: >-
 img: boston_dynamics_hero.jpg
 fig-caption: Spot by Boston Dynamics
 tags:
+  - Computers
   - Robots
   - Science
 issue: 32

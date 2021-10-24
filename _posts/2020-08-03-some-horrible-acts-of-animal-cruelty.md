@@ -10,11 +10,7 @@ img: imprisoned_tiger_cub.jpg
 fig-caption: Imprisoned tiger cub
 tags:
   - Animals
-  - humans
-  - cruelty
-  - death
-  - mean
-  - superiority
+  - Death
 published: true
 ---
 ## Some horrible acts of animal cruelty

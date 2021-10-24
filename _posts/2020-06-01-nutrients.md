@@ -7,5 +7,5 @@ description: Essential macronutrients for your body. Know more.
 img: nutrients.jpeg
 fig-caption: Macronutrients
 external-link: https://www.getrevue.co/profile/KnowledgeDay/issues/it-s-not-about-nutella-knowledge-day-252574
-tags: [Nutrients, Health, nutella, healthy]
+tags: [Food, Nutrients, Health, nutella, healthy]
 ---

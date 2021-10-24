@@ -8,7 +8,9 @@ fig-caption: KD TiLT
 tags:
   - Links
   - Aggregation
+  - Fitness
   - TiLT
+  - Youtube
 issue: 40
 description: >-
   Introducing KD TiLT, where each issue grows your knowledge 5x. This is the first episode.

@@ -7,5 +7,5 @@ description: They recently successfully shuttled humans aboard! Can we talk abou
 img: spacex.jpg
 fig-caption: SpaceX
 external-link: https://telegra.ph/First-Uber-then-the-driver-06-14
-tags: [Space, Rockets, Rocket, Science, Elon, SpaceX]
+tags: [Space, Rocket, Science, Elon]
 ---

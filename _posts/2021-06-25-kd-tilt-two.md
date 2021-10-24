@@ -9,10 +9,10 @@ tags:
   - Links
   - Aggregation
   - TiLT
-  - life
-  - tech
-  - youtube
-  - fitness
+  - Life
+  - Tech
+  - Youtube
+  - Fitness
 issue: 42
 description: >-
   Introducing KD TiLT, where each issue grows your knowledge 5x. This is the second episode.

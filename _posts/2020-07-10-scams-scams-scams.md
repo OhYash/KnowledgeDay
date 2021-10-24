@@ -7,5 +7,5 @@ description: Scams and frauds have single motive - To stash in cash. But how sma
 img: scam.jpg
 fig-caption: Scam
 external-link: https://medium.com/@OhYash/scams-scams-scams-265f3e719634
-tags: [Scam, Scams, Flight, Fraud]
+tags: [Scam, Fraud]
 ---

@@ -6,7 +6,7 @@ date: 2020-07-26 15:00:00 +0530
 description: These are the only two companies competing in the PC CPU master race. But let’s zoom back to 50 years ago.
 img: intel_amd.jpg # Add image post (optional)
 fig-caption: Intel vs AMD
-tags: [History, Intel, AMD, Semiconductor]
+tags: [AMD, Intel, Semiconductor, Computers, History]
 ---
 ## Historic rivalry behind Intel and AMD
 ![Intel vs AMD]({{site.baseurl}}/assets/img/intel_amd.jpg)

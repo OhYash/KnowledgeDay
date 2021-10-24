@@ -11,9 +11,7 @@ fig-caption: Unicorns
 tags:
   - Startup
   - Investment
-  - Venture Capatitalism
   - Unicorn
-  - Business
 ---
 # Unicorns
 

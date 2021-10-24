@@ -10,6 +10,7 @@ description: >-
 img: chocolates.jpg
 fig-caption: Chocolates
 tags:
+  - Food
   - Chocolate
   - Health
   - Lifestyle

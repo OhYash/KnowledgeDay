@@ -11,8 +11,6 @@ fig-caption: BullFighting
 tags:
   - Myths
   - Science
-  - Mythbusters
-  - Knowledge
   - Humor
 published: true
 ---
@@ -41,7 +39,7 @@ If you watch Simpsons, you sure do know about this. The one on Coriolis Effect (
 They’re not. If they were, they would have ‘reinvented’ the wheels by now(no pun intended). But You and me <sub><sup>(jk, not me)</sup></sub> look like apes, what’s the explanation? Different leaves of the same tree. Humans and Apes share a common ancestor but have long evolved from them. Chimp is cousin, not mother.  
 
 ## The mother bird rejects its baby if touched by a human
-![Baby birds](https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2019/12/man-holding-baby-birds.jpg)
+![Baby birds](https://media.greenmatters.com/brand-img/Y1ANHExYI/1440x753/how-to-feed-baby-bird4-1623376580199.jpg)  
 You think the birds inherit the untouchability principles from us, but not actually. Most birds have a poor sense of smell and wouldn’t know the difference. But, they have eyes. If they see you touching their baby, depending on their anger, you could find out how stiff that beak is.  
 
 ## Goldfish only have a three-second memory

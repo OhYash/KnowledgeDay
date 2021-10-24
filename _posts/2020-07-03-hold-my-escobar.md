@@ -7,5 +7,5 @@ description: Pablo Escobar had a white past. But the family is still in business
 img: hold-my-escobar.jpg
 fig-caption: Pablo Escobar
 external-link: https://medium.com/@OhYash/hold-my-escobar-704b4d6ae14e
-tags: [Scam, Scams, Escobar, Fraud, Pablo, Smartphones]
+tags: [Scam, Escobar, Fraud, Pablo, Smartphones]
 ---
