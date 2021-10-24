@@ -8,7 +8,6 @@ fig-caption: Sailboats
 tags:
   - Science
   - Physics
-  - Boat
   - Race
 issue: 45
 description: >-

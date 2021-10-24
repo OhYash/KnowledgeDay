@@ -10,9 +10,7 @@ description: >-
 img: extradition_hero.jpg
 fig-caption: Citizens protesting against Extradition bill
 tags:
-  - China
-  - Protestors
-  - Extradition
+  - ExtraditionBill
   - Law
   - History
 ---

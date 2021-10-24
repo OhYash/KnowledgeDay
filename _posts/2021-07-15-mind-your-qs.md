@@ -6,9 +6,9 @@ title: Mind your Quotients
 img: mind_qs_hero.jpg
 fig-caption: Quotients
 tags:
-  - psychology
-  - intelligence
-  - pesonality
+  - Psychology
+  - Intelligence
+  - Pesonality
 issue: 43
 description: >-
     What makes us human

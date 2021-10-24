@@ -9,9 +9,9 @@ description: >-
 img: dotcom-bubble-hero.jpg
 tags:
   - History
-  - bubble
-  - economy
-  - finance
+  - Bubble
+  - Economy
+  - Finance
 issue: 36
 fig-caption: Dot-com Bubble
 ---

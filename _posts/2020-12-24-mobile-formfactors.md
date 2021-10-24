@@ -9,6 +9,7 @@ description: >-
 img: phones.jpg
 fig-caption: Phones
 tags:
+  - Computers
   - Phone
   - Design
 issue: 34

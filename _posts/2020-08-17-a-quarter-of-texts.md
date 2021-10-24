@@ -13,6 +13,7 @@ tags:
   - Story
   - Quarter
   - Statistics
+  - Personal
 ---
 Start of another long week makes me feel weak.  
   

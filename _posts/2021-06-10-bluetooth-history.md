@@ -7,6 +7,7 @@ img: bluetooth-hero.jpg
 fig-caption: Mobile wireless networks
 tags:
   - History
+  - Phone
   - Bluetooth
   - Tech
   - Smartphones

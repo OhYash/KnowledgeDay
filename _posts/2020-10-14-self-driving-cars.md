@@ -13,8 +13,7 @@ tags:
   - Computer Vision
   - Sensors
   - Cars
-  - Self driving
-  - Autonomous
+  - Autonomy
 ---
 We all know humans are susceptible to the Covid-19 virus and that includes Trump, even if [he believes otherwise](https://twitter.com/realDonaldTrump/status/1315316071243476997)🤦.  But do you know who can go out and bring Burger from McD and not catch Corona Virus? Your Car!  
 
