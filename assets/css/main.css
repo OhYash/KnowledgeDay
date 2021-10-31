@@ -1253,7 +1253,7 @@ a.newer-posts:hover {
   margin-top: 0px;
 }
 
-.wrap-content h3 + p em:only-child {
+.wrap-content hr + p + h3 + p em:only-child {
   color: slategray;
 }
 
