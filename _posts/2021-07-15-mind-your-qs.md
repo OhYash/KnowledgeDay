@@ -61,7 +61,7 @@ Improvise. Adapt. Overcome.
 
 An Adaptability Quotient (AQ) measures someone's ability to adapt. This ability to adapt might include how people handle change, learn from mistakes, overcome challenges, and adjust in real-time.  
 Effectively the metric to measure your adaptiveness to the only constant there is - Change.  
-‍
+
 ------
 
 Welp, that's all for this issue. 5 metrics to measure yourself, should you be interested in knowing and exploring more (Hint: tickling your CQ), you can check out the sources below from where I gathered all this information for you.  
