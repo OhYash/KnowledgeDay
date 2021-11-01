@@ -24,13 +24,6 @@ This is stable and basic feature complete, but being an actively run project thi
 
 ## Issues/Features
 
-### [KD TiLT] Fix CSS to keep TiLT article titles closer
-_(Difficulty: **Easy**, Status: **Picked up(OhYash)**)_  
-Currently the title and it's information (Hashtags, read duration) are a bit far-apart. These have to be closer.
-(prefer not to use negative margin/padding).  
-Current sample:  
-![Gap near title in KD TiLT posts](assets/img/kd_tilt_title_gap.jpg)
-
 ## Archived Issues.
 <details>
 	<summary>These items maybe done or cancelled.</summary>
@@ -55,6 +48,14 @@ Current sample:
 	Search functionality for the website. There are libraries to do that [[1](https://github.com/christian-fei/Simple-Jekyll-Search)],[[2](https://www.alaycock.co.uk/2016/02/setting-up-lunr-js-in-jekyll)], more?  
 
 	This is not yet tested and implementation is away. Would love it if you can share hands for this. Another thing that can be explored with this is using "[search with google](https://talk.jekyllrb.com/t/how-to-add-a-search-bar/606/3)" in Jekyll blogs if native searches are not good enough.  
+
+	### [KD TiLT] Fix CSS to keep TiLT article titles closer
+	_(Difficulty: **Easy**, Status: **Done(OhYash)**)_  
+	Currently the title and it's information (Hashtags, read duration) are a bit far-apart. These have to be closer.
+	(prefer not to use negative margin/padding).  
+	Current sample:  
+	![Gap near title in KD TiLT posts](assets/img/kd_tilt_title_gap.jpg)
+
 </details>
 
 ### Something else?
