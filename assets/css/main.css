@@ -1232,6 +1232,31 @@ a.newer-posts:hover {
   margin-bottom: 5%;
 }
 
+.wrap-content hr + p {
+  margin-bottom: 0px;
+}
+
+.wrap-content hr + p em:only-child {
+  color: darkgray;
+}
+
+.wrap-content hr + p + h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.wrap-content hr + p + h3 a:only-child {
+  color: #515151;
+}
+
+.wrap-content h3 + p {
+  margin-top: 0px;
+}
+
+.wrap-content hr + p + h3 + p em:only-child {
+  color: slategray;
+}
+
 .header-page {
   text-align: center;
   margin: 10px 0;
