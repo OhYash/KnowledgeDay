@@ -44,8 +44,9 @@ At this point, we might as well just slam the screens right on top of our eyes a
 
 > Extra: Facebook's [Horizon game](https://www.oculus.com/facebook-horizon/) looks to be the initial idea of what they're aiming at with this transition.  
 
-![Facebook Horizon](https://www.morningbrew.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2F775dda31715be84ab8ff835f47c9a6c25be142fe-480x270.gif%3Fh%3D270%26max-w%3D740%26q%3D70%26auto%3Dformat&w=1920&q=70)  
-
+![Facebook Horizon]({{site.baseurl}}/assets/img/fb_horizon.gif)
+_Img credit: MorningBrew_
+  
 I don't know about you but to me this description still makes it look like a _social networking company_ (The title they aim to bury into the past). But there is a catch that makes it more than just a VR social interaction platform. It's that the metaverse aims to do everything that happens on the internet, in their world.  
 I'm talking about attending classes in a virtual world, building stuff you alone just couldn't build in reality (DIY [Antilia](https://en.wikipedia.org/wiki/Antilia_(building))?), or just hanging out drinking virtual coffee on a virtual date.  
 
