@@ -44,15 +44,15 @@ At this point, we might as well just slam the screens right on top of our eyes a
 
 > Extra: Facebook's [Horizon game](https://www.oculus.com/facebook-horizon/) looks to be the initial idea of what they're aiming at with this transition.  
 
-[![Facebook Horizon](https://scontent.fjai5-1.fna.fbcdn.net/v/t39.8562-6/248529590_975373873051869_1975661116868729595_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=6825c5&_nc_ohc=2ixAUZaPc6cAX-d-PDO&_nc_ht=scontent.fjai5-1.fna&oh=13a032035341abeb424a2f22463ea667&oe=6193389C)](https://www.oculus.com/facebook-horizon/)
+![Facebook Horizon](https://www.morningbrew.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2F775dda31715be84ab8ff835f47c9a6c25be142fe-480x270.gif%3Fh%3D270%26max-w%3D740%26q%3D70%26auto%3Dformat&w=1920&q=70)  
 
-I don't know about you but to me, this description still makes it look like a _social networking company_ (The title they aim to bury into the past). But there is a catch that makes it more than just a VR social interaction platform. It's that the metaverse aims to do everything that happens on the internet, in their world.  
-I'm talking about attending classes in a virtual world, building stuff you alone just couldn't build in reality (DIY Antilia?), or just hanging out drinking virtual coffee on a virtual date.  
+I don't know about you but to me this description still makes it look like a _social networking company_ (The title they aim to bury into the past). But there is a catch that makes it more than just a VR social interaction platform. It's that the metaverse aims to do everything that happens on the internet, in their world.  
+I'm talking about attending classes in a virtual world, building stuff you alone just couldn't build in reality (DIY [Antilia](https://en.wikipedia.org/wiki/Antilia_(building))?), or just hanging out drinking virtual coffee on a virtual date.  
 
 All that's just ideas and they're throwing possibilities for you to imagine. Also, there are claims that the Metaverse will **just be a failure**! You can read [this](https://nymag.com/intelligencer/2021/11/why-facebooks-metaverse-is-dead-on-arrival.html) to have a bit of perspective.  
 
-The future is unknown for sure, and people, just like Mark Zuckerberg, have their visions.  
-But what about you? Would you prefer to socialize in a virtual world, or real? ([reply](mailto:knowledgeday@protonmail.com?subject=KD%20question%20response&body=I%20would%20prefer%20to%20socialize%20in%20a%20.....%20%5Bvirtual%20world%5D%2C%20or%20%5Breal%20world%5D))  
+The future is unknown for sure and people, just like Mark Zuckerberg, have their visions.  
+But what about you? Would you prefer to socialize in a virtual world, or real? (comment below)  
 
 ------
 ------
