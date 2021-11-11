@@ -66,7 +66,7 @@ Effectively the metric to measure your adaptiveness to the only constant there i
 
 Welp, that's all for this issue. 5 metrics to measure yourself, should you be interested in knowing and exploring more (Hint: tickling your CQ), you can check out the sources below from where I gathered all this information for you.  
 
-This is a fairly simple take on this psychology topic, and I really hope you like it. If you aren't subscribed to the newsletter, I highly recommend doing it - no spam, pure knowledge.  
+This is a fairly simple take on this psychology topic, and I really hope you like it. If you aren't subscribed to the newsletter, I highly recommend [doing it](https://knowledgeday.in/signup/) - no spam, pure knowledge.  
 
 Tschüss!
 

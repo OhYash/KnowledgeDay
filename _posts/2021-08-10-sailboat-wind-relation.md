@@ -73,7 +73,7 @@ Welp, that's all for this issue.
 Did you like it? Or even if you didn't, there's a comment section below. Share thoughts.
 
 Oh, also, If you aren't subscribed yet, I gotta tell you you'd miss out on future posts, and also the personalized section from me which I only send to the subscribers. This one's newsletter contains pics from my last awesome trip to [Nainital](https://en.wikipedia.org/wiki/Nainital).    
-Signing up is super easy, the form is on the left or top - depending on the device you're reading this on.  
+Signing up is super easy, just [click here](https://knowledgeday.in/signup/).  
 
 Tschüss!
 
