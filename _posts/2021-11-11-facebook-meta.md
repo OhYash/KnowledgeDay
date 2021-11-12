@@ -17,7 +17,7 @@ Is it simply a rebranding? or more than that?
 A: It's a **repositioning**.  
 
 You see, Facebook started back in 2003 as a project Mark and his colleagues built during their college time.  
-Since then, it has grown into an IT giant and has acquired countless companies. Instagram, Whatsapp, Oculus, Giphy... [and dozens more](https://www.techwyse.com/blog/wp-content/themes/blog-v4/images/72-Facebook-Acquisitions-infographics-min.jpg).  
+Since then, it has grown into an IT giant and has acquired countless companies. Instagram, Whatsapp, Oculus, Giphy... [and dozens more](https://cutt.ly/9TftNeS).  
 The acquisitions either continue as is, i.e. independently, become a feature in one of their products, or simply get buried into nothingness.  
 But Facebook as the social network is still Facebook, it's a product. And that's what it should be called, right?  
 This rebranding does change the name of the company, but not the name of the social network.
@@ -36,21 +36,21 @@ Tell your friends about this newsletter, they will be thankful. There are just n
 
 ## What's with all the AR/VR buzz and Metaverse?
 In a nutshell. It's an idea, not a product.  
-I went through the entire [Founder's letter](https://about.fb.com/news/2021/10/founders-letter/) to understand what's the scene here. 
+I went through the entire [Founder's letter](https://cutt.ly/vTfyeaA) to understand what's the scene here. 
 
 Metaverse is aimed towards providing an experience. Because let's face it: reality sucks, even more so when there's a pandemic locking you at home.   
 From the past 1-2 years our screentime has grown significantly.  
 At this point, we might as well just slam the screens right on top of our eyes and travel outside virtually, or maybe in a cartoonish/fictional world. That's where Metaverse aims to provide 'experience' by creating a virtual social world for you to explore.   
 
-> Extra: Facebook's [Horizon game](https://www.oculus.com/facebook-horizon/) looks to be the initial idea of what they're aiming at with this transition.  
+> Extra: Facebook's [Horizon game](https://cutt.ly/QTfyyHo) looks to be the initial idea of what they're aiming at with this transition.  
 
 ![Facebook Horizon]({{site.baseurl}}/assets/img/fb_horizon.gif)
 _Img credit: MorningBrew_
   
 I don't know about you but to me this description still makes it look like a _social networking company_ (The title they aim to bury into the past). But there is a catch that makes it more than just a VR social interaction platform. It's that the metaverse aims to do everything that happens on the internet, in their world.  
-I'm talking about attending classes in a virtual world, building stuff you alone just couldn't build in reality (DIY [Antilia](https://en.wikipedia.org/wiki/Antilia_(building))?), or just hanging out drinking virtual coffee on a virtual date.  
+I'm talking about attending classes in a virtual world, building stuff you alone just couldn't build in reality (DIY [Antilia](https://cutt.ly/7Tfyi5Z)?), or just hanging out drinking virtual coffee on a virtual date.  
 
-All that's just ideas and they're throwing possibilities for you to imagine. Also, there are claims that the Metaverse will **just be a failure**! You can read [this](https://nymag.com/intelligencer/2021/11/why-facebooks-metaverse-is-dead-on-arrival.html) to have a bit of perspective.  
+All that's just ideas and they're throwing possibilities for you to imagine. Also, there are claims that the Metaverse will **just be a failure**! You can read [this](https://cutt.ly/2TfyaLW) to have a bit of perspective.  
 
 The future is unknown for sure and people, just like Mark Zuckerberg, have their visions.  
 But what about you? Would you prefer to socialize in a virtual world, or real? (comment below)  
@@ -64,5 +64,5 @@ You know you're reading this on the website, and you could get this sent through
 Mails I send are personalized too. You'll get the next knowledge day article delivered promptly. :)  
 
 **How to Subscribe?**  
-- [Click here](https://knowledgeday.in/signup/) for a mere 20 second process; or  
-- Send me a message on [Twitter](https://twitter.com/knowledgedaynl)/[Instagram](http://instagram.com/knowledgedaynl)  
+- [Click here](https://knowledgeday.in/signup/?utm_source=newsletter&utm_medium=email_summary&utm_campaign=issue48) for a mere 20 second process; or  
+- Send me a message on [Twitter](https://twitter.com/knowledgedaynl?utm_source=kd_newsletter&utm_medium=email_summary&utm_campaign=issue48)/[Instagram](http://instagram.com/knowledgedaynl?utm_source=kd_newsletter&utm_medium=email_summary&utm_campaign=issue48)  
