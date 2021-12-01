@@ -6,13 +6,21 @@ permalink: /signup/
 
 <style>
 .top-panel {
-  /*display: none;*/
   visibility: hidden;
 }
+
+@media only screen and (max-width: 480px) {
+  .top-panel {
+    display: none;
+  }
+}
 </style>
+
 <div class="flexcol">
-  <p style="text-align: center;color: dimgray; font-size: 1.2rem;">
+  <p style="text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 5rem;">
     <!--You won't have to visit this website anymore. I will personally deliver 2 articles each month in your inbox. With a personalised exclusive section. Jump right in!!-->
+    Two issues each month. No more, maybe less, all free, and no spam.<br />
+    Just your your firstname and email are required.
   </p>
   <form action="https://formspree.io/xayponar" method="POST">
     <div class="contain-signup">
@@ -21,7 +29,7 @@ permalink: /signup/
     </div>
     <input class="submit-input" type="submit" value="Subscribe" />
   </form>
-  <p style="margin-top: 6rem; text-align: center;">
+  <p style="margin-top: 8rem; text-align: center;">
     <a href="/?utm_source=signup&utm_medium=decide_more&utm_campaign=signup_abort" style="text-decoration: none; color: dimgray;">Let me read it first &nbsp; ></a>
   </p>
 </div>
