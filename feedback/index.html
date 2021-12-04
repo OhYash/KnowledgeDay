@@ -21,11 +21,11 @@ permalink: /feedback/
 </style>
 
 <div class="feedback-main">
-  <p id="posreactiontxt" style="text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 5rem;">
+  <p id="posreactiontxt" style="display: none; text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 5rem;">
     Awesome to see you <span style="color: green; font-weight: bold;">Liking it!</span> 💚<br /> 
   </p>
   <p id="negreactiontxt" style="display: none; text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 5rem;">
-    Sad to see you <span style="color: orangered; font-weight: bold;">Disike it.</span> :-(<br /> Anything in particular that you dislike in the issue? I'd really like to have some feedback. 
+    Sad to see you <span style="color: orangered; font-weight: bold;">dislike</span> the issue :-(<br /> Anything in particular that you dislike in the issue? I'd really like to have some feedback. 
   </p>
   <form id="feedbackform" action="https://formspree.io/f/xoqrarqe" method="POST">
     <div class="feedback-form">
@@ -42,3 +42,24 @@ permalink: /feedback/
     <p style="text-decoration: none; color: dimgray;"><b>Submit</b> even if you don't have anything to say or I won't get to know.</p>
   </p>
 </div>
+
+<script>
+  function paramsLoadMain()
+  {
+    let urlParams = new URLSearchParams(location.search);
+    let eml = urlParams.has('em') ? decodeURIComponent(atob(urlParams.get('em'))) : "";
+    let rxn = urlParams.has('rx') ? urlParams.get('rx') : "";
+    let src = urlParams.has('utm_source') ? urlParams.get('utm_source') : "";
+    // append anything extra to the src string only. (refer to the tenor.cards implementation)
+
+    if (rxn === "1")
+      document.getElementById("posreactiontxt").style.display = "block";
+    else if (rxn === "0")
+      document.getElementById("negreactiontxt").style.display = "block";
+
+    document.getElementById("reaction").value = rxn;
+    document.getElementById("email").value = eml;
+    document.getElementById("src").value = src;
+  }
+  paramsLoadMain();
+</script>
