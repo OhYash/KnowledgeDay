@@ -33,6 +33,7 @@ permalink: /feedback/
 
       <textarea form="feedbackform" class="text-input-feedback" id="comment" name="comment" placeholder="(optional) Anything else you'd like to add?" style="height:180px;"></textarea>
       
+      <input type="hidden" id="issue" name="issue" />
       <input type="hidden" id="email" name="email" />
       <input type="hidden" id="src" name="source" />
     </div>
@@ -49,6 +50,7 @@ permalink: /feedback/
     let urlParams = new URLSearchParams(location.search);
     let eml = urlParams.has('em') ? decodeURIComponent(atob(urlParams.get('em'))) : "";
     let rxn = urlParams.has('rx') ? urlParams.get('rx') : "";
+    let isu = urlParams.has('is') ? urlParams.get('is') : "";
     let src = urlParams.has('utm_source') ? urlParams.get('utm_source') : "";
     // append anything extra to the src string only. (refer to the tenor.cards implementation)
 
@@ -59,6 +61,7 @@ permalink: /feedback/
 
     document.getElementById("reaction").value = rxn;
     document.getElementById("email").value = eml;
+    document.getElementById("issue").value = isu;
     document.getElementById("src").value = src;
   }
   paramsLoadMain();

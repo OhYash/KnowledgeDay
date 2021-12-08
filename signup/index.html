@@ -26,6 +26,9 @@ permalink: /signup/
     <div class="contain-signup">
     <input class="text-input-main" type="text" id="fname" name="fname" placeholder="Your First name" />
     <input class="text-input-main" type="text" id="email" name="email" placeholder="Your Email address" required="" />
+
+    <input type="hidden" id="referrer" name="ref" />
+    <input type="hidden" id="src" name="source" />
     </div>
     <input class="submit-input" type="submit" value="Subscribe" />
   </form>
@@ -33,3 +36,17 @@ permalink: /signup/
     <a href="/?utm_source=signup&utm_medium=decide_more&utm_campaign=signup_abort" style="text-decoration: none; color: dimgray;">Let me read it first &nbsp; ></a>
   </p>
 </div>
+
+<script>
+  function paramsLoadMain()
+  {
+    let urlParams = new URLSearchParams(location.search);
+    let reml = urlParams.has('ref') ? decodeURIComponent(atob(urlParams.get('ref'))) : "";
+    let src = urlParams.has('utm_source') ? urlParams.get('utm_source') : "";
+    // append anything extra to the src string only. (refer to the tenor.cards implementation)
+
+    document.getElementById("referrer").value = reml;
+    document.getElementById("src").value = src;
+  }
+  paramsLoadMain();
+</script>
