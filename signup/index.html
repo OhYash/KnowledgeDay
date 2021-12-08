@@ -5,15 +5,15 @@ permalink: /signup/
 ---
 
 <style>
-.top-panel {
-  visibility: hidden;
-}
-
-@media only screen and (max-width: 480px) {
   .top-panel {
-    display: none;
+    visibility: hidden;
   }
-}
+
+  @media only screen and (max-width: 480px) {
+    .top-panel {
+      display: none;
+    }
+  }
 </style>
 
 <div class="flexcol">
@@ -24,11 +24,11 @@ permalink: /signup/
   </p>
   <form action="https://formspree.io/xayponar" method="POST">
     <div class="contain-signup">
-    <input class="text-input-main" type="text" id="fname" name="fname" placeholder="Your First name" />
-    <input class="text-input-main" type="text" id="email" name="email" placeholder="Your Email address" required="" />
+      <input class="text-input-main" type="text" id="fname" name="fname" placeholder="Your First name" />
+      <input class="text-input-main" type="text" id="email" name="email" placeholder="Your Email address" required="" />
 
-    <input type="hidden" id="referrer" name="ref" />
-    <input type="hidden" id="src" name="source" />
+      <input type="hidden" id="referrer" name="ref" />
+      <input type="hidden" id="src" name="source" />
     </div>
     <input class="submit-input" type="submit" value="Subscribe" />
   </form>

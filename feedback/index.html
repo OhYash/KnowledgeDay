@@ -5,33 +5,33 @@ permalink: /feedback/
 ---
 
 <style>
-#sidebar-invite {
-    display: none;
-}
-
-.top-panel {
-  visibility: hidden;
-}
-
-@media only screen and (max-width: 480px) {
-  .top-panel {
+  #sidebar-invite {
     display: none;
   }
-}
+
+  .top-panel {
+    visibility: hidden;
+  }
+
+  @media only screen and (max-width: 480px) {
+    .top-panel {
+      display: none;
+    }
+  }
 </style>
 
 <div class="feedback-main">
-  <p id="posreactiontxt" style="display: none; text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 5rem;">
-    Awesome to see you <span style="color: green; font-weight: bold;">Liking it!</span> 💚<br /> 
+  <p id="posreactiontxt" style="display: none; text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 2rem;">
+    I'm happy to see you <span style="color: green; font-weight: bold;">Liking it!</span> 💚<br />If you want to tell me something else or just want to quickly say "Good Job", please feel free to do so here:
   </p>
   <p id="negreactiontxt" style="display: none; text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 5rem;">
-    Sad to see you <span style="color: orangered; font-weight: bold;">dislike</span> the issue :-(<br /> Anything in particular that you dislike in the issue? I'd really like to have some feedback. 
+    Sad to see you <span style="color: orangered; font-weight: bold;">dislike</span> the issue :-(<br /> I like to have all sorts of feedback, it helps me improve things. Would you mind sharing why this wasn't your favorite issue?
   </p>
   <form id="feedbackform" action="https://formspree.io/f/xoqrarqe" method="POST">
     <div class="feedback-form">
       <input type="hidden" id="reaction" name="reaction" />
 
-      <textarea form="feedbackform" class="text-input-feedback" id="comment" name="comment" placeholder="(optional) Anything else you'd like to add?" style="height:180px;"></textarea>
+      <textarea form="feedbackform" class="text-input-feedback" id="comment" name="comment" placeholder="I was thinking..." style="height:180px;"></textarea>
       
       <input type="hidden" id="issue" name="issue" />
       <input type="hidden" id="email" name="email" />
@@ -39,8 +39,7 @@ permalink: /feedback/
     </div>
     <input class="submit-input" type="submit" value="Submit" />
   </form>
-  <p style="margin-top: 4rem; text-align: center;">
-    <p style="text-decoration: none; color: dimgray;"><b>Submit</b> even if you don't have anything to say or I won't get to know.</p>
+    <p style="margin-top: 4rem; text-decoration: none; color: dimgray; text-align: center;">Please hit <b>submit</b> even if you don't have anything to say.
   </p>
 </div>
 
