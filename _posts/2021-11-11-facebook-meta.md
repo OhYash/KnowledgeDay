@@ -64,5 +64,5 @@ You know you're reading this on the website, and you could get this sent through
 Mails I send are personalized too. You'll get the next knowledge day article delivered promptly. :)  
 
 **How to Subscribe?**  
-- [Click here](https://knowledgeday.in/signup/?utm_source=newsletter&utm_medium=email_summary&utm_campaign=issue48) for a mere 20 second process; or  
-- Send me a message on [Twitter](https://twitter.com/knowledgedaynl?utm_source=kd_newsletter&utm_medium=email_summary&utm_campaign=issue48)/[Instagram](http://instagram.com/knowledgedaynl?utm_source=kd_newsletter&utm_medium=email_summary&utm_campaign=issue48)  
+- [Click here](https://knowledgeday.in/signup/?utm_source=kdweb_issue48&utm_medium=blog_conclusion&utm_campaign=issue48) for a mere 20 second process; or  
+- Send me a message on [Twitter](https://twitter.com/knowledgedaynl?utm_source=kdweb_issue48&utm_medium=blog_conclusion&utm_campaign=issue48)/[Instagram](http://instagram.com/knowledgedaynl?utm_source=kdweb_issue48&utm_medium=blog_conclusion&utm_campaign=issue48)  

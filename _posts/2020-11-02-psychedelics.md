@@ -10,6 +10,7 @@ tags:
   - Drugs
   - Cannabis
   - Marijuana
+  - Hemp
 description: >-
   "Here, brother, I've set this up. Fly as high a you can!", said Mr. Wright to
   his mate as he offered him his freshly prepared flight.
