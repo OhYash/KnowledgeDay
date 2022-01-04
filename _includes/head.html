@@ -1,14 +1,14 @@
 <head>
 	<meta charset="utf-8">
-	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+	<title>{% if page.title %}{{page.title}} - {{site.title-nodot}}{% else %}{{site.title-nodot}}{% endif %}</title>
 
   <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
 
-    <meta content="{{ site.title }}" property="og:site_name">
+    <meta content="{{ site.title-nodot }}" property="og:site_name">
   {% if page.title %}
     <meta content="{{ page.title }}" property="og:title">
   {% else %}
-    <meta content="{{ site.title }}" property="og:title">
+    <meta content="{{ site.title-nodot }}" property="og:title">
   {% endif %}
   {% if page.title %}
     <meta content="article" property="og:type">
@@ -65,7 +65,7 @@
     <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
   {% endif %}
 
-	<meta name="description" content="{{ page.description }}">
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta property="og:image" content="">
