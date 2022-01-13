@@ -57,7 +57,7 @@ To Improve: I haven't been paying enough attention to my existing investments la
 Time management. It's high time I fix that. I have been carelessly postponing any action towards this. This has been affecting both my office work and personal projects.  
 I have to stop using my phone too much until the office work is complete. The social-network hours need to be pushed strictly towards the evening.  
 
-This year, being somewhat more focused on experimentations, I have to prioritize my projects better than before. There should be no week without any update to [TenorCards](https://tenor.cards/) until at least the end of March.  
+This year, being somewhat more focused on experimentations, I have to prioritize my projects better than before. There should be no week without any update to [TenorCards](https://tenor.cards/?utm_source=kdweb_issue52) until at least the end of March.  
 
 -----
 ### Play:
@@ -79,8 +79,5 @@ You know you're reading this on the website, and you could get this sent through
 There's also a special version of Knowledge•Day called the **KD TiLT** which is **only sent to the subscribers**. You don't waana miss that.  
 
 **How to Subscribe?**  
-- [Click here](https://knowledgeday.in/signup/?utm_source=kdweb_issue50&utm_medium=blog_conclusion&utm_campaign=issue50) for a mere 20 second process; or  
-- Send me a message on [Twitter](https://twitter.com/knowledgedaynl?utm_source=kdweb_issue50&utm_medium=blog_conclusion&utm_campaign=issue50)/[Instagram](http://instagram.com/knowledgedaynl?utm_source=kdweb_issue50&utm_medium=blog_conclusion&utm_campaign=issue50)  
-
-Finally, time for you to try out the new feedback page. This will only be reachable through the email in future.  
- Do you [ [like](https://knowledgeday.in/feedback/?rx=1&is=50&utm_source=kdweb_feedback) ] this issue or [ [dislike](https://knowledgeday.in/feedback/?rx=0&is=50&utm_source=kdweb_feedback) ]?
+- [Click here](https://knowledgeday.in/signup/?utm_source=kdweb_issue52&utm_medium=blog_conclusion&utm_campaign=issue52) for a mere 20 second process; or  
+- Send me a message on [Twitter](https://twitter.com/knowledgedaynl?utm_source=kdweb_issue52&utm_medium=blog_conclusion&utm_campaign=issue52)/[Instagram](http://instagram.com/knowledgedaynl?utm_source=kdweb_issue52&utm_medium=blog_conclusion&utm_campaign=issue52)  
