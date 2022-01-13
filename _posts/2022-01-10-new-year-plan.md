@@ -65,9 +65,9 @@ Can't just be working and focusing huh? Play here is anything that relaxes my mi
 But in general, what I can say is that I have not been "Playing" enough.  
 
 From now, I'm making Wednesday evenings the chill days for me (unless it's a day I have to send Knowledge•Day on). I can...
-- Play games, laptop or retro games on the Raspberry PI
+- Play PC games or retro games on the Raspberry PI
 - Watch a movie or show
-- Talk to people I haven't talked to in a while.
+- Talk to people I haven't talked to in a while.  
 ^ This is the opposite of Sundays, where I plan to minimize screen usage.  
 
 ------
