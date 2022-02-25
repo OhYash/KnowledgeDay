@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: '2022-02-20 06:00:00 +0530'
+date: '2022-02-25 06:00:00 +0530'
 title: What was the perceived shape of the Earth for ancient scientists?
 img: earth-hero.jpg
 fig-caption: Earth shape
