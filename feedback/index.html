@@ -21,12 +21,20 @@ permalink: /feedback/
 </style>
 
 <div class="feedback-main">
-  <p id="posreactiontxt" style="display: none; text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 2rem;">
-    I'm happy to see you <span style="color: green; font-weight: bold;">Liking it!</span> 💚<br />If you want to tell me something else or just want to quickly say "Good Job", please feel free to do so here:
-  </p>
-  <p id="negreactiontxt" style="display: none; text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 2rem;">
-    Sad to see you <span style="color: orangered; font-weight: bold;">dislike</span> the issue :-(<br /> I like to have all sorts of feedback, it helps me improve things. Would you mind sharing why this wasn't your favorite issue?
-  </p>
+  <div style="text-align: center;color: dimgray; font-size: 1.2rem; margin-bottom: 2rem;">
+    <p id="posreactiontxt" style="display: none;">
+      I'm happy to see you <span style="color: green; font-weight: bold;">Liking it!</span> 💚<br />If you want to tell me something else or just want to quickly say "Good Job", please feel free to do so here:
+    </p>
+    <p id="negreactiontxt" style="display: none;">
+      Sad to see you <span style="color: orangered; font-weight: bold;">dislike</span> the issue :-(<br /> I like to have all sorts of feedback, it helps me improve things. Would you mind sharing why this wasn't your favorite issue?
+    </p>
+    <p id="tiltgoodtxt" style="display: none;">
+      Ah, glad to see you <span style="color: green; font-weight: bold;">found something of your interest</span> in the list. Want to share which particular one caught your attention?
+    </p>
+    <p id="tiltlametxt" style="display: none;">
+      Didn't like any of the topics I chose. Not a problem! Not everything has to be equally interesting for everyone.<br />I'd love to know what would you've rather done right now instead of reading the articles shared in this issue?
+    </p>
+  </div>
   <form id="feedbackform" action="https://formspree.io/f/xoqrarqe" method="POST">
     <div class="feedback-form">
       <input type="hidden" id="reaction" name="reaction" />
@@ -39,7 +47,7 @@ permalink: /feedback/
     </div>
     <input class="submit-input" type="submit" value="Submit" />
   </form>
-    <p style="margin-top: 4rem; text-decoration: none; color: dimgray; text-align: center;">Please hit <b>submit</b> even if you don't have anything to say.
+  <p style="margin-top: 4rem; text-decoration: none; color: dimgray; text-align: center;">Please hit <b>submit</b> even if you don't have anything to say.
   </p>
 </div>
 
@@ -51,12 +59,19 @@ permalink: /feedback/
     let rxn = urlParams.has('rx') ? urlParams.get('rx') : "";
     let isu = urlParams.has('is') ? urlParams.get('is') : "";
     let src = urlParams.has('utm_source') ? urlParams.get('utm_source') : "";
-    // append anything extra to the src string only. (refer to the tenor.cards implementation)
+    // append anything extra to the utm_source string only. (refer to the tenor.cards implementation)
 
-    if (rxn === "1")
-      document.getElementById("posreactiontxt").style.display = "block";
-    else if (rxn === "0")
-      document.getElementById("negreactiontxt").style.display = "block";
+    switch (rxn)
+    {
+      case "1" : document.getElementById("posreactiontxt").style.display = "block";
+        break;
+      case "0" : document.getElementById("negreactiontxt").style.display = "block";
+        break;
+      case "2" : document.getElementById("tiltgoodtxt").style.display = "block";
+        break;
+      case "3" : document.getElementById("tiltlametxt").style.display = "block";
+        break;
+    }
 
     document.getElementById("reaction").value = rxn;
     document.getElementById("email").value = eml;

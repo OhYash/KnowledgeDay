@@ -22,7 +22,7 @@ email-subscribers: 77
 discus-identifier: knowledgeday # add your discus identifier
 
 # Tracker
-analytics: G-ZW49CWVBFJ # Google Analytics
+analytics: G-ZGKBBTQGRL # G-ZW49CWVBFJ (orig) # Google Analytics
 
 # Build Settings
 markdown: kramdown
