@@ -12,7 +12,9 @@ issue: 53
 description: >-
   66% American youngsters don't believe that our planet is spherical. See what the scientists in the past believed.
 ---
-
+<div id="personal-data" style="display: none;">
+<blockquote>Hey <span id="reader-fname">there</span>, This is a personalised message that should only be visible if you load this page from your personal link. Come from the home screen and <span style="color:lightgrey;">you can't see me</span>. <br/>- John Cena<br/><br/>Oh, also this is only on this post. <span style="color: darkgoldenrod; font-size: 12px;">(For now)</span></blockquote>
+</div>
 ### Do people really think the world is flat?
 I've seen a lot of people joking about the flat-earthers and sharing memes about the same. But have never met an actual flat-earther.  
 But that doesn't mean we're seeing jokes about the void. It's interesting that in recent years the term "flat earth" has tripled up in google search appearance.  
