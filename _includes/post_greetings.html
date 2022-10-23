@@ -3,17 +3,17 @@
 		var urlParams = new URLSearchParams(location.search);
 
 		if (urlParams.has('r')) { // r = reader
-	        let readerFNameVar = atob(urlParams.get('r')); // base64 decode
-	        let readerFNameSpan = document.getElementById('reader-fname');
-	        if (readerFNameSpan && readerFNameVar)
-	        	readerFNameSpan.innerHTML = readerFNameVar;
-	        
-	        let personalParaBlock = document.getElementById('personal-data');
-	        if (personalParaBlock)
-	        	personalParaBlock.style.display = "block";
+			let readerFNameVar = atob(urlParams.get('r')); // base64 decode
+			let readerFNameSpan = document.getElementById('reader-fname');
+			if (readerFNameSpan && readerFNameVar)
+				readerFNameSpan.innerHTML = readerFNameVar;
 
-	        // todo: background: get userId and log it for stats
-	    }
+			let personalParaBlock = document.getElementById('personal-data');
+			if (personalParaBlock)
+				personalParaBlock.style.display = "block";
+
+			// todo: background: get userId and log it for stats
+		}
 	}
 	processPathParams();
 </script>
