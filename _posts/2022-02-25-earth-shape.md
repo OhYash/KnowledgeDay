@@ -12,8 +12,8 @@ issue: 53
 description: >-
   66% American youngsters don't believe that our planet is spherical. See what the scientists in the past believed.
 ---
-<div id="personal-data" style="display: none;">
-<blockquote>Hey <span id="reader-fname">there</span>, This is a personalised message that should only be visible if you load this page from your personal link. Come from the home screen and <span style="color:lightgrey;">you can't see me</span>. <br/>- John Cena<br/><br/>Oh, also this is only on this post. <span style="color: darkgoldenrod; font-size: 12px;">(For now)</span></blockquote>
+<div class="personal-text">
+<blockquote>Hey <span name="reader-fname">there</span>, This is a personalised message that should only be visible if you load this page from your personal link. Come from the home screen and <span style="color:lightgrey;">you can't see me</span>. <br/>- John Cena<br/><br/>Oh, also this is only on this post. <span style="color: darkgoldenrod; font-size: 12px;">(For now)</span></blockquote>
 </div>
 ### Do people really think the world is flat?
 I've seen a lot of people joking about the flat-earthers and sharing memes about the same. But have never met an actual flat-earther.  
@@ -53,9 +53,11 @@ Sources: [University of Melbourne](https://pursuit.unimelb.edu.au/articles/why-d
 
 Alrighty, that was it for this **KD** issue.   
 You know you're reading this on the website, and you could get this sent through the mail as well?  
-
 There's also a special version of Knowledge•Day called the **KD TiLT** which is **only sent to the subscribers**. You don't waana miss that.  
 
 **How to Subscribe?**  
 - [Click here](https://knowledgeday.in/signup/?utm_source=kdweb_issue52&utm_medium=blog_conclusion&utm_campaign=issue52) for a mere 20 second process; or  
 - Send me a message on [Twitter](https://twitter.com/knowledgedaynl?utm_source=kdweb_issue52&utm_medium=blog_conclusion&utm_campaign=issue52)/[Instagram](http://instagram.com/knowledgedaynl?utm_source=kdweb_issue52&utm_medium=blog_conclusion&utm_campaign=issue52)  
+
+<div class="personal-text">
+<blockquote>Hey <span name="reader-fname">there</span>, I'm back. This is a parting message which should also be visible to you. I've updated the code to apply such changes by name attribute and class.</blockquote></div>

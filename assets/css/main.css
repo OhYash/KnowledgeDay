@@ -1257,6 +1257,10 @@ a.newer-posts:hover {
   color: slategray;
 }
 
+.wrap-content .personal-text {
+  display: none;
+}
+
 .header-page {
   text-align: center;
   margin: 10px 0;
