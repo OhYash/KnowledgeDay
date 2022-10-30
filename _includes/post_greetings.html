@@ -4,13 +4,19 @@
 
 		if (urlParams.has('r')) { // r = reader
 			let readerFNameVar = atob(urlParams.get('r')); // base64 decode
-			let readerFNameSpan = document.getElementById('reader-fname');
-			if (readerFNameSpan && readerFNameVar)
-				readerFNameSpan.innerHTML = readerFNameVar;
+			if (readerFNameVar)
+			{
+				let readerFNameList = document.getElementsByName('reader-fname');
+				readerFNameList.forEach(readerelement => {
+					readerelement.innerHTML = readerFNameVar;
+				});
+			}
 
-			let personalParaBlock = document.getElementById('personal-data');
-			if (personalParaBlock)
-				personalParaBlock.style.display = "block";
+			let personalizedBlocks = document.getElementsByClassName("personal-text");
+			Array.from(personalizedBlocks).forEach(
+				function(element, index, array) {
+					element.classList.remove("personal-text");
+				});
 
 			// todo: background: get userId and log it for stats
 		}
