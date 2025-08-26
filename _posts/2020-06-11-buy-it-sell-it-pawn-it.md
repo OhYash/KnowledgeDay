@@ -7,5 +7,5 @@ description: The best of pawn sales at the popular TVC
 img: pawn-stars.jpg
 fig-caption: Pawn Stars
 external-link: https://telegra.ph/Buy-it-Sell-it-Pawn-it-06-11
-tags: [Pawn, Money, History]
+tags: [Money, History, Business]
 ---

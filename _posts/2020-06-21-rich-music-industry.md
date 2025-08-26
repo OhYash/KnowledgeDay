@@ -7,5 +7,5 @@ description: We love music, and wish to have the awesome lifestyle they have. Bu
 img: music-post-hero.jpg
 fig-caption: Music
 external-link: https://telegra.ph/The-rich-music-industry-Or-is-it-06-21
-tags: [Music, Rich, ItsNotWhatItLooksLike]
+tags: [Music, Business]
 ---

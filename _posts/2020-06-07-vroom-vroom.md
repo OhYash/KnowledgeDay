@@ -7,5 +7,5 @@ description: V8 - V12. What do these mean? Why do only expensive cars mention th
 img: vroom-vroom.png
 fig-caption: Vroom Vroom
 external-link: https://telegra.ph/Vroom-Vroom-06-07
-tags: [Cars, Engines, Physics]
+tags: [Cars, Science]
 ---

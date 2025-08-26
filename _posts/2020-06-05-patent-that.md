@@ -7,5 +7,5 @@ description: Life lesson on Patent trolling!
 img: patent-trolling.jpeg
 fig-caption: Patent Trolling
 external-link: https://www.getrevue.co/profile/KnowledgeDay/issues/patent-that-lol-knowledge-day-shots-253203
-tags: [Patent, Trolling, Fraud, Scam]
+tags: [Business, Fraud, Scam]
 ---

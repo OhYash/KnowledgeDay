@@ -7,6 +7,6 @@ description: This is the covid year but we humans have been through worse pandem
 img: covid-reponse.jpg
 fig-caption: Pandemics
 external-link: https://medium.com/@OhYash/the-greatest-pandemics-cf8313c05d60
-tags: [Covid, Spanish flu, Hiv, Pandemic, Quarantine]
+tags: [Covid, Pandemic, Health]
 ---
 

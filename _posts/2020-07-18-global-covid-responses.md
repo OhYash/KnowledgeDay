@@ -7,6 +7,6 @@ description: Different countries handled Covid-19 in different ways. Worked for 
 img: covid-poster.jpg
 fig-caption: Intel vs AMD
 external-link: https://medium.com/@OhYash/best-of-the-global-responses-to-covid-19-8c69b6764f8e
-tags: [Coronavirus, Covid, Pandemic]
+tags: [Covid, Pandemic, Health]
 ---
 
