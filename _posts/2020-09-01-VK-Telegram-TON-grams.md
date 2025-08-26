@@ -6,12 +6,7 @@ title: The best of Russia. VK, Telegram and TON?
 description: Successful social network, successful messaging app, and unsuccessful blockchain. Let's find out what Pavel Durov has best built over the years.
 img: telegram_unsplash.jpg
 fig-caption: Telegram
-tags:
-  - Telegram
-  - Russia
-  - Cryptocurrency
-  - Blockchain
-  - Social Network
+tags: [Technology]
 published: true
 ---
 This issue was planned to be posted today, i.e. 1 Sept. And there’s a reason which I just discovered last week.  

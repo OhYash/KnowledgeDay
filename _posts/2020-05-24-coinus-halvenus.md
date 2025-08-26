@@ -7,5 +7,5 @@ description: Published under The Capital medium publication. My take on Bitcoin 
 img: coinus-halvenus.jpeg
 fig-caption: Bitcoin
 external-link: https://medium.com/the-capital/from-bitcoin-to-mining-to-halving-all-explained-like-were-five-3ca5ba2cef8
-tags: [Bitcoin, Blockchain, Crypto, Cryptocurrency]
+tags: [Technology]
 ---

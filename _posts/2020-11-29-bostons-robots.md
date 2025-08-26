@@ -8,10 +8,7 @@ description: >-
   machines. Why not look at some of the best outputs that they've got.
 img: boston_dynamics_hero.jpg
 fig-caption: Spot by Boston Dynamics
-tags:
-  - Computers
-  - Robots
-  - Science
+tags: [Technology, Science]
 issue: 32
 ---
 Hello there 👋,

@@ -8,10 +8,7 @@ description: >-
   form factors. We look at production phone design changes over the years
 img: phones.jpg
 fig-caption: Phones
-tags:
-  - Computers
-  - Phone
-  - Design
+tags: [Technology]
 issue: 34
 ---
 Hey there,

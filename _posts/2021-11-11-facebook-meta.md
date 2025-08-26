@@ -5,8 +5,7 @@ date: '2021-11-11 15:00:00 +0530'
 title: All about Facebook's transition to Meta in 3 minutes
 img: meta_hero.webp
 fig-caption: KD TiLT
-tags:
-  - Business
+tags: [Technology]
 issue: 48
 description: >-
   Mark Zuckerberg announced renaming the company to Meta last month.

@@ -5,11 +5,7 @@ date: '2021-04-13 15:00:00 +0530'
 title: How the internet was built
 img: internet.jpg
 fig-caption: Picture by NASA
-tags:
-  - Internet
-  - History
-  - Computers
-  - Science
+tags: [Technology]
 issue: 38
 description: >-
   One of the best of our inventions that's growing wide crazily. Let's see how

@@ -5,12 +5,7 @@ date: '2021-06-10 15:00:00 +0530'
 title: Flashback - History and the growth of Bluetooth
 img: bluetooth-hero.jpg
 fig-caption: Mobile wireless networks
-tags:
-  - History
-  - Phone
-  - Bluetooth
-  - Tech
-  - Smartphones
+tags: [Technology]
 issue: 41
 description: >-
   This nifty little wireless tech can stay on battery power for months. You gotta know how this thing developed...

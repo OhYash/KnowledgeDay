@@ -7,5 +7,5 @@ description: The world is very travel worthy and all we need is enough money to 
 img: we-need-money.jpg
 fig-caption: Pocketmoney
 external-link: https://www.getrevue.co/profile/KnowledgeDay/issues/we-need-money-knowledge-day-shots-252559
-tags: [Money, Travel, Bitcoin]
+tags: [Money, Travel]
 ---

@@ -8,10 +8,7 @@ description: >-
   are the caveats?
 img: unicorn_cloud.png
 fig-caption: Unicorns
-tags:
-  - Startup
-  - Investment
-  - Unicorn
+tags: [Technology]
 ---
 # Unicorns
 
