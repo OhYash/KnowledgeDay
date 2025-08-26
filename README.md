@@ -7,6 +7,23 @@ Never miss a post. Subscribe for free on the website - https://KnowledgeDay.in
 
 ## Quick Start
 
+### Clone and Run (Arch Linux)
+```bash
+# Clone the repository
+git clone https://github.com/OhYash/KnowledgeDay.git
+cd KnowledgeDay
+
+# Install dependencies on Arch Linux
+sudo pacman -S ruby base-devel ruby-erb
+gem install bundler jekyll
+
+# Install Ruby dependencies
+bundle install --path vendor/bundle
+
+# Start the development server
+bundle exec jekyll serve
+```
+
 ### Prerequisites
 - Ruby (for Jekyll)
 - Node.js (for Gulp build system)
