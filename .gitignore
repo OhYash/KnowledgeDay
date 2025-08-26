@@ -2,6 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
+.bundle
 yarn.lock
 Gemfile.lock
 package-lock.json
@@ -33,3 +34,4 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+vendor
