@@ -8,12 +8,7 @@ description: >-
   learned, lots to learn.
 img: quarter3.jpg
 fig-caption: A quarter of texts
-tags:
-  - Blog
-  - Story
-  - Quarter
-  - Statistics
-  - Personal
+tags: [Technology]
 ---
 Start of another long week makes me feel weak.  
   

@@ -5,8 +5,7 @@ date: '2021-01-01 15:00:00 +0530'
 title: Happy New Year 2021
 description: 'Not a regular post, this is me wishing you a Happy New Year 2021'
 img: new_year_hero.jpg
-tags:
-  - Personal
+tags: [Business]
 issue: 35
 ---
 Hey there,

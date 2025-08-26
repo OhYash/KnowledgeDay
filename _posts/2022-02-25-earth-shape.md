@@ -5,9 +5,7 @@ date: '2022-02-25 06:00:00 +0530'
 title: What was the perceived shape of the Earth for ancient scientists?
 img: earth-hero.jpg
 fig-caption: Earth shape
-tags:
-  - History
-  - Space
+tags: [Technology]
 issue: 53
 description: >-
   66% American youngsters don't believe that our planet is spherical. See what the scientists in the past believed.

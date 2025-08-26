@@ -5,10 +5,7 @@ date: '2021-07-15 15:00:00 +0530'
 title: Mind your Quotients
 img: mind_qs_hero.jpg
 fig-caption: Quotients
-tags:
-  - Psychology
-  - Intelligence
-  - Pesonality
+tags: [Technology]
 issue: 43
 description: >-
     What makes us human

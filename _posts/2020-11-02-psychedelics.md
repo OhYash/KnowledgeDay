@@ -6,11 +6,7 @@ issue: 30
 title: Drugs guide for the unspoiled
 img: fly-hero.jpg
 fig-caption: delusions
-tags:
-  - Drugs
-  - Cannabis
-  - Marijuana
-  - Hemp
+tags: [Health]
 description: >-
   "Here, brother, I've set this up. Fly as high a you can!", said Mr. Wright to
   his mate as he offered him his freshly prepared flight.

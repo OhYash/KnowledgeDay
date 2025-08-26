@@ -7,11 +7,7 @@ description: >-
   Different people, different needs, different diets. There are more than two and we look at some of the most famous ones.
 img: diet_poster.jpg
 fig-caption: Food!
-tags:
-  - Food
-  - Diet
-  - Fitness
-  - Health
+tags: [Health]
 published: true
 ---
 Your body, Your Diet

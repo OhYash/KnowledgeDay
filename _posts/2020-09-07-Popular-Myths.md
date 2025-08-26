@@ -8,10 +8,7 @@ description: >-
   lives believing and enduring myths and misconceptions. Today, we break some.
 img: bull_fight.png
 fig-caption: BullFighting
-tags:
-  - Myths
-  - Science
-  - Humor
+tags: [Science]
 published: true
 ---
 ## It's a Myth

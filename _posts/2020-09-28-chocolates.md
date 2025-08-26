@@ -9,12 +9,7 @@ description: >-
   toblerone and hear me out!
 img: chocolates.jpg
 fig-caption: Chocolates
-tags:
-  - Food
-  - Chocolate
-  - Health
-  - Lifestyle
-  - Science
+tags: [Health]
 ---
 Hey there,
 

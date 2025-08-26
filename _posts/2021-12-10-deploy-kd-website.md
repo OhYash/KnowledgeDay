@@ -5,12 +5,7 @@ date: '2021-12-10 06:00:00 +0530'
 title: Your own version of Knowledge•Day
 img: fifty_hero.jpg
 fig-caption: 50th issue
-tags:
-  - Tutorial
-  - Blog
-  - Personal
-  - Story
-  - Tech
+tags: [Technology]
 issue: 50
 description: >-
   The 50th issue! Such a special moment! I waana give you all of my website to play with.

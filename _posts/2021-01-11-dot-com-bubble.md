@@ -7,11 +7,7 @@ description: >-
   Theres always some sort of trend bubble expanding. Ready to explode at once.
   One such popular bubble is of the dot com in 1990s. Lets read about that
 img: dotcom-bubble-hero.jpg
-tags:
-  - History
-  - Bubble
-  - Economy
-  - Finance
+tags: [Business, History]
 issue: 36
 fig-caption: Dot-com Bubble
 ---

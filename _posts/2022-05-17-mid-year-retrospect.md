@@ -5,13 +5,7 @@ date: '2022-05-17 06:00:00 +0530'
 title: The second KD anniversary (and mid year retrospect)
 img: anniversary.jpg
 fig-caption: Chillin'
-tags:
-  - Blog
-  - Story
-  - Anniversary
-  - Statistics
-  - Personal
-  - Growth
+tags: [Business]
 issue: 54
 description: >-
   This newsletter has been silent for a while. I break the ice after a while. Also this is a checkpoint where I relook at my plan that I created at the start of this year.

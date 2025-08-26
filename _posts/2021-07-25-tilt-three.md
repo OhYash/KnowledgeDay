@@ -5,13 +5,7 @@ date: '2021-07-25 15:00:00 +0530'
 title: KD TiLT 3 - Super expensive travel
 img: kd_tilt.png
 fig-caption: KD TiLT
-tags:
-  - Links
-  - Aggregation
-  - TiLT
-  - Life
-  - Tech
-  - Youtube
+tags: [Productivity]
 issue: 44
 description: >-
   KD TiLT, where each issue grows your knowledge 5x. This is the third episode.

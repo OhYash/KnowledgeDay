@@ -5,10 +5,7 @@ date: '2022-01-10 06:00:00 +0530'
 title: Plan out your year ahead with these 5 pillars
 img: new_year_hero.jpg
 fig-caption: 52nd issue
-tags:
-  - Psychology
-  - Personal
-  - Growth
+tags: [Productivity]
 issue: 52
 description: >-
   Don't spend another year doing the same shit!

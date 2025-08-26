@@ -8,9 +8,7 @@ description: >-
   planet. Today we shed lights on some of the horrifying ones.
 img: imprisoned_tiger_cub.jpg
 fig-caption: Imprisoned tiger cub
-tags:
-  - Animals
-  - Death
+tags: [Health]
 published: true
 ---
 ## Some horrible acts of animal cruelty

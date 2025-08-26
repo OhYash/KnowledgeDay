@@ -8,13 +8,7 @@ description: >-
   itself isnt. Find out...
 img: rocket_launch.jpg
 fig-caption: Rocket Science
-tags:
-  - Rocket
-  - Science
-  - Physics
-  - Space
-  - NASA
-  - DIY
+tags: [Science]
 published: true
 ---
 Howdy? I hear California is on fire! More than 3% of the state’s roughly 100 million acres of land, making 2020 **also** the largest wildfire season. (Remember, the Australian fires happened this year itself). Nature is doing it’s best to clean up this set of species of the earth, to pave way for the next life.  

@@ -8,13 +8,7 @@ description: >-
   landed on the moon. But what's the farthest We've gone?
 img: Voyager.jpg
 fig-caption: Voyager
-tags:
-  - Rocket
-  - Science
-  - Voyager
-  - Interstellar
-  - Space
-  - NASA
+tags: [Science]
 title: Bon Voyage - Interstellar travel with Voyagers
 ---
 Hey there,

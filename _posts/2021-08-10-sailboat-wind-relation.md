@@ -5,10 +5,7 @@ date: '2021-08-12 15:00:00 +0530'
 title: Can sailboats sail faster than wind they rely on? Let's find out
 img: sailboat_hero.jpg
 fig-caption: Sailboats
-tags:
-  - Science
-  - Physics
-  - Race
+tags: [Science]
 issue: 45
 description: >-
     Sailboats are fundamentally very simple boats which are driven through wind only. Or are they?

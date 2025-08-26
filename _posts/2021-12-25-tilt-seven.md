@@ -5,15 +5,7 @@ date: '2021-12-25 15:00:00 +0530'
 title: KD TiLT 7 - Life, Addiction, Fitness, and Blender
 img: kd_tilt.png
 fig-caption: KD TiLT
-tags:
-  - Links
-  - Aggregation
-  - TiLT
-  - Fitness
-  - Psychology
-  - Tech
-  - Space
-  - Youtube
+tags: [Productivity]
 issue: 51
 description: >-
   Fitness to James Webb Telescope to Blender 3.0. This one is packed with stories for everyone's tastes.
